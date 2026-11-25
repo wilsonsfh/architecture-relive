@@ -1,0 +1,461 @@
+{
+  "generated_at": "2026-11-25T15:41:00.855Z",
+  "glossary": {
+    "nave": {
+      "term": "Nave",
+      "definition": "The long central space of a church, running from the entrance toward the altar. It is where the congregation stands."
+    },
+    "pointed-arch": {
+      "term": "Pointed arch",
+      "definition": "An arch of two curves meeting at a point. It sends its load down more steeply than a round arch, so builders could go taller and make arches of different widths reach the same height."
+    },
+    "rib-vault": {
+      "term": "Rib vault",
+      "definition": "A stone ceiling built on a frame of crossing arched ribs. The ribs gather the weight onto a few points, so the panels between them can be thinner and lighter."
+    },
+    "flying-buttress": {
+      "term": "Flying buttress",
+      "definition": "An arched prop outside the building. It carries the outward push of the high vault over the side aisles to a heavy outer pier, so the upper walls no longer need to be thick."
+    },
+    "triforium": {
+      "term": "Triforium",
+      "definition": "A narrow arcaded band in the wall, above the main arches and below the upper windows."
+    },
+    "clerestory": {
+      "term": "Clerestory",
+      "definition": "The upper level of the nave wall, filled with windows that light the middle of the church."
+    },
+    "rose-window": {
+      "term": "Rose window",
+      "definition": "A large circular window divided by stone tracery into radiating sections, often filled with stained glass."
+    },
+    "twin-spires": {
+      "term": "Twin spires",
+      "definition": "A pair of towers with spires framing the main west entrance. It is a common way to give a Gothic façade height and symmetry."
+    }
+  },
+  "buildings": [
+    {
+      "id": "chartres",
+      "name": "Notre-Dame de Chartres",
+      "city": "Chartres, France",
+      "tagline": "Built in about 26 years, and its glass mostly survived.",
+      "verified": {
+        "status": "VERIFIED",
+        "qid": "Q180274",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q180274",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Chartres_Cathedral",
+        "coordinates": {
+          "lat": 48.44777777777778,
+          "lon": 1.4877777777777776
+        },
+        "country": "France",
+        "styles": [
+          "classic gothic"
+        ],
+        "inception": "+1145-00-00T00:00:00Z",
+        "retrieved_at": "2026-11-25T14:03:52.496Z"
+      },
+      "construction": {
+        "status": "VERIFIED",
+        "quote": "it was mostly constructed between 1194 and 1220",
+        "source": "https://en.wikipedia.org/wiki/Chartres_Cathedral"
+      },
+      "image": {
+        "local": "/img/chartres.jpg",
+        "commons_file": "Westfassade Chartres.jpg",
+        "commons_page": "https://commons.wikimedia.org/wiki/File:Westfassade_Chartres.jpg",
+        "license": "Public domain",
+        "license_url": null,
+        "author": "BT",
+        "status": "VERIFIED"
+      },
+      "attested_features": [
+        {
+          "feature": "flying-buttress",
+          "quote": "The building's exterior is dominated by heavy flying buttresses which allowed the architects to increase the window size significantly",
+          "status": "VERIFIED",
+          "source": "https://en.wikipedia.org/wiki/Chartres_Cathedral"
+        },
+        {
+          "feature": "clerestory",
+          "quote": "the majority of the original stained glass windows survive intact",
+          "status": "VERIFIED",
+          "source": "https://en.wikipedia.org/wiki/Chartres_Cathedral"
+        }
+      ],
+      "scenes": [
+        {
+          "year": "4th century",
+          "title": "A site older than its stones",
+          "caption": "At least five cathedrals have stood on this spot since the diocese was founded. The building you see is the latest layer.",
+          "plate": "layers",
+          "quote": "It stands on the site of at least five cathedrals that have occupied the site since the Diocese of Chartres was formed as an episcopal see in the 4th century.",
+          "caption_status": "CURATED",
+          "plate_status": "ILLUSTRATIVE",
+          "source": "https://en.wikipedia.org/wiki/Chartres_Cathedral"
+        },
+        {
+          "year": "Below ground",
+          "title": "Gothic on Romanesque foundations",
+          "caption": "The Gothic church rises from earlier Romanesque basements. One style is literally built on top of the other.",
+          "plate": "arch-shift",
+          "quote": "It was built above earlier Romanesque basements",
+          "caption_status": "CURATED",
+          "plate_status": "ILLUSTRATIVE",
+          "source": "https://en.wikipedia.org/wiki/Chartres_Cathedral"
+        },
+        {
+          "year": "1194 to 1220",
+          "title": "A cathedral in a generation",
+          "caption": "Most of the cathedral went up in about 26 years. That speed is one reason it has such a consistent style.",
+          "plate": "rise",
+          "quote": "it was mostly constructed between 1194 and 1220",
+          "caption_status": "CURATED",
+          "plate_status": "ILLUSTRATIVE",
+          "source": "https://en.wikipedia.org/wiki/Chartres_Cathedral"
+        },
+        {
+          "year": "The trick",
+          "title": "Props outside, light inside",
+          "caption": "Heavy flying buttresses carry the vault's push outside the walls. That freed the walls to hold much bigger windows.",
+          "plate": "buttress",
+          "quote": "The building's exterior is dominated by heavy flying buttresses which allowed the architects to increase the window size significantly",
+          "caption_status": "CURATED",
+          "plate_status": "ILLUSTRATIVE",
+          "source": "https://en.wikipedia.org/wiki/Chartres_Cathedral"
+        },
+        {
+          "year": "Still here",
+          "title": "The original glass",
+          "caption": "Most of the original stained glass windows survive intact, which is rare for a building this old.",
+          "plate": "glass",
+          "quote": "the majority of the original stained glass windows survive intact",
+          "caption_status": "CURATED",
+          "plate_status": "ILLUSTRATIVE",
+          "source": "https://en.wikipedia.org/wiki/Chartres_Cathedral"
+        },
+        {
+          "year": "Since the 1100s",
+          "title": "A destination for travellers",
+          "caption": "People have travelled here for at least 850 years, first as pilgrims, and now as visitors too.",
+          "plate": "pilgrims",
+          "quote": "Since at least the 12th century the cathedral has been an important destination for travellers.",
+          "caption_status": "CURATED",
+          "plate_status": "ILLUSTRATIVE",
+          "source": "https://en.wikipedia.org/wiki/Chartres_Cathedral"
+        }
+      ]
+    },
+    {
+      "id": "notre-dame-paris",
+      "name": "Notre-Dame de Paris",
+      "city": "Paris, France",
+      "tagline": "Where Gothic's signature parts were pioneered, and rebuilt more than once.",
+      "verified": {
+        "status": "VERIFIED",
+        "qid": "Q2981",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q2981",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris",
+        "coordinates": {
+          "lat": 48.853,
+          "lon": 2.3498
+        },
+        "country": "France",
+        "styles": [
+          "French Gothic architecture",
+          "Early Gothic architecture",
+          "Rayonnant",
+          "classic gothic"
+        ],
+        "inception": "+1163-00-00T00:00:00Z",
+        "retrieved_at": "2026-11-25T14:03:52.496Z"
+      },
+      "construction": {
+        "status": "VERIFIED",
+        "quote": "The construction of the cathedral began in 1163 under Bishop Maurice de Sully and was largely completed by 1260",
+        "source": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris"
+      },
+      "image": {
+        "local": "/img/notre-dame-paris.jpg",
+        "commons_file": "Notre-Dame de Paris 2013-07-24.jpg",
+        "commons_page": "https://commons.wikimedia.org/wiki/File:Notre-Dame_de_Paris_2013-07-24.jpg",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "author": "P e z i",
+        "status": "VERIFIED"
+      },
+      "attested_features": [
+        {
+          "feature": "rib-vault",
+          "quote": "its pioneering use of the rib vault and flying buttress",
+          "status": "VERIFIED",
+          "source": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris"
+        },
+        {
+          "feature": "flying-buttress",
+          "quote": "its pioneering use of the rib vault and flying buttress",
+          "status": "VERIFIED",
+          "source": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris"
+        },
+        {
+          "feature": "rose-window",
+          "quote": "its enormous and colourful rose windows",
+          "status": "VERIFIED",
+          "source": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris"
+        }
+      ],
+      "scenes": [
+        {
+          "year": "1163",
+          "title": "A bishop starts building",
+          "caption": "Construction began under Bishop Maurice de Sully and was largely finished about a century later.",
+          "plate": "rise",
+          "quote": "The construction of the cathedral began in 1163 under Bishop Maurice de Sully and was largely completed by 1260",
+          "caption_status": "CURATED",
+          "plate_status": "ILLUSTRATIVE",
+          "source": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris"
+        },
+        {
+          "year": "The break",
+          "title": "Leaving Romanesque behind",
+          "caption": "Rib vaults and flying buttresses set it apart from the earlier Romanesque style, along with its huge rose windows.",
+          "plate": "arch-shift",
+          "quote": "its pioneering use of the rib vault and flying buttress",
+          "caption_status": "CURATED",
+          "plate_status": "ILLUSTRATIVE",
+          "source": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris"
+        },
+        {
+          "year": "1790s",
+          "title": "Revolution",
+          "caption": "During the French Revolution, much of its religious imagery was damaged or destroyed.",
+          "plate": "fracture",
+          "quote": "In the 1790s, during the French Revolution, Notre-Dame suffered extensive desecration",
+          "caption_status": "CURATED",
+          "plate_status": "ILLUSTRATIVE",
+          "source": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris"
+        },
+        {
+          "year": "1831 to 1864",
+          "title": "A novel saves a building",
+          "caption": "Victor Hugo's novel revived public interest, which led to a restoration led by Viollet-le-Duc.",
+          "plate": "book",
+          "quote": "The 1831 publication of Victor Hugo's novel Notre-Dame de Paris (English title: The Hunchback of Notre-Dame) inspired interest which led to restoration between 1844 and 1864, supervised by Eugène Viollet-le-Duc.",
+          "caption_status": "CURATED",
+          "plate_status": "ILLUSTRATIVE",
+          "source": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris"
+        },
+        {
+          "year": "2019 to 2024",
+          "title": "Fire, then reopening",
+          "caption": "A fire in April 2019 caused serious damage. After extensive repairs, the cathedral reopened in December 2024.",
+          "plate": "restoration",
+          "quote": "A fire in April 2019 caused serious damage, closing the cathedral for extensive and costly repairs; it reopened in December 2024.",
+          "caption_status": "CURATED",
+          "plate_status": "ILLUSTRATIVE",
+          "source": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris"
+        }
+      ]
+    },
+    {
+      "id": "cologne",
+      "name": "Cologne Cathedral",
+      "city": "Cologne, Germany",
+      "tagline": "A medieval plan that took more than 600 years to finish.",
+      "verified": {
+        "status": "VERIFIED",
+        "qid": "Q4176",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q4176",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Cologne_Cathedral",
+        "coordinates": {
+          "lat": 50.94138888888889,
+          "lon": 6.958333333333333
+        },
+        "country": "Germany",
+        "styles": [
+          "Gothic architecture"
+        ],
+        "inception": "+1248-00-00T00:00:00Z",
+        "retrieved_at": "2026-11-25T14:03:52.496Z"
+      },
+      "construction": {
+        "status": "VERIFIED",
+        "quote": "Construction of Cologne Cathedral began in 1248",
+        "source": "https://en.wikipedia.org/wiki/Cologne_Cathedral"
+      },
+      "image": {
+        "local": "/img/cologne.jpg",
+        "commons_file": "Kölner Dom von Osten.jpg",
+        "commons_page": "https://commons.wikimedia.org/wiki/File:K%C3%B6lner_Dom_von_Osten.jpg",
+        "license": "CC BY-SA 3.0 de",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+        "author": "Thomas Wolf, www.foto-tw.de",
+        "status": "VERIFIED"
+      },
+      "attested_features": [
+        {
+          "feature": "twin-spires",
+          "quote": "The towers for its two huge spires give the cathedral the largest façade of any church in the world.",
+          "status": "VERIFIED",
+          "source": "https://en.wikipedia.org/wiki/Cologne_Cathedral"
+        }
+      ],
+      "scenes": [
+        {
+          "year": "1248",
+          "title": "A home for the Three Kings",
+          "caption": "The builders planned a grand structure to hold the reliquary of the Three Kings.",
+          "plate": "rise",
+          "quote": "Cologne's medieval builders had planned a grand structure to house the reliquary of the Three Kings",
+          "caption_status": "CURATED",
+          "plate_status": "ILLUSTRATIVE",
+          "source": "https://en.wikipedia.org/wiki/Cologne_Cathedral"
+        },
+        {
+          "year": "Around 1560",
+          "title": "Work stops",
+          "caption": "Construction halted in the years around 1560 and stayed unfinished for centuries.",
+          "plate": "gap",
+          "quote": "Construction of Cologne Cathedral began in 1248, but was halted in the years around 1560.",
+          "caption_status": "CURATED",
+          "plate_status": "ILLUSTRATIVE",
+          "source": "https://en.wikipedia.org/wiki/Cologne_Cathedral"
+        },
+        {
+          "year": "1814 to 1840s",
+          "title": "A revival picks it up again",
+          "caption": "Efforts to finish it began around 1814, but proper funding only came in the 1840s.",
+          "plate": "book",
+          "quote": "Attempts to complete construction began around 1814, but the project was not properly funded until the 1840s.",
+          "caption_status": "CURATED",
+          "plate_status": "ILLUSTRATIVE",
+          "source": "https://en.wikipedia.org/wiki/Cologne_Cathedral"
+        },
+        {
+          "year": "1880",
+          "title": "Finished to the medieval plan",
+          "caption": "It was completed in 1880, following the original medieval design.",
+          "plate": "spires",
+          "quote": "The edifice was completed to its original medieval plan in 1880.",
+          "caption_status": "CURATED",
+          "plate_status": "ILLUSTRATIVE",
+          "source": "https://en.wikipedia.org/wiki/Cologne_Cathedral"
+        },
+        {
+          "year": "Today",
+          "title": "157 metres of Gothic",
+          "caption": "It is the tallest twin-spired church in the world.",
+          "plate": "spires",
+          "quote": "At 157 m (515 ft), the cathedral is the tallest twin-spired church in the world",
+          "caption_status": "CURATED",
+          "plate_status": "ILLUSTRATIVE",
+          "source": "https://en.wikipedia.org/wiki/Cologne_Cathedral"
+        }
+      ]
+    },
+    {
+      "id": "amiens",
+      "name": "Notre-Dame d'Amiens",
+      "city": "Amiens, France",
+      "tagline": "Built to reach for the heavens and let in light.",
+      "verified": {
+        "status": "VERIFIED",
+        "qid": "Q106934",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q106934",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Amiens_Cathedral",
+        "coordinates": {
+          "lat": 49.89457,
+          "lon": 2.3021
+        },
+        "country": "France",
+        "styles": [
+          "classic gothic",
+          "Gothic architecture"
+        ],
+        "inception": "+1220-00-00T00:00:00Z",
+        "retrieved_at": "2026-11-25T14:03:52.496Z"
+      },
+      "construction": {
+        "status": "VERIFIED",
+        "quote": "The cathedral was built almost entirely between 1220 and c. 1270",
+        "source": "https://en.wikipedia.org/wiki/Amiens_Cathedral"
+      },
+      "image": {
+        "local": "/img/amiens.jpg",
+        "commons_file": "0 Amiens - Cathédrale Notre-Dame (1).JPG",
+        "commons_page": "https://commons.wikimedia.org/wiki/File:0_Amiens_-_Cath%C3%A9drale_Notre-Dame_(1).JPG",
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "author": "Jean-Pol GRANDMONT",
+        "status": "VERIFIED"
+      },
+      "attested_features": [
+        {
+          "feature": "triforium",
+          "quote": "The Rayonnant appeared in the triforium and clerestory, which were begun in 1236",
+          "status": "VERIFIED",
+          "source": "https://en.wikipedia.org/wiki/Amiens_Cathedral"
+        },
+        {
+          "feature": "clerestory",
+          "quote": "The Rayonnant appeared in the triforium and clerestory, which were begun in 1236",
+          "status": "VERIFIED",
+          "source": "https://en.wikipedia.org/wiki/Amiens_Cathedral"
+        }
+      ],
+      "scenes": [
+        {
+          "year": "1220 to c. 1270",
+          "title": "Fifty years, one style",
+          "caption": "Built in a short span for a Gothic cathedral, which gives it an unusually unified style.",
+          "plate": "rise",
+          "quote": "The cathedral was built almost entirely between 1220 and c. 1270, a remarkably short period of time for a Gothic cathedral, giving it an unusual unity of style.",
+          "caption_status": "CURATED",
+          "plate_status": "ILLUSTRATIVE",
+          "source": "https://en.wikipedia.org/wiki/Amiens_Cathedral"
+        },
+        {
+          "year": "1236",
+          "title": "Rayonnant arrives",
+          "caption": "The new Rayonnant style appears in the triforium and clerestory, the upper levels of the wall.",
+          "plate": "glass",
+          "quote": "The Rayonnant appeared in the triforium and clerestory, which were begun in 1236",
+          "caption_status": "CURATED",
+          "plate_status": "ILLUSTRATIVE",
+          "source": "https://en.wikipedia.org/wiki/Amiens_Cathedral"
+        },
+        {
+          "year": "The aim",
+          "title": "Height and light",
+          "caption": "The builders pushed the inside as large as they could, to reach upward and bring in more light.",
+          "plate": "buttress",
+          "quote": "Its builders were trying to maximize the internal dimensions in order to reach for the heavens and bring in more light.",
+          "caption_status": "CURATED",
+          "plate_status": "ILLUSTRATIVE",
+          "source": "https://en.wikipedia.org/wiki/Amiens_Cathedral"
+        },
+        {
+          "year": "The result",
+          "title": "Twice Notre-Dame",
+          "caption": "It is the largest cathedral by volume in France, more than double Notre-Dame de Paris.",
+          "plate": "volume",
+          "quote": "Amiens Cathedral is the largest by volume in France, 200,000 cubic metres (260,000 cu yd), more than double the volume of Notre Dame of Paris.",
+          "caption_status": "CURATED",
+          "plate_status": "ILLUSTRATIVE",
+          "source": "https://en.wikipedia.org/wiki/Amiens_Cathedral"
+        },
+        {
+          "year": "West façade",
+          "title": "Stone that tells stories",
+          "caption": "It is known for the quality and quantity of its early 13th-century Gothic sculpture.",
+          "plate": "pilgrims",
+          "quote": "Amiens Cathedral is renowned for the quality and quantity of early 13th-century Gothic sculpture in the main west façade",
+          "caption_status": "CURATED",
+          "plate_status": "ILLUSTRATIVE",
+          "source": "https://en.wikipedia.org/wiki/Amiens_Cathedral"
+        }
+      ]
+    }
+  ]
+}

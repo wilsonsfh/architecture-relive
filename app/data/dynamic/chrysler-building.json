@@ -1,0 +1,162 @@
+{
+ "id": "chrysler-building",
+ "name": "Chrysler Building",
+ "city": "Manhattan, United States",
+ "tagline": "Office skyscraper in Manhattan, New York.",
+ "origin": "resolver",
+ "story_status": "EXTRACTED",
+ "model": null,
+ "gothic": false,
+ "verified": {
+  "status": "VERIFIED",
+  "qid": "Q11274",
+  "wikidata_url": "https://www.wikidata.org/wiki/Q11274",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Chrysler_Building",
+  "coordinates": {
+   "lat": 40.751430555556,
+   "lon": -73.975719444444
+  },
+  "country": "United States",
+  "styles": [
+   "Art Deco"
+  ],
+  "instance_of": [
+   "skyscraper"
+  ],
+  "inception": "+1930-05-27T00:00:00Z",
+  "retrieved_at": "2026-11-25T14:30:06.984Z"
+ },
+ "construction": {
+  "status": "VERIFIED",
+  "quote": "An annex was completed in 1952, and the building was sold by the Chrysler family the next year, with numerous subsequent owners.",
+  "source": "https://en.wikipedia.org/wiki/Chrysler_Building"
+ },
+ "image": {
+  "local": "/cache/chrysler-building-0.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Chrysler_Building_Midtown_Manhattan_New_York_City_1932.jpg",
+  "license": "Public domain",
+  "license_url": null,
+  "author": "Samuel Gottscho",
+  "status": "VERIFIED",
+  "file": "Chrysler Building Midtown Manhattan New York City 1932.jpg"
+ },
+ "photos": [
+  {
+   "local": "/cache/chrysler-building-0.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Chrysler_Building_Midtown_Manhattan_New_York_City_1932.jpg",
+   "license": "Public domain",
+   "license_url": null,
+   "author": "Samuel Gottscho",
+   "status": "VERIFIED",
+   "file": "Chrysler Building Midtown Manhattan New York City 1932.jpg"
+  },
+  {
+   "local": "/cache/chrysler-building-1.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Chrysler_elevator.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Dogears",
+   "status": "VERIFIED",
+   "file": "Chrysler elevator.jpg"
+  },
+  {
+   "local": "/cache/chrysler-building-2.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:HistoricPlacesNationalRegisterPlaque.JPG",
+   "license": "Public domain",
+   "license_url": null,
+   "author": "Jonathunder",
+   "status": "VERIFIED",
+   "file": "HistoricPlacesNationalRegisterPlaque.JPG"
+  },
+  {
+   "local": "/cache/chrysler-building-3.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Image-Grand_central_Station_Outside_Night_2.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "Fcb981 ; Eric Baetscher (attribution required)",
+   "status": "VERIFIED",
+   "file": "Image-Grand central Station Outside Night 2.jpg"
+  },
+  {
+   "local": "/cache/chrysler-building-4.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Chrysler_Building_2005_4.jpg",
+   "license": "Public domain",
+   "license_url": null,
+   "author": "Misterweiss at English Wikipedia",
+   "status": "VERIFIED",
+   "file": "Chrysler Building 2005 4.jpg"
+  },
+  {
+   "local": "/cache/chrysler-building-5.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Chrysler_building_interior_2.JPG",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Dorff",
+   "status": "VERIFIED",
+   "file": "Chrysler building interior 2.JPG"
+  }
+ ],
+ "attested_features": [],
+ "scenes": [
+  {
+   "year": "319 ",
+   "title": "Overview",
+   "caption": "The Chrysler Building is a 1,046-foot-tall (319 m), Art Deco-style supertall skyscraper in the East Midtown neighborhood of Manhattan, New York City, United States.",
+   "quote": "The Chrysler Building is a 1,046-foot-tall (319 m), Art Deco-style supertall skyscraper in the East Midtown neighborhood of Manhattan, New York City, United States.",
+   "plate": "rise",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Chrysler_Building"
+  },
+  {
+   "year": "1930",
+   "title": "Overview",
+   "caption": "It was both the world's first supertall skyscraper and the world's tallest building for 11 months after its completion in 1930.",
+   "quote": "It was both the world's first supertall skyscraper and the world's tallest building for 11 months after its completion in 1930.",
+   "plate": "arch-shift",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Chrysler_Building"
+  },
+  {
+   "year": "1934 ",
+   "title": "Overview",
+   "caption": "The Chrysler Building was designed and funded by Walter Chrysler personally as a real estate investment for his children, but it was not intended as the Chrysler Corporation's headquarters (which was located in Detroit at the Highland Park Chrysler Plant from 1934 to 1996).",
+   "quote": "The Chrysler Building was designed and funded by Walter Chrysler personally as a real estate investment for his children, but it was not intended as the Chrysler Corporation's headquarters (which was located in Detroit at the Highland Park Chrysler Plant from 1934 to 1996).",
+   "plate": "volume",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Chrysler_Building"
+  },
+  {
+   "year": "1952",
+   "title": "Overview",
+   "caption": "An annex was completed in 1952, and the building was sold by the Chrysler family the next year, with numerous subsequent owners.",
+   "quote": "An annex was completed in 1952, and the building was sold by the Chrysler family the next year, with numerous subsequent owners.",
+   "plate": "layers",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Chrysler_Building"
+  },
+  {
+   "year": "2007",
+   "title": "Overview",
+   "caption": "In 2007, it was ranked ninth on the American Institute of Architects' list of America's Favorite Architecture.",
+   "quote": "In 2007, it was ranked ninth on the American Institute of Architects' list of America's Favorite Architecture.",
+   "plate": "rise",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Chrysler_Building"
+  },
+  {
+   "year": "2019",
+   "title": "Overview",
+   "caption": "As of 2019, the Chrysler is the 13th-tallest building in the city, tied with The New York Times Building.",
+   "quote": "As of 2019, the Chrysler is the 13th-tallest building in the city, tied with The New York Times Building.",
+   "plate": "arch-shift",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Chrysler_Building"
+  }
+ ]
+}

@@ -1,0 +1,162 @@
+{
+ "id": "peles-castle",
+ "name": "Peleș Castle",
+ "city": "Sinaia, Romania",
+ "tagline": "Neo-Renaissance castle in Sinaia, Romania.",
+ "origin": "resolver",
+ "story_status": "EXTRACTED",
+ "model": null,
+ "gothic": false,
+ "verified": {
+  "status": "VERIFIED",
+  "qid": "Q917702",
+  "wikidata_url": "https://www.wikidata.org/wiki/Q917702",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Pele%C8%99_Castle",
+  "coordinates": {
+   "lat": 45.359722222222,
+   "lon": 25.542777777778
+  },
+  "country": "Romania",
+  "styles": [
+   "Renaissance Revival architecture"
+  ],
+  "instance_of": [
+   "palace"
+  ],
+  "inception": "+1873-00-00T00:00:00Z",
+  "retrieved_at": "2026-11-25T14:31:21.426Z"
+ },
+ "construction": {
+  "status": "VERIFIED",
+  "quote": "Peleș Castle (Romanian: Castelul Peleș pronounced [kaˈstelul ˈpeleʃ] ) is a Neo-Renaissance palace in the Royal Domain of Sinaia in the Carpathian Mountains, near Sinaia, in Prahova County, Romania, on an existing medieval route linking Transylvania and Wallachia, built between 1873 and 1914.",
+  "source": "https://en.wikipedia.org/wiki/Pele%C8%99_Castle"
+ },
+ "image": {
+  "local": "/cache/peles-castle-0.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:01_Chateau_Peles.jpg",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "Myrabella",
+  "status": "VERIFIED",
+  "file": "01 Chateau Peles.jpg"
+ },
+ "photos": [
+  {
+   "local": "/cache/peles-castle-0.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:01_Chateau_Peles.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Myrabella",
+   "status": "VERIFIED",
+   "file": "01 Chateau Peles.jpg"
+  },
+  {
+   "local": "/cache/peles-castle-1.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Camil_Iamandescu-Castelul_Peles.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Camil72",
+   "status": "VERIFIED",
+   "file": "Camil Iamandescu-Castelul Peles.jpg"
+  },
+  {
+   "local": "/cache/peles-castle-2.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Inside_of_a_castle_-_panoramio_(31).jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Photopro Pro",
+   "status": "VERIFIED",
+   "file": "Inside of a castle - panoramio (31).jpg"
+  },
+  {
+   "local": "/cache/peles-castle-3.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Castelul_Pele%C8%99_din_Sinaia_02.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Nicubunu",
+   "status": "VERIFIED",
+   "file": "Castelul Peleș din Sinaia 02.jpg"
+  },
+  {
+   "local": "/cache/peles-castle-4.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Castle_of_Hunedoara_2019_01.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Pasztilla aka Attila Terbócs",
+   "status": "VERIFIED",
+   "file": "Castle of Hunedoara 2019 01.jpg"
+  },
+  {
+   "local": "/cache/peles-castle-5.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Sinaia_-_Pele%C8%99_Castle_with_snow_in_January_2021.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Daniele Napolitano",
+   "status": "VERIFIED",
+   "file": "Sinaia - Peleș Castle with snow in January 2021.jpg"
+  }
+ ],
+ "attested_features": [],
+ "scenes": [
+  {
+   "year": "124 ",
+   "title": "Location",
+   "caption": "The complex is northwest of the town of Sinaia, which is 48 kilometres (30 mi) from Brașov and 124 kilometres (77 mi) from Bucharest.",
+   "quote": "The complex is northwest of the town of Sinaia, which is 48 kilometres (30 mi) from Brașov and 124 kilometres (77 mi) from Bucharest.",
+   "plate": "rise",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Pele%C8%99_Castle"
+  },
+  {
+   "year": "1839",
+   "title": "History",
+   "caption": "When King Carol I of Romania (1839–1914), under whose reign the country gained its independence, first visited the site of the future castle in 1866, he fell in love with the magnificent mountain scenery.",
+   "quote": "When King Carol I of Romania (1839–1914), under whose reign the country gained its independence, first visited the site of the future castle in 1866, he fell in love with the magnificent mountain scenery.",
+   "plate": "arch-shift",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Pele%C8%99_Castle"
+  },
+  {
+   "year": "1873 ",
+   "title": "Overview",
+   "caption": "Peleș Castle (Romanian: Castelul Peleș pronounced [kaˈstelul ˈpeleʃ] ) is a Neo-Renaissance palace in the Royal Domain of Sinaia in the Carpathian Mountains, near Sinaia, in Prahova County, Romania, on an existing medieval route linking Transylvania and Wallachia, built between 1873 and 1914.",
+   "quote": "Peleș Castle (Romanian: Castelul Peleș pronounced [kaˈstelul ˈpeleʃ] ) is a Neo-Renaissance palace in the Royal Domain of Sinaia in the Carpathian Mountains, near Sinaia, in Prahova County, Romania, on an existing medieval route linking Transylvania and Wallachia, built between 1873 and 1914.",
+   "plate": "wall",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Pele%C8%99_Castle"
+  },
+  {
+   "year": "1873",
+   "title": "History",
+   "caption": "The King commissioned the construction of a royal hunting preserve and summer retreat on the property, and the foundation was laid for Peleș Castle on 22 August 1873.",
+   "quote": "The King commissioned the construction of a royal hunting preserve and summer retreat on the property, and the foundation was laid for Peleș Castle on 22 August 1873.",
+   "plate": "layers",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Pele%C8%99_Castle"
+  },
+  {
+   "year": "1889",
+   "title": "History",
+   "caption": "Liman would supervise the building of the nearby Pelișor Castle (1889–1903, the future residence of King Ferdinand I and Queen Marie of Romania), as well as of King Ferdinand's villa in the Royal Sheepfold Meadow.",
+   "quote": "Liman would supervise the building of the nearby Pelișor Castle (1889–1903, the future residence of King Ferdinand I and Queen Marie of Romania), as well as of King Ferdinand's villa in the Royal Sheepfold Meadow.",
+   "plate": "rise",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Pele%C8%99_Castle"
+  },
+  {
+   "year": "1893 ",
+   "title": "History",
+   "caption": "Later additions were made between 1893 and 1914 by the Czech architect Karel Liman, who designed the towers, including the main central tower, which is 66 metres (217 ft) in height.",
+   "quote": "Later additions were made between 1893 and 1914 by the Czech architect Karel Liman, who designed the towers, including the main central tower, which is 66 metres (217 ft) in height.",
+   "plate": "spires",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Pele%C8%99_Castle"
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+[
+ {
+  "local": "/cache/colosseum-s0.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Colosseum_in_Rome-April_2007-1-_copie_2B.jpg",
+  "license": "CC BY-SA 2.5",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+  "author": "Diliff",
+  "file": "Colosseum in Rome-April 2007-1- copie 2B.jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ {
+  "local": "/cache/colosseum-s1.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Colosseum_-_Rome_-_Italy_(16800139540).jpg",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "author": "Sam valadi",
+  "file": "Colosseum - Rome - Italy (16800139540).jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ {
+  "local": "/cache/colosseum-s2.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Colosseum_in_Rome,_Italy_-_April_2007.jpg",
+  "license": "CC BY-SA 2.5",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+  "author": "Diliff",
+  "file": "Colosseum in Rome, Italy - April 2007.jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ {
+  "local": "/cache/colosseum-s3.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Rome_Colosseum_001.jpg",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "author": "Wilfredor",
+  "file": "Rome Colosseum 001.jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ {
+  "local": "/cache/colosseum-s4.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Cross_Colosseum_Rome_Italy.jpg",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "author": "Jebulon",
+  "file": "Cross Colosseum Rome Italy.jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ {
+  "local": "/cache/colosseum-s5.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Colosseum_of_Rome,_Italy.jpg",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "author": "Wilfredor",
+  "file": "Colosseum of Rome, Italy.jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ }
+]

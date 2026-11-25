@@ -1,0 +1,165 @@
+{
+ "id": "taj-mahal",
+ "name": "Taj Mahal",
+ "city": "Agra, India",
+ "tagline": "Marble mausoleum in Agra, India.",
+ "origin": "resolver",
+ "story_status": "EXTRACTED",
+ "model": null,
+ "gothic": false,
+ "verified": {
+  "status": "VERIFIED",
+  "qid": "Q9141",
+  "wikidata_url": "https://www.wikidata.org/wiki/Q9141",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Taj_Mahal",
+  "coordinates": {
+   "lat": 27.175,
+   "lon": 78.04194444444444
+  },
+  "country": "India",
+  "styles": [
+   "Islamic architecture",
+   "architecture of Iran",
+   "Mughal architecture"
+  ],
+  "instance_of": [
+   "mausoleum",
+   "tomb"
+  ],
+  "inception": "+1631-00-00T00:00:00Z",
+  "retrieved_at": "2026-11-25T14:26:44.226Z"
+ },
+ "construction": {
+  "status": "VERIFIED",
+  "quote": "Construction of the mausoleum was completed in 1648, although work on other parts of the complex continued for another five years.",
+  "source": "https://en.wikipedia.org/wiki/Taj_Mahal"
+ },
+ "image": {
+  "local": "/cache/taj-mahal-0.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_in_March_2004.jpg",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "author": "Dhirad, picture edited by J. A. Knudsen",
+  "status": "VERIFIED",
+  "file": "Taj Mahal in March 2004.jpg"
+ },
+ "photos": [
+  {
+   "local": "/cache/taj-mahal-0.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_in_March_2004.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "Dhirad, picture edited by J. A. Knudsen",
+   "status": "VERIFIED",
+   "file": "Taj Mahal in March 2004.jpg"
+  },
+  {
+   "local": "/cache/taj-mahal-1.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Jean-Baptiste_Tavernier.jpg",
+   "license": "Public domain",
+   "license_url": null,
+   "author": "User Magnus Manske on en.wikipedia",
+   "status": "VERIFIED",
+   "file": "Jean-Baptiste Tavernier.jpg"
+  },
+  {
+   "local": "/cache/taj-mahal-2.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Sambourneagra1860s.jpg",
+   "license": "Public domain",
+   "license_url": null,
+   "author": "Samuel Bourne, 1834–1912",
+   "status": "VERIFIED",
+   "file": "Sambourneagra1860s.jpg"
+  },
+  {
+   "local": "/cache/taj-mahal-3.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_finial-1.jpg",
+   "license": "Public domain",
+   "license_url": null,
+   "author": "This image was produced by me, David Castor (user:dcastor). The pictures I submi",
+   "status": "VERIFIED",
+   "file": "Taj Mahal finial-1.jpg"
+  },
+  {
+   "local": "/cache/taj-mahal-4.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_1921.JPG",
+   "license": "Public domain",
+   "license_url": null,
+   "author": "Autochrome by Helen Messinger Murdoch",
+   "status": "VERIFIED",
+   "file": "Taj Mahal 1921.JPG"
+  },
+  {
+   "local": "/cache/taj-mahal-5.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Persian_prince_tomb_taj_mahal.jpg",
+   "license": "Public domain",
+   "license_url": null,
+   "author": "Maahmaah",
+   "status": "VERIFIED",
+   "file": "Persian prince tomb taj mahal.jpg"
+  }
+ ],
+ "attested_features": [],
+ "scenes": [
+  {
+   "year": "1628",
+   "title": "Overview",
+   "caption": "1628–1658), to house the tomb of his late wife, Mumtaz Mahal; it also houses the tomb of Shah Jahan himself.",
+   "quote": "1628–1658), to house the tomb of his late wife, Mumtaz Mahal; it also houses the tomb of Shah Jahan himself.",
+   "plate": "rise",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Taj_Mahal"
+  },
+  {
+   "year": "1631 ",
+   "title": "Overview",
+   "caption": "It was commissioned in 1631 by the fifth Mughal emperor, Shah Jahan (r.",
+   "quote": "It was commissioned in 1631 by the fifth Mughal emperor, Shah Jahan (r.",
+   "plate": "arch-shift",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Taj_Mahal"
+  },
+  {
+   "year": "1643",
+   "title": "Overview",
+   "caption": "The first ceremony held at the mausoleum was an observance by Shah Jahan, on 6 February 1643, of the 12th anniversary of the death of Mumtaz Mahal.",
+   "quote": "The first ceremony held at the mausoleum was an observance by Shah Jahan, on 6 February 1643, of the 12th anniversary of the death of Mumtaz Mahal.",
+   "plate": "volume",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Taj_Mahal"
+  },
+  {
+   "year": "1648",
+   "title": "Overview",
+   "caption": "Construction of the mausoleum was completed in 1648, although work on other parts of the complex continued for another five years.",
+   "quote": "Construction of the mausoleum was completed in 1648, although work on other parts of the complex continued for another five years.",
+   "plate": "layers",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Taj_Mahal"
+  },
+  {
+   "year": "1983 ",
+   "title": "Overview",
+   "caption": "The Taj Mahal was designated as a UNESCO World Heritage Site in 1983 for being \"the jewel of Muslim art in India and one of the universally admired masterpieces of the world's heritage\".",
+   "quote": "The Taj Mahal was designated as a UNESCO World Heritage Site in 1983 for being \"the jewel of Muslim art in India and one of the universally admired masterpieces of the world's heritage\".",
+   "plate": "book",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Taj_Mahal"
+  },
+  {
+   "year": "2007",
+   "title": "Overview",
+   "caption": "In 2007, it was declared a winner of the New 7 Wonders of the World initiative.",
+   "quote": "In 2007, it was declared a winner of the New 7 Wonders of the World initiative.",
+   "plate": "arch-shift",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Taj_Mahal"
+  }
+ ]
+}

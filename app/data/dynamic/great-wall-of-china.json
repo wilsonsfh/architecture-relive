@@ -1,0 +1,150 @@
+{
+ "id": "great-wall-of-china",
+ "name": "Great Wall of China",
+ "city": "Hebei, People's Republic of China",
+ "tagline": "Series of fortifications in northern China.",
+ "origin": "resolver",
+ "story_status": "EXTRACTED",
+ "model": null,
+ "gothic": false,
+ "verified": {
+  "status": "VERIFIED",
+  "qid": "Q12501",
+  "wikidata_url": "https://www.wikidata.org/wiki/Q12501",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Great_Wall_of_China",
+  "coordinates": {
+   "lat": 40.43138888888889,
+   "lon": 116.56444444444445
+  },
+  "country": "People's Republic of China",
+  "styles": [],
+  "instance_of": [
+   "cordon"
+  ],
+  "inception": "-0700-00-00T00:00:00Z",
+  "retrieved_at": "2026-11-25T14:25:53.716Z"
+ },
+ "construction": {
+  "status": "VERIFIED",
+  "quote": "Successive dynasties expanded the wall system; the best-known sections were built by the Ming dynasty (1368–1644).",
+  "source": "https://en.wikipedia.org/wiki/Great_Wall_of_China"
+ },
+ "image": {
+  "local": "/cache/great-wall-of-china-0.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Greatwall_large.jpg",
+  "license": "Public domain",
+  "license_url": null,
+  "author": "Herbert Ponting",
+  "status": "VERIFIED",
+  "file": "Greatwall large.jpg"
+ },
+ "photos": [
+  {
+   "local": "/cache/great-wall-of-china-0.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Greatwall_large.jpg",
+   "license": "Public domain",
+   "license_url": null,
+   "author": "Herbert Ponting",
+   "status": "VERIFIED",
+   "file": "Greatwall large.jpg"
+  },
+  {
+   "local": "/cache/great-wall-of-china-1.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Great_Wall_of_China_view_1.jpg",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "author": "Canary Wu",
+   "status": "VERIFIED",
+   "file": "Great Wall of China view 1.jpg"
+  },
+  {
+   "local": "/cache/great-wall-of-china-2.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Great_Wall_at_Simatai_overlooking_gorge.jpg",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "author": "Notyourbroom",
+   "status": "VERIFIED",
+   "file": "Great Wall at Simatai overlooking gorge.jpg"
+  },
+  {
+   "local": "/cache/great-wall-of-china-3.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:20090529_Great_Wall_8185.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Jakub Hałun",
+   "status": "VERIFIED",
+   "file": "20090529 Great Wall 8185.jpg"
+  },
+  {
+   "local": "/cache/great-wall-of-china-4.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Great_wall_stops_in_see.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Bertrouf",
+   "status": "VERIFIED",
+   "file": "Great wall stops in see.jpg"
+  },
+  {
+   "local": "/cache/great-wall-of-china-5.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:MutianyuGreatWallWildSection.JPG",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Bryanmackinnon",
+   "status": "VERIFIED",
+   "file": "MutianyuGreatWallWildSection.JPG"
+  }
+ ],
+ "attested_features": [],
+ "scenes": [
+  {
+   "year": "7th century BC",
+   "title": "Overview",
+   "caption": "The first walls date to the 7th century BC; these were joined together in the Qin dynasty.",
+   "quote": "The first walls date to the 7th century BC; these were joined together in the Qin dynasty.",
+   "plate": "wall",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Great_Wall_of_China"
+  },
+  {
+   "year": "221 BC",
+   "title": "Early walls",
+   "caption": "The state of Qin emerged victorious in 221 BC; its ruler, now the First Emperor of a unified China, intended to centralize rule and prevent the resurgence of feudal lords; in doing so, he ordered the destruction of the sections of the walls that divided his empire among the former states.",
+   "quote": "The state of Qin emerged victorious in 221 BC; its ruler, now the First Emperor of a unified China, intended to centralize rule and prevent the resurgence of feudal lords; in doing so, he ordered the destruction of the sections of the walls that divided his empire among the former states.",
+   "plate": "wall",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Great_Wall_of_China"
+  },
+  {
+   "year": "493 ",
+   "title": "Names",
+   "caption": "The AD 493 Book of Song quotes the frontier general Tan Daoji referring to \"the long wall of 10,000 miles\", closer to the modern name, but the name rarely features in pre-modern times otherwise.",
+   "quote": "The AD 493 Book of Song quotes the frontier general Tan Daoji referring to \"the long wall of 10,000 miles\", closer to the modern name, but the name rarely features in pre-modern times otherwise.",
+   "plate": "wall",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Great_Wall_of_China"
+  },
+  {
+   "year": "1368",
+   "title": "Overview",
+   "caption": "Successive dynasties expanded the wall system; the best-known sections were built by the Ming dynasty (1368–1644).",
+   "quote": "Successive dynasties expanded the wall system; the best-known sections were built by the Ming dynasty (1368–1644).",
+   "plate": "wall",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Great_Wall_of_China"
+  },
+  {
+   "year": "2007",
+   "title": "Overview",
+   "caption": "It is a UNESCO World Heritage Site, and was voted one of the New 7 Wonders of the World in 2007.",
+   "quote": "It is a UNESCO World Heritage Site, and was voted one of the New 7 Wonders of the World in 2007.",
+   "plate": "book",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Great_Wall_of_China"
+  }
+ ]
+}

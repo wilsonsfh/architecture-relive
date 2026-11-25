@@ -1,0 +1,194 @@
+{
+  ".manus-75d14f6295a2838f05605264fcf12eb7.tmp": {
+    "sha256": "a9004f068e0b3e86223f1036cbf8b3cdc49905fe388c8e01343cfc4a1dfb5733",
+    "size": 14677
+  },
+  "DESIGN-RATIONALE.md": {
+    "sha256": "e781ae44f3c246117a5ef060aa5216aca410df087046f383279ff401a035686a",
+    "size": 12567
+  },
+  "STATE.md": {
+    "sha256": "971e9267d5ef074de23779eedbc48ee1278e89c79b323cb8d76e8f4dfa222737",
+    "size": 1426
+  },
+  "TECHNICAL-BREAKDOWN.md": {
+    "sha256": "48f680e57ff44f8abeccd6b7d48f857798d12bc8a73bcef786be913ee873b273",
+    "size": 11373
+  },
+  "app/package-lock.json": {
+    "sha256": "3bb8eea9cfc352cc42423bcd7a39beb464b9f5e4a6da137a4b97a67abe67c9e2",
+    "size": 1338
+  },
+  "app/package.json": {
+    "sha256": "3a2eaf18d8d284b32316721a9a598486b161603ae77e69b133f24361e000d472",
+    "size": 568
+  },
+  "app/server.mjs": {
+    "sha256": "33be9178ccdd3a27542bdb718284330b59c3ad6a7127133de91250ef2e68a32d",
+    "size": 2854
+  },
+  "app/test/slice.test.mjs": {
+    "sha256": "dc1114290effa5b5e1e2c4ee501d5ea0c92e91fd7f3745442995a98026849032",
+    "size": 4265
+  },
+  "app/.npm-cache/_update-notifier-last-checked": {
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "size": 0
+  },
+  "app/public/index.html": {
+    "sha256": "4e858d4896a37058f3e05524c910fdec1333b554ec2364562c9c308fb71f76f0",
+    "size": 668
+  },
+  "app/scripts/fetch-sources.mjs": {
+    "sha256": "c3096cc77b04dc913aea88444b0b35e0cc532f8a62a73dfcd504411d404d4a65",
+    "size": 4169
+  },
+  "app/scripts/build-data.mjs": {
+    "sha256": "614a287a4445be7067b04d5affd7419988ace5d31a5c973e04f956aac8482df9",
+    "size": 3088
+  },
+  "app/data/sources.json": {
+    "sha256": "a810b18bbfba953289bbaa2f12e337c1e9cc7552cddc28c8aa67144675242b86",
+    "size": 5594
+  },
+  "app/data/curated.json": {
+    "sha256": "92453840b3b869391ab7918cedb6f7f0f66a50ff6442100f55d2532a42f17245",
+    "size": 10786
+  },
+  "app/.npm-cache/_logs/2026-11-25T14_20_47_952Z-debug-0.log": {
+    "sha256": "9215e6dbbfc3aaf2f52442305e7dacb7daec2de596b6906bd1baaa5e10c6bf57",
+    "size": 2185
+  },
+  "app/.npm-cache/logs/2026-11-25T14_02_43_447Z-debug-0.log": {
+    "sha256": "609b45b28bc47f830778c27b3a8b4f93b38a978a8ba5035edd3de440bbbae222",
+    "size": 2981
+  },
+  "app/.npm-cache/_cacache/content-v2/sha512/32/c9/9a91d40527a72c087bb47005bbfc658b88a731fa1ef80347299365284845d2e64f374aeac047c8e0f174ace077dbe7179e2bdac92e6698ad31c39ee5639d": {
+    "sha256": "eda817f658cdd200d24c79bed05cec77cb0554abee6764d9e0cff3b25c54f168",
+    "size": 946179
+  },
+  "app/.npm-cache/_cacache/content-v2/sha512/eb/7c/a35911568f74113f550eb83f24722742732de7c5bd66311a701ebff1251bcf7e6f46b5639714061488bd2ba357e03eada7639dcb47ef7ca40832f41ba606": {
+    "sha256": "c70a3bcf656015f32b4f6456e686034564c90d64280db535cfbd84de4497d988",
+    "size": 1701887
+  },
+  "app/.npm-cache/_cacache/content-v2/sha512/42/2b/bb47e0a687c0acb59b18d6e24e4969d595fa3b66d34b57b985f0996d9372c1dc0b43bbd71166572744a90093c638cfa28ac37e73ed8ed4addee3598f1eb4": {
+    "sha256": "ff540832ded0cfe919764d24a3d88f3e2a05f23303f876423e4f893841e90728",
+    "size": 4795351
+  },
+  "app/.npm-cache/_cacache/content-v2/sha512/36/0c/8004888f7e9909ef4bd7bd0281b90518c250e87eb680b400c7f10e714f01767f6f0930d54ef2600a84719bbe7c7441dd31d2c77d47ba5192cb6e5992ee14": {
+    "sha256": "7c6bd502514fad851d31d425f6eac325aa839637608921f98a53d2e3af0dbc9d",
+    "size": 320684
+  },
+  "app/.npm-cache/_cacache/content-v2/sha512/e7/80/ed443c637f5dff55799767810474bd69af9b260bedaf8c164a696052ce216b03572d56b2842fe8ca18fe2173c5c64fcfab67f7023da5d170d0f9a323bb67": {
+    "sha256": "37235ee5beaf2f47b4fbe7aff145a651cd67195c61f1735bafc7bb7d91450529",
+    "size": 109680
+  },
+  "app/.npm-cache/_cacache/content-v2/sha512/78/74/dfcd0c45496f400444512cdaee1e834998a79dd89ee9a9351ce65a786b83ce3205c62a9c665a3dddf47cf5d2498083a8ae4d32dee946a06c0e1b9ec99f43": {
+    "sha256": "ebf746fc0667b9d10fcac7c8604e2ba40a264da85a1c9b48bd679c0af3221293",
+    "size": 1241035
+  },
+  "app/.npm-cache/_cacache/index-v5/34/d5/60c17992312c2fb54aebaa21a8bcebbc0e3e9e007a638929bbde95c85f22": {
+    "sha256": "49e96b6912452ca935740cd22498e2eb62766a9d646eb498fa96f5c9619d4046",
+    "size": 686
+  },
+  "app/.npm-cache/_cacache/index-v5/a4/61/64c1b6b1738d5ad6a5a740d61358575fbf14cbf39dd9a3c56f023bbc4bcd": {
+    "sha256": "075f0ac7e411ebd3af4bf262c7594102f742af7eadcfe1c83dbd16d47ce6e3aa",
+    "size": 718
+  },
+  "app/.npm-cache/_cacache/index-v5/fc/69/004a9cd138e7ba9d5e16325621e0cde3286f3c07e65bcf39957133e17fe3": {
+    "sha256": "4c4a5beb0cd4dfdcaf337dde285081c580420f0e49a3ea636d2369abbabfe033",
+    "size": 665
+  },
+  "app/.npm-cache/_cacache/index-v5/b9/9d/0625970b8098477fd7289c1cdabee99fb230eccd6ab4c36e3709255998bb": {
+    "sha256": "2f946185bc433b4dea239b26cfa8bbb1bd678f194c386a695b2c5bca1d0baaa2",
+    "size": 659
+  },
+  "app/.npm-cache/_cacache/index-v5/ea/cc/d6acc73a150f0d65e0de029e49c955e5fae35b13f4fdee90237c70e60fc8": {
+    "sha256": "702e851fe6f07edc19ac8cdb8da4a3a2ba7691f1f3e0a9b7230fa19b3d1ebee8",
+    "size": 695
+  },
+  "app/.npm-cache/_cacache/index-v5/85/f6/9a496bab0f4a4704c802880ebedbdd97a34757454b529c8de817248ecb84": {
+    "sha256": "4de87891fd3b1ec057984e965d7c06846d0640bde0c7b4f6b0ba91eb54555734",
+    "size": 688
+  },
+  "app/public/css/style.css": {
+    "sha256": "40ece35ea357ec0f541fc365d63ebe96f8723ec92013fcfc78896ed15219c2d5",
+    "size": 9452
+  },
+  "app/public/js/nave.js": {
+    "sha256": "33e02b6126c2e7c66208ff29a0be8405002ddce260b0891adcd80b49de4d7943",
+    "size": 8814
+  },
+  "app/public/js/plates.js": {
+    "sha256": "a4746dbaac04eb318e8f0a77ab6352fd4e58297fe8d49bca83904067ab369b69",
+    "size": 4975
+  },
+  "app/public/js/guard.js": {
+    "sha256": "7c6da74beb46ed00c644ec06008194ef07a19a88b07ffae2afff7b962f9ef46e",
+    "size": 1854
+  },
+  "app/public/js/app.js": {
+    "sha256": "acf981c678f0ef21182fad2f7257f0ff8a4e52d9cd9fe91ca6770fa2ff019631",
+    "size": 14755
+  },
+  "app/public/img/chartres.jpg": {
+    "sha256": "94326b3c587d403e948ff229c5e38ef73e6a29ab12da22cae03364abe39b0cfe",
+    "size": 4311143
+  },
+  "app/public/img/amiens.jpg": {
+    "sha256": "e2f45fa33a6724f619140af75652364a93ffe2be329be443aeed4b078ee17efb",
+    "size": 1284245
+  },
+  "app/public/img/cologne.jpg": {
+    "sha256": "f67ee6c2f724e60658d00e392b3a482df963c9c540130f60f12947a4824a7c05",
+    "size": 1861631
+  },
+  "app/public/img/notre-dame-paris.jpg": {
+    "sha256": "b8995999d0d85e816d76fe511d151ccb95c9cd2fbcd18dc81c414681f1edfecd",
+    "size": 1449522
+  },
+  "app/public/data/buildings.json": {
+    "sha256": "99e6e5e2d6d3ac91798f939e1756fc6f5daf090b05b2a979070e4b466c768db4",
+    "size": 20419
+  },
+  "app/public/vendor/gsap/gsap.min.js": {
+    "sha256": "3d1bea374ab1b703cc5c4105358eec63c4465efdc573931dc116e34a0a190c1b",
+    "size": 73357
+  },
+  "app/public/vendor/fonts/caveat-latin-500-normal.woff2": {
+    "sha256": "edbfb1a768829d4e85127cd327e59faaec9701cb043e96430938f1f66acf009f",
+    "size": 50904
+  },
+  "app/public/vendor/fonts/caveat-latin-700-normal.woff2": {
+    "sha256": "15f9638095ad5ec9816f93d66805ca1a87e71dc5a76b596bfce1c78d4704c405",
+    "size": 51020
+  },
+  "app/public/vendor/three/build/three.module.js": {
+    "sha256": "104f56145899722094556490d787aae0617cc2fc3382f31df02d724ea1aee341",
+    "size": 658900
+  },
+  "app/public/vendor/three/build/three.core.js": {
+    "sha256": "613e370f76638fdef83926642bf256dc9615684922de1ce1f63a8583e5d78578",
+    "size": 1474799
+  },
+  "app/public/vendor/three/examples/jsm/controls/OrbitControls.js": {
+    "sha256": "e7fca2fe9e7670a828af9b28084669a5909445b7f36f1f26cee9bf8f2961c32c",
+    "size": 40918
+  },
+  "app/data/intros/Amiens_Cathedral.txt": {
+    "sha256": "238d5044053caf506e3483d75688b7c849af3b268ab9029e30deb82d3b727d05",
+    "size": 1471
+  },
+  "app/data/intros/Chartres_Cathedral.txt": {
+    "sha256": "2ed37ac32e14d1ec5f1942fd50c328597a96a16b11810728937542e3a6562b04",
+    "size": 2111
+  },
+  "app/data/intros/Cologne_Cathedral.txt": {
+    "sha256": "3b95488176c77227b1ee721269ed85ecece19d6b0d5921f6eeab6df2121295c2",
+    "size": 1531
+  },
+  "app/data/intros/Notre-Dame_de_Paris.txt": {
+    "sha256": "2b4dc2aa452e18ffd47092c2d6da9785d5e5059e6d1b94fc20a392437faa820f",
+    "size": 2906
+  }
+}

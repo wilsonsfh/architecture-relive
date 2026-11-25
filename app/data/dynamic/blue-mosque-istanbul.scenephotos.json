@@ -1,0 +1,53 @@
+[
+ {
+  "local": "/cache/blue-mosque-istanbul-s0.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Inscription_on_the_fa%C3%A7ade_of_the_Sultan_Ahmed_Mosque.jpg",
+  "license": "CC BY 3.0",
+  "license_url": "https://creativecommons.org/licenses/by/3.0",
+  "author": "Günhan Börekçi",
+  "file": "Inscription on the façade of the Sultan Ahmed Mosque.jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ {
+  "local": "/cache/blue-mosque-istanbul-s1.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Ahmed_Shah_Mosque,_Ahmedabad.JPG",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "Rituraj.bharti",
+  "file": "Ahmed Shah Mosque, Ahmedabad.JPG",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ {
+  "local": "/cache/blue-mosque-istanbul-s2.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Sultan_Hassan_Mosque_%26_School.jpg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Ahmed Yousry Mahfouz",
+  "file": "Sultan Hassan Mosque & School.jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ {
+  "local": "/cache/blue-mosque-istanbul-s3.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Blue_Mosque_painted_decoration_DSCF4657.jpg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "R Prazeres",
+  "file": "Blue Mosque painted decoration DSCF4657.jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ {
+  "local": "/cache/blue-mosque-istanbul-s4.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:The_Blue_Mosque,_Istanbul_(50929829078).jpg",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "author": "Mike McBey",
+  "file": "The Blue Mosque, Istanbul (50929829078).jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ null
+]

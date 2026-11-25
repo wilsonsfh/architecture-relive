@@ -1,0 +1,164 @@
+{
+ "id": "sydney-opera-house",
+ "name": "Sydney Opera House",
+ "city": "City of Sydney, Australia",
+ "tagline": "Performing arts centre in Australia.",
+ "origin": "resolver",
+ "story_status": "EXTRACTED",
+ "model": null,
+ "gothic": false,
+ "verified": {
+  "status": "VERIFIED",
+  "qid": "Q45178",
+  "wikidata_url": "https://www.wikidata.org/wiki/Q45178",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Sydney_Opera_House",
+  "coordinates": {
+   "lat": -33.857058,
+   "lon": 151.214897
+  },
+  "country": "Australia",
+  "styles": [
+   "expressionist architecture"
+  ],
+  "instance_of": [
+   "opera house",
+   "architectural landmark",
+   "historical cultural heritage site"
+  ],
+  "inception": "+1973-00-00T00:00:00Z",
+  "retrieved_at": "2026-11-25T14:34:07.990Z"
+ },
+ "construction": {
+  "status": "VERIFIED",
+  "quote": "Designed by Danish architect Jørn Utzon and completed by an Australian architectural team headed by Peter Hall, the building was formally opened by Queen Elizabeth II on 20 October 1973, 16 years after Utzon's 1957 selection as winner of an international design competition.",
+  "source": "https://en.wikipedia.org/wiki/Sydney_Opera_House"
+ },
+ "image": {
+  "local": "/cache/sydney-opera-house-0.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Sydney_Opera_House_Concert_Theatre.JPG",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "author": "User:Koika",
+  "status": "VERIFIED",
+  "file": "Sydney Opera House Concert Theatre.JPG"
+ },
+ "photos": [
+  {
+   "local": "/cache/sydney-opera-house-0.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Sydney_Opera_House_Concert_Theatre.JPG",
+   "license": "CC BY-SA 3.0",
+   "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "User:Koika",
+   "status": "VERIFIED",
+   "file": "Sydney Opera House Concert Theatre.JPG"
+  },
+  {
+   "local": "/cache/sydney-opera-house-1.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:AUS_NSW_Opera_House_DSC05119.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "Photo taken and supplied by Brian Voon Yee Yap.",
+   "status": "VERIFIED",
+   "file": "AUS NSW Opera House DSC05119.jpg"
+  },
+  {
+   "local": "/cache/sydney-opera-house-2.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Sydney_Opera_House_-_J%C3%B8rn_Utzon_drawings_(5247755534).jpg",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "author": "Photographic Collection from Australia",
+   "status": "VERIFIED",
+   "file": "Sydney Opera House - Jørn Utzon drawings (5247755534).jpg"
+  },
+  {
+   "local": "/cache/sydney-opera-house-3.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Sydney_Opera_House_Ceramic_Tile_Pattern.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Hpeterswald",
+   "status": "VERIFIED",
+   "file": "Sydney Opera House Ceramic Tile Pattern.jpg"
+  },
+  {
+   "local": "/cache/sydney-opera-house-4.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Sydney_Opera_House,_botanic_gardens_1.jpg",
+   "license": "CC BY-SA 2.5",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+   "author": "Adam.J.W.C.",
+   "status": "VERIFIED",
+   "file": "Sydney Opera House, botanic gardens 1.jpg"
+  },
+  {
+   "local": "/cache/sydney-opera-house-5.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Joan_Sutherland_Theatre_Interior.JPG",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "MorePix",
+   "status": "VERIFIED",
+   "file": "Joan Sutherland Theatre Interior.JPG"
+  }
+ ],
+ "attested_features": [],
+ "scenes": [
+  {
+   "year": "183 ",
+   "title": "Description",
+   "caption": "4 acres) of land and is 183 m (600 ft) long and 120 m (394 ft) wide at its widest point.",
+   "quote": "4 acres) of land and is 183 m (600 ft) long and 120 m (394 ft) wide at its widest point.",
+   "plate": "rise",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Sydney_Opera_House"
+  },
+  {
+   "year": "194 ",
+   "title": "Description",
+   "caption": "The roof is made of 2,194 pre-cast concrete sections, which weigh up to 15 tonnes each.",
+   "quote": "The roof is made of 2,194 pre-cast concrete sections, which weigh up to 15 tonnes each.",
+   "plate": "arch-shift",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Sydney_Opera_House"
+  },
+  {
+   "year": "350",
+   "title": "Overview",
+   "caption": "As one of the most popular visitor attractions in Australia, the site is visited by more than ten million people annually, and approximately 350,000 visitors take a guided tour of the building each year.",
+   "quote": "As one of the most popular visitor attractions in Australia, the site is visited by more than ten million people annually, and approximately 350,000 visitors take a guided tour of the building each year.",
+   "plate": "pilgrims",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Sydney_Opera_House"
+  },
+  {
+   "year": "588 ",
+   "title": "Description",
+   "caption": "It is supported on 588 concrete piers sunk as much as 25 m (82 ft) below sea level.",
+   "quote": "It is supported on 588 concrete piers sunk as much as 25 m (82 ft) below sea level.",
+   "plate": "layers",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Sydney_Opera_House"
+  },
+  {
+   "year": "1958 ",
+   "title": "Overview",
+   "caption": "The Government of New South Wales, led by the premier, Joseph Cahill, authorised work to begin in 1958 with Utzon directing construction.",
+   "quote": "The Government of New South Wales, led by the premier, Joseph Cahill, authorised work to begin in 1958 with Utzon directing construction.",
+   "plate": "rise",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Sydney_Opera_House"
+  },
+  {
+   "year": "1973",
+   "title": "Overview",
+   "caption": "Designed by Danish architect Jørn Utzon and completed by an Australian architectural team headed by Peter Hall, the building was formally opened by Queen Elizabeth II on 20 October 1973, 16 years after Utzon's 1957 selection as winner of an international design competition.",
+   "quote": "Designed by Danish architect Jørn Utzon and completed by an Australian architectural team headed by Peter Hall, the building was formally opened by Queen Elizabeth II on 20 October 1973, 16 years after Utzon's 1957 selection as winner of an international design competition.",
+   "plate": "arch-shift",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Sydney_Opera_House"
+  }
+ ]
+}

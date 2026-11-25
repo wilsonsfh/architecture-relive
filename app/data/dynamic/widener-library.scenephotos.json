@@ -1,0 +1,62 @@
+[
+ {
+  "local": "/cache/widener-library-s0.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Widener_Library,_Harvard_University.jpg",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0",
+  "author": "Kenneth C. Zirkel",
+  "file": "Widener Library, Harvard University.jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ {
+  "local": "/cache/widener-library-s1.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:The_view_from_Widener_Library.jpg",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0",
+  "author": "Kenneth C. Zirkel",
+  "file": "The view from Widener Library.jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ {
+  "local": "/cache/widener-library-s2.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:HarvardUniversity_WidenerLibrary_MassachusettsAvenueEntrance_c1915_cropped.jpeg",
+  "license": "Public domain",
+  "license_url": null,
+  "author": "Unknown authorUnknown author",
+  "file": "HarvardUniversity WidenerLibrary MassachusettsAvenueEntrance c1915 cropped.jpeg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ {
+  "local": "/cache/widener-library-s3.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Widener_Library_front.jpg",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "Phoebe Barghouty",
+  "file": "Widener Library front.jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ {
+  "local": "/cache/widener-library-s4.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Widener_library_2009.JPG",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "chensiyuan",
+  "file": "Widener library 2009.JPG",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ {
+  "local": "/cache/widener-library-s5.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Widener_Library_(Harvard_University).JPG",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Vegasjon",
+  "file": "Widener Library (Harvard University).JPG",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ }
+]

@@ -1,0 +1,53 @@
+[
+ null,
+ {
+  "local": "/cache/florence-cathedral-s1.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Florence_Cathedral_of_Santa_Maria_del_Fiore_(9809619726).jpg",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "author": "Gary Todd from Xinzheng, China",
+  "file": "Florence Cathedral of Santa Maria del Fiore (9809619726).jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ {
+  "local": "/cache/florence-cathedral-s2.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Florence_Cathedral_of_Santa_Maria_del_Fiore_(9809615946).jpg",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "author": "Gary Todd from Xinzheng, China",
+  "file": "Florence Cathedral of Santa Maria del Fiore (9809615946).jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ {
+  "local": "/cache/florence-cathedral-s3.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Florence_Cathedral_of_Santa_Maria_del_Fiore_(9809617846).jpg",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "author": "Gary Todd from Xinzheng, China",
+  "file": "Florence Cathedral of Santa Maria del Fiore (9809617846).jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ {
+  "local": "/cache/florence-cathedral-s4.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Florence_Cathedral_of_Santa_Maria_del_Fiore_(9809667193).jpg",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "author": "Gary Todd from Xinzheng, China",
+  "file": "Florence Cathedral of Santa Maria del Fiore (9809667193).jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ {
+  "local": "/cache/florence-cathedral-s5.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Florence_Cathedral_of_Santa_Maria_del_Fiore_(9808744173).jpg",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "author": "Gary Todd from Xinzheng, China",
+  "file": "Florence Cathedral of Santa Maria del Fiore (9808744173).jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ }
+]

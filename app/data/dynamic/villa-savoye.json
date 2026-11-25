@@ -1,0 +1,129 @@
+{
+ "id": "villa-savoye",
+ "name": "Villa Savoye",
+ "city": "Poissy, France",
+ "tagline": "House by Le Corbusier in Poissy, France.",
+ "origin": "resolver",
+ "story_status": "EXTRACTED",
+ "model": null,
+ "gothic": false,
+ "verified": {
+  "status": "VERIFIED",
+  "qid": "Q940746",
+  "wikidata_url": "https://www.wikidata.org/wiki/Q940746",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Villa_Savoye",
+  "coordinates": {
+   "lat": 48.924444444444,
+   "lon": 2.0283333333333
+  },
+  "country": "France",
+  "styles": [
+   "modern architecture",
+   "functionalism"
+  ],
+  "instance_of": [
+   "villa",
+   "single-family detached home",
+   "building"
+  ],
+  "inception": "+1931-00-00T00:00:00Z",
+  "retrieved_at": "2026-11-25T14:30:18.076Z"
+ },
+ "construction": {
+  "status": "VERIFIED",
+  "quote": "It was designed by the Swiss-French architect Le Corbusier and his cousin Pierre Jeanneret with interior and furnishing by Charlotte Perriand, and built between 1928 and 1931 using reinforced concrete.",
+  "source": "https://en.wikipedia.org/wiki/Villa_Savoye"
+ },
+ "image": {
+  "local": "/cache/villa-savoye-0.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Institute_of_Aboriginal_Studies,_Canberra_2007.JPG",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "Elekhh",
+  "status": "VERIFIED",
+  "file": "Institute of Aboriginal Studies, Canberra 2007.JPG"
+ },
+ "photos": [
+  {
+   "local": "/cache/villa-savoye-0.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Institute_of_Aboriginal_Studies,_Canberra_2007.JPG",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Elekhh",
+   "status": "VERIFIED",
+   "file": "Institute of Aboriginal Studies, Canberra 2007.JPG"
+  },
+  {
+   "local": "/cache/villa-savoye-1.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Le_Corbusier_(1964).jpg",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Joop van Bilsen for Anefo",
+   "status": "VERIFIED",
+   "file": "Le Corbusier (1964).jpg"
+  }
+ ],
+ "attested_features": [],
+ "scenes": [
+  {
+   "year": "1928 ",
+   "title": "Overview",
+   "caption": "It was designed by the Swiss-French architect Le Corbusier and his cousin Pierre Jeanneret with interior and furnishing by Charlotte Perriand, and built between 1928 and 1931 using reinforced concrete.",
+   "quote": "It was designed by the Swiss-French architect Le Corbusier and his cousin Pierre Jeanneret with interior and furnishing by Charlotte Perriand, and built between 1928 and 1931 using reinforced concrete.",
+   "plate": "rise",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Villa_Savoye"
+  },
+  {
+   "year": "1928",
+   "title": "Background",
+   "caption": "Pierre and Eugénie Savoye approached Le Corbusier about building a country home in Poissy in the spring of 1928.",
+   "quote": "Pierre and Eugénie Savoye approached Le Corbusier about building a country home in Poissy in the spring of 1928.",
+   "plate": "arch-shift",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Villa_Savoye"
+  },
+  {
+   "year": "1958",
+   "title": "Overview",
+   "caption": "After being purchased by the neighbouring school, it became the property of the French state in 1958.",
+   "quote": "After being purchased by the neighbouring school, it became the property of the French state in 1958.",
+   "plate": "volume",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Villa_Savoye"
+  },
+  {
+   "year": "1965",
+   "title": "Overview",
+   "caption": "After surviving several proposals to demolish it, it was designated as an official French historical monument in 1965 (a rare event, as Le Corbusier was still alive).",
+   "quote": "After surviving several proposals to demolish it, it was designated as an official French historical monument in 1965 (a rare event, as Le Corbusier was still alive).",
+   "plate": "layers",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Villa_Savoye"
+  },
+  {
+   "year": "1985 ",
+   "title": "Overview",
+   "caption": "It was thoroughly renovated between 1985 and 1997, and the refurbished house is now open to visitors year round under the care of the Centre des monuments nationaux.",
+   "quote": "It was thoroughly renovated between 1985 and 1997, and the refurbished house is now open to visitors year round under the care of the Centre des monuments nationaux.",
+   "plate": "restoration",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Villa_Savoye"
+  },
+  {
+   "year": "2016",
+   "title": "Overview",
+   "caption": "In July 2016, the house and 16 other buildings by Le Corbusier, spread over seven countries, were inscribed as The Architectural Work of Le Corbusier World Heritage Site by UNESCO.",
+   "quote": "In July 2016, the house and 16 other buildings by Le Corbusier, spread over seven countries, were inscribed as The Architectural Work of Le Corbusier World Heritage Site by UNESCO.",
+   "plate": "book",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Villa_Savoye"
+  }
+ ]
+}

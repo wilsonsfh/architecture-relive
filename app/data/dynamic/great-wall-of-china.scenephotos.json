@@ -1,0 +1,44 @@
+[
+ {
+  "local": "/cache/great-wall-of-china-s0.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:The_Great_Wall_of_China_(50603737088).jpg",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "author": "Hugh Llewelyn from Keynsham, UK",
+  "file": "The Great Wall of China (50603737088).jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ {
+  "local": "/cache/great-wall-of-china-s1.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Thomas_Child,_Great_Wall_of_China.jpg",
+  "license": "Public domain",
+  "license_url": null,
+  "author": "Thomas Child (1841-1898)",
+  "file": "Thomas Child, Great Wall of China.jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ {
+  "local": "/cache/great-wall-of-china-s2.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Badaling_China_Great-Wall-of-China-01.jpg",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "CEphoto, Uwe Aranas",
+  "file": "Badaling China Great-Wall-of-China-01.jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ {
+  "local": "/cache/great-wall-of-china-s3.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Great_Wall_of_China_July_2006.JPG",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "author": "Velatrix",
+  "file": "Great Wall of China July 2006.JPG",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ null,
+ null
+]

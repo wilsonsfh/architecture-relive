@@ -1,0 +1,186 @@
+{
+ "id": "hagia-sophia",
+ "name": "Hagia Sophia",
+ "city": "Fatih, Turkey",
+ "tagline": "Mosque and former church in Istanbul, Turkey.",
+ "origin": "resolver",
+ "story_status": "EXTRACTED",
+ "model": null,
+ "gothic": false,
+ "verified": {
+  "status": "VERIFIED",
+  "qid": "Q12506",
+  "wikidata_url": "https://www.wikidata.org/wiki/Q12506",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Hagia_Sophia",
+  "coordinates": {
+   "lat": 41.00833333333333,
+   "lon": 28.98
+  },
+  "country": "Turkey",
+  "styles": [
+   "Byzantine architecture",
+   "basilica"
+  ],
+  "instance_of": [
+   "minor basilica",
+   "mosque",
+   "museum",
+   "secularized church",
+   "secularized mosque",
+   "mosque",
+   "museum",
+   "built structure",
+   "historic building",
+   "church building",
+   "former cathedral"
+  ],
+  "inception": "+0537-12-27T00:00:00Z",
+  "retrieved_at": "2026-11-25T14:26:47.228Z"
+ },
+ "construction": {
+  "status": "VERIFIED",
+  "quote": "The last of three church buildings to be successively erected on the site by the Eastern Roman Empire, it was completed in AD 537, becoming the world's largest interior space and among the first to employ a fully pendentive dome.",
+  "source": "https://en.wikipedia.org/wiki/Hagia_Sophia"
+ },
+ "image": {
+  "local": "/cache/hagia-sophia-0.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:38-manasses-chronicle.jpg",
+  "license": "Public domain",
+  "license_url": null,
+  "author": "Original: Constantine Manasses",
+  "status": "VERIFIED",
+  "file": "38-manasses-chronicle.jpg"
+ },
+ "photos": [
+  {
+   "local": "/cache/hagia-sophia-0.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:38-manasses-chronicle.jpg",
+   "license": "Public domain",
+   "license_url": null,
+   "author": "Original: Constantine Manasses",
+   "status": "VERIFIED",
+   "file": "38-manasses-chronicle.jpg"
+  },
+  {
+   "local": "/cache/hagia-sophia-1.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Averof_painting_1919_Bosporus.jpg",
+   "license": "Public domain",
+   "license_url": null,
+   "author": "Lykourgos Kogevinas",
+   "status": "VERIFIED",
+   "file": "Averof painting 1919 Bosporus.jpg"
+  },
+  {
+   "local": "/cache/hagia-sophia-2.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Comnenus_mosaics_Hagia_Sophia.jpg",
+   "license": "Public domain",
+   "license_url": null,
+   "author": "Unknown authorUnknown author",
+   "status": "VERIFIED",
+   "file": "Comnenus mosaics Hagia Sophia.jpg"
+  },
+  {
+   "local": "/cache/hagia-sophia-3.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Apse_mosaic_Hagia_Sophia_Virgin_and_Child.jpg",
+   "license": "Public domain",
+   "license_url": null,
+   "author": "Photograph: Myrabella",
+   "status": "VERIFIED",
+   "file": "Apse mosaic Hagia Sophia Virgin and Child.jpg"
+  },
+  {
+   "local": "/cache/hagia-sophia-4.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Ceiling_decorations_in_Hagia_Sofia.jpg",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "author": "Ian Scott",
+   "status": "VERIFIED",
+   "file": "Ceiling decorations in Hagia Sofia.jpg"
+  },
+  {
+   "local": "/cache/hagia-sophia-5.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:20131203_Istanbul_048.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Mark Ahsmann",
+   "status": "VERIFIED",
+   "file": "20131203 Istanbul 048.jpg"
+  }
+ ],
+ "attested_features": [
+  {
+   "feature": "nave",
+   "quote": "1574–1595) imported two large alabaster Hellenistic urns from Pergamon (Bergama) and placed them on two sides of the nave.",
+   "status": "VERIFIED",
+   "source": "https://en.wikipedia.org/wiki/Hagia_Sophia"
+  },
+  {
+   "feature": "flying-buttress",
+   "quote": "The flying buttresses to the west of the building, although thought to have been constructed by the Crusaders upon their visit to Constantinople, were actually built during the Byzantine era.",
+   "status": "VERIFIED",
+   "source": "https://en.wikipedia.org/wiki/Hagia_Sophia"
+  }
+ ],
+ "scenes": [
+  {
+   "year": "360",
+   "title": "Overview",
+   "caption": "It was formerly a church (360–1453) and a museum (1935–2020).",
+   "quote": "It was formerly a church (360–1453) and a museum (1935–2020).",
+   "plate": "book",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Hagia_Sophia"
+  },
+  {
+   "year": "360 ",
+   "title": "Overview",
+   "caption": "From its dedication in 360 until 1453, Hagia Sophia served as the cathedral of Constantinople in the Byzantine liturgical tradition, except for the period 1204–1261 when the Latin Crusaders installed their own hierarchy.",
+   "quote": "From its dedication in 360 until 1453, Hagia Sophia served as the cathedral of Constantinople in the Byzantine liturgical tradition, except for the period 1204–1261 when the Latin Crusaders installed their own hierarchy.",
+   "plate": "arch-shift",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Hagia_Sophia"
+  },
+  {
+   "year": "532",
+   "title": "Overview",
+   "caption": "The current structure was built by the Byzantine emperor Justinian I as the Christian basilica of Constantinople between 532–537 and was designed by the Greek geometers Isidore of Miletus and Anthemius of Tralles.",
+   "quote": "The current structure was built by the Byzantine emperor Justinian I as the Christian basilica of Constantinople between 532–537 and was designed by the Greek geometers Isidore of Miletus and Anthemius of Tralles.",
+   "plate": "volume",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Hagia_Sophia"
+  },
+  {
+   "year": "537",
+   "title": "Overview",
+   "caption": "The last of three church buildings to be successively erected on the site by the Eastern Roman Empire, it was completed in AD 537, becoming the world's largest interior space and among the first to employ a fully pendentive dome.",
+   "quote": "The last of three church buildings to be successively erected on the site by the Eastern Roman Empire, it was completed in AD 537, becoming the world's largest interior space and among the first to employ a fully pendentive dome.",
+   "plate": "dome",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Hagia_Sophia"
+  },
+  {
+   "year": "1453",
+   "title": "Overview",
+   "caption": "After the fall of Constantinople in 1453, it served as a mosque, having its minarets added soon after.",
+   "quote": "After the fall of Constantinople in 1453, it served as a mosque, having its minarets added soon after.",
+   "plate": "spires",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Hagia_Sophia"
+  },
+  {
+   "year": "1935",
+   "title": "Overview",
+   "caption": "The site became a museum in 1935, and was redesignated as a mosque in 2020.",
+   "quote": "The site became a museum in 1935, and was redesignated as a mosque in 2020.",
+   "plate": "book",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Hagia_Sophia"
+  }
+ ]
+}

@@ -1,0 +1,167 @@
+{
+ "id": "leaning-tower-of-pisa",
+ "name": "Leaning Tower of Pisa",
+ "city": "Pisa, Italy",
+ "tagline": "Bell tower in Pisa, Italy.",
+ "origin": "resolver",
+ "story_status": "EXTRACTED",
+ "model": null,
+ "gothic": false,
+ "verified": {
+  "status": "VERIFIED",
+  "qid": "Q39054",
+  "wikidata_url": "https://www.wikidata.org/wiki/Q39054",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Leaning_Tower_of_Pisa",
+  "coordinates": {
+   "lat": 43.72301,
+   "lon": 10.396624
+  },
+  "country": "Italy",
+  "styles": [
+   "Romanesque architecture"
+  ],
+  "instance_of": [
+   "tourist attraction",
+   "museum",
+   "church tower",
+   "inclined tower",
+   "religious museum",
+   "free-standing tower"
+  ],
+  "inception": "+1173-00-00T00:00:00Z",
+  "retrieved_at": "2026-11-25T14:30:31.231Z"
+ },
+ "construction": {
+  "status": "VERIFIED",
+  "quote": "The tower began to lean during construction in the 12th century, due to soft ground which could not properly support the structure's weight.",
+  "source": "https://en.wikipedia.org/wiki/Leaning_Tower_of_Pisa"
+ },
+ "image": {
+  "local": "/cache/leaning-tower-of-pisa-0.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Pisa_schiefer_turm_gewichte_1998_01.jpg",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "Rolf Gebhardt",
+  "status": "VERIFIED",
+  "file": "Pisa schiefer turm gewichte 1998 01.jpg"
+ },
+ "photos": [
+  {
+   "local": "/cache/leaning-tower-of-pisa-0.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Pisa_schiefer_turm_gewichte_1998_01.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Rolf Gebhardt",
+   "status": "VERIFIED",
+   "file": "Pisa schiefer turm gewichte 1998 01.jpg"
+  },
+  {
+   "local": "/cache/leaning-tower-of-pisa-1.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Cos_de_campanes_de_la_torre_de_Pisa.JPG",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Joanbanjo",
+   "status": "VERIFIED",
+   "file": "Cos de campanes de la torre de Pisa.JPG"
+  },
+  {
+   "local": "/cache/leaning-tower-of-pisa-2.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:The_Leaning_Tower_of_Pisa_SB.jpeg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Saffron Blaze",
+   "status": "VERIFIED",
+   "file": "The Leaning Tower of Pisa SB.jpeg"
+  },
+  {
+   "local": "/cache/leaning-tower-of-pisa-3.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Torre_di_pisa,_capitello_con_scimmiette.JPG",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Sailko",
+   "status": "VERIFIED",
+   "file": "Torre di pisa, capitello con scimmiette.JPG"
+  },
+  {
+   "local": "/cache/leaning-tower-of-pisa-4.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Pisa._Torre_02.JPG",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Miguel Hermoso Cuesta",
+   "status": "VERIFIED",
+   "file": "Pisa. Torre 02.JPG"
+  },
+  {
+   "local": "/cache/leaning-tower-of-pisa-5.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Pisa._Torre_01.JPG",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Miguel Hermoso Cuesta",
+   "status": "VERIFIED",
+   "file": "Pisa. Torre 01.JPG"
+  }
+ ],
+ "attested_features": [],
+ "scenes": [
+  {
+   "year": "296 ",
+   "title": "Overview",
+   "caption": "The tower has 296 or 294 steps; the seventh floor has two fewer steps on the north-facing staircase.",
+   "quote": "The tower has 296 or 294 steps; the seventh floor has two fewer steps on the north-facing staircase.",
+   "plate": "spires",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Leaning_Tower_of_Pisa"
+  },
+  {
+   "year": "500 ",
+   "title": "Overview",
+   "caption": "Its weight is estimated at 14,500 tonnes (16,000 short tons).",
+   "quote": "Its weight is estimated at 14,500 tonnes (16,000 short tons).",
+   "plate": "arch-shift",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Leaning_Tower_of_Pisa"
+  },
+  {
+   "year": "12th century",
+   "title": "Overview",
+   "caption": "The tower began to lean during construction in the 12th century, due to soft ground which could not properly support the structure's weight.",
+   "quote": "The tower began to lean during construction in the 12th century, due to soft ground which could not properly support the structure's weight.",
+   "plate": "spires",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Leaning_Tower_of_Pisa"
+  },
+  {
+   "year": "1185 ",
+   "title": "Architect",
+   "caption": "Pisano left Pisa in 1185 for Monreale, Sicily, only to return and die in his home town.",
+   "quote": "Pisano left Pisa in 1185 for Monreale, Sicily, only to return and die in his home town.",
+   "plate": "layers",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Leaning_Tower_of_Pisa"
+  },
+  {
+   "year": "14th century",
+   "title": "Overview",
+   "caption": "It worsened through the completion of construction in the 14th century.",
+   "quote": "It worsened through the completion of construction in the 14th century.",
+   "plate": "rise",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Leaning_Tower_of_Pisa"
+  },
+  {
+   "year": "1820",
+   "title": "Architect",
+   "caption": "In 1820, a piece of cast bearing his name was discovered at the foot of the tower  but this may be related to the bronze door in the façade of the cathedral that was destroyed in 1595.",
+   "quote": "In 1820, a piece of cast bearing his name was discovered at the foot of the tower  but this may be related to the bronze door in the façade of the cathedral that was destroyed in 1595.",
+   "plate": "spires",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Leaning_Tower_of_Pisa"
+  }
+ ]
+}

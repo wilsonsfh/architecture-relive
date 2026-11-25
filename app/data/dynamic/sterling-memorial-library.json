@@ -1,0 +1,171 @@
+{
+ "id": "sterling-memorial-library",
+ "name": "Sterling Memorial Library",
+ "city": "New Haven, United States",
+ "tagline": "Main library building of the Yale University Library.",
+ "origin": "resolver",
+ "story_status": "EXTRACTED",
+ "model": null,
+ "gothic": true,
+ "verified": {
+  "status": "VERIFIED",
+  "qid": "Q4290192",
+  "wikidata_url": "https://www.wikidata.org/wiki/Q4290192",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Sterling_Memorial_Library",
+  "coordinates": {
+   "lat": 41.3113,
+   "lon": -72.9291
+  },
+  "country": "United States",
+  "styles": [
+   "Collegiate Gothic",
+   "Romanesque Revival architecture"
+  ],
+  "instance_of": [
+   "academic library",
+   "library building"
+  ],
+  "inception": "+1930-00-00T00:00:00Z",
+  "retrieved_at": "2026-11-25T14:32:21.000Z"
+ },
+ "construction": {
+  "status": "VERIFIED",
+  "quote": "With the end of compulsory undergraduate chapel services in 1926 and the lack of a financier, the chapel was never built.",
+  "source": "https://en.wikipedia.org/wiki/Sterling_Memorial_Library"
+ },
+ "image": {
+  "local": "/cache/sterling-memorial-library-0.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Yale_music_library.JPG",
+  "license": "Public domain",
+  "license_url": null,
+  "author": "No machine-readable author provided. Ragesoss assumed (based on copyright claims",
+  "status": "VERIFIED",
+  "file": "Yale music library.JPG"
+ },
+ "photos": [
+  {
+   "local": "/cache/sterling-memorial-library-0.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Yale_music_library.JPG",
+   "license": "Public domain",
+   "license_url": null,
+   "author": "No machine-readable author provided. Ragesoss assumed (based on copyright claims",
+   "status": "VERIFIED",
+   "file": "Yale music library.JPG"
+  },
+  {
+   "local": "/cache/sterling-memorial-library-1.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Sterling_Memorial_Library_Newspaper_Reading_Room.JPG",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Nick Allen",
+   "status": "VERIFIED",
+   "file": "Sterling Memorial Library Newspaper Reading Room.JPG"
+  },
+  {
+   "local": "/cache/sterling-memorial-library-2.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Starr_Reading_Room_east.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Nick Allen",
+   "status": "VERIFIED",
+   "file": "Starr Reading Room east.jpg"
+  },
+  {
+   "local": "/cache/sterling-memorial-library-3.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Linonia_and_Brothers_Reading_Room_north.JPG",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Nick Allen",
+   "status": "VERIFIED",
+   "file": "Linonia and Brothers Reading Room north.JPG"
+  },
+  {
+   "local": "/cache/sterling-memorial-library-4.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Slavic_Reading_Room.JPG",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Nick Allen",
+   "status": "VERIFIED",
+   "file": "Slavic Reading Room.JPG"
+  },
+  {
+   "local": "/cache/sterling-memorial-library-5.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Port-Royal_des_Champs_G._Owen_Bonawit.JPG",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Nick Allen",
+   "status": "VERIFIED",
+   "file": "Port-Royal des Champs G. Owen Bonawit.JPG"
+  }
+ ],
+ "attested_features": [
+  {
+   "feature": "nave",
+   "quote": "While the library's nave and main reading rooms can be visited on guided tours, its collections are restricted to cardholders.",
+   "status": "VERIFIED",
+   "source": "https://en.wikipedia.org/wiki/Sterling_Memorial_Library"
+  }
+ ],
+ "scenes": [
+  {
+   "year": "122",
+   "title": "History",
+   "caption": "The library's 122,500-square-foot (11,380 m2) footprint would take up more than half a city block.",
+   "quote": "The library's 122,500-square-foot (11,380 m2) footprint would take up more than half a city block.",
+   "plate": "rise",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Sterling_Memorial_Library"
+  },
+  {
+   "year": "150",
+   "title": "Overview",
+   "caption": "It connects via tunnel to the underground Bass Library, which holds an additional 150,000 volumes.",
+   "quote": "It connects via tunnel to the underground Bass Library, which holds an additional 150,000 volumes.",
+   "plate": "arch-shift",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Sterling_Memorial_Library"
+  },
+  {
+   "year": "1918",
+   "title": "History",
+   "caption": "In 1918, Yale received an $18 million bequest (equivalent to $385,287,611 in 2025) from John W.",
+   "quote": "In 1918, Yale received an $18 million bequest (equivalent to $385,287,611 in 2025) from John W.",
+   "plate": "volume",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Sterling_Memorial_Library"
+  },
+  {
+   "year": "1924",
+   "title": "History",
+   "caption": "When Goodhue died in 1924, the project passed to James Gamble Rogers, the university's consulting architect.",
+   "quote": "When Goodhue died in 1924, the project passed to James Gamble Rogers, the university's consulting architect.",
+   "plate": "layers",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Sterling_Memorial_Library"
+  },
+  {
+   "year": "1926 ",
+   "title": "History",
+   "caption": "With the end of compulsory undergraduate chapel services in 1926 and the lack of a financier, the chapel was never built.",
+   "quote": "With the end of compulsory undergraduate chapel services in 1926 and the lack of a financier, the chapel was never built.",
+   "plate": "rise",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Sterling_Memorial_Library"
+  },
+  {
+   "year": "1931",
+   "title": "Overview",
+   "caption": "Opened in 1931, the library was designed by James Gamble Rogers as the centerpiece of Yale's Gothic Revival campus.",
+   "quote": "Opened in 1931, the library was designed by James Gamble Rogers as the centerpiece of Yale's Gothic Revival campus.",
+   "plate": "arch-shift",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Sterling_Memorial_Library"
+  }
+ ]
+}

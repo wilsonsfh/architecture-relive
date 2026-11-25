@@ -1,0 +1,190 @@
+{
+ "id": "florence-cathedral",
+ "name": "Florence Cathedral",
+ "city": "Florence, Italy",
+ "tagline": "Church in Tuscany, Italy.",
+ "origin": "resolver",
+ "story_status": "EXTRACTED",
+ "model": null,
+ "gothic": true,
+ "verified": {
+  "status": "VERIFIED",
+  "qid": "Q191739",
+  "wikidata_url": "https://www.wikidata.org/wiki/Q191739",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Florence_Cathedral",
+  "coordinates": {
+   "lat": 43.77305555555556,
+   "lon": 11.256944444444445
+  },
+  "country": "Italy",
+  "styles": [
+   "Renaissance architecture",
+   "Italian Gothic architecture"
+  ],
+  "instance_of": [
+   "minor basilica",
+   "cathedral",
+   "museum"
+  ],
+  "inception": "+1296-09-08T00:00:00Z",
+  "retrieved_at": "2026-11-25T14:27:09.166Z"
+ },
+ "construction": {
+  "status": "VERIFIED",
+  "quote": "Santa Maria del Fiore was built on the site of Florence's second cathedral dedicated to Saint Reparata; the first bishop's seat was the Basilica of San Lorenzo, the initial building of which was consecrated as a church in 393 by St.",
+  "source": "https://en.wikipedia.org/wiki/Florence_Cathedral"
+ },
+ "image": {
+  "local": "/cache/florence-cathedral-0.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Firenze.Duomo.dome04.JPG",
+  "license": "Public domain",
+  "license_url": null,
+  "author": "Federigo Zuccaro or Federico Zuccari",
+  "status": "VERIFIED",
+  "file": "Firenze.Duomo.dome04.JPG"
+ },
+ "photos": [
+  {
+   "local": "/cache/florence-cathedral-0.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Firenze.Duomo.dome04.JPG",
+   "license": "Public domain",
+   "license_url": null,
+   "author": "Federigo Zuccaro or Federico Zuccari",
+   "status": "VERIFIED",
+   "file": "Firenze.Duomo.dome04.JPG"
+  },
+  {
+   "local": "/cache/florence-cathedral-1.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Firenze.Duomo.monument.JPG",
+   "license": "Public domain",
+   "license_url": null,
+   "author": "No machine-readable author provided. JoJan assumed (based on copyright claims).",
+   "status": "VERIFIED",
+   "file": "Firenze.Duomo.monument.JPG"
+  },
+  {
+   "local": "/cache/florence-cathedral-2.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:046CupolaSPietro.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "MarkusMark",
+   "status": "VERIFIED",
+   "file": "046CupolaSPietro.jpg"
+  },
+  {
+   "local": "/cache/florence-cathedral-3.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Duomo_Firenze_Apr_2008_(13).JPG",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Gryffindor",
+   "status": "VERIFIED",
+   "file": "Duomo Firenze Apr 2008 (13).JPG"
+  },
+  {
+   "local": "/cache/florence-cathedral-4.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Duomo_Firenze_Apr_2008.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Gryffindor",
+   "status": "VERIFIED",
+   "file": "Duomo Firenze Apr 2008.jpg"
+  },
+  {
+   "local": "/cache/florence-cathedral-5.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Andrea_di_bonaiuto,_dettaglio_dal_cappoellone_degli_spagnoli.jpg",
+   "license": "Public domain",
+   "license_url": null,
+   "author": "Andrea di Bonaiuto",
+   "status": "VERIFIED",
+   "file": "Andrea di bonaiuto, dettaglio dal cappoellone degli spagnoli.jpg"
+  }
+ ],
+ "attested_features": [
+  {
+   "feature": "nave",
+   "quote": "He designed three wide naves ending under an octagonal dome, with the middle nave covering the area of Santa Reparata.",
+   "status": "VERIFIED",
+   "source": "https://en.wikipedia.org/wiki/Florence_Cathedral"
+  },
+  {
+   "feature": "flying-buttress",
+   "quote": "Italian architects regarded Gothic flying buttresses as ugly makeshifts.",
+   "status": "VERIFIED",
+   "source": "https://en.wikipedia.org/wiki/Florence_Cathedral"
+  },
+  {
+   "feature": "clerestory",
+   "quote": "The clerestory windows are round, a common Italian Gothic feature.",
+   "status": "VERIFIED",
+   "source": "https://en.wikipedia.org/wiki/Florence_Cathedral"
+  },
+  {
+   "feature": "rose-window",
+   "quote": "Between the rose window and the tympanum, there is a gallery with busts of great Florentine artists.",
+   "status": "VERIFIED",
+   "source": "https://en.wikipedia.org/wiki/Florence_Cathedral"
+  }
+ ],
+ "scenes": [
+  {
+   "year": "140 ",
+   "title": "History",
+   "caption": "The building of this vast project was to last 140 years; Arnolfo's plan for the eastern end, although maintained in concept, was greatly expanded in size.",
+   "quote": "The building of this vast project was to last 140 years; Arnolfo's plan for the eastern end, although maintained in concept, was greatly expanded in size.",
+   "plate": "rise",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Florence_Cathedral"
+  },
+  {
+   "year": "393 ",
+   "title": "History",
+   "caption": "Santa Maria del Fiore was built on the site of Florence's second cathedral dedicated to Saint Reparata; the first bishop's seat was the Basilica of San Lorenzo, the initial building of which was consecrated as a church in 393 by St.",
+   "quote": "Santa Maria del Fiore was built on the site of Florence's second cathedral dedicated to Saint Reparata; the first bishop's seat was the Basilica of San Lorenzo, the initial building of which was consecrated as a church in 393 by St.",
+   "plate": "arch-shift",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Florence_Cathedral"
+  },
+  {
+   "year": "5th century",
+   "title": "History",
+   "caption": "The ancient structure, founded in the early 5th century and having undergone many repairs, was crumbling with age, according to the 14th-century Nuova Cronica of Giovanni Villani, and was no longer large enough to serve the growing population of the city.",
+   "quote": "The ancient structure, founded in the early 5th century and having undergone many repairs, was crumbling with age, according to the 14th-century Nuova Cronica of Giovanni Villani, and was no longer large enough to serve the growing population of the city.",
+   "plate": "volume",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Florence_Cathedral"
+  },
+  {
+   "year": "1294",
+   "title": "History",
+   "caption": "The city council of Florence approved Arnolfo di Cambio's design for the new church in 1294.",
+   "quote": "The city council of Florence approved Arnolfo di Cambio's design for the new church in 1294.",
+   "plate": "layers",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Florence_Cathedral"
+  },
+  {
+   "year": "1296",
+   "title": "History",
+   "caption": "The first stone was laid on 9 September 1296, by Cardinal Valeriana, the first papal legate ever sent to Florence.",
+   "quote": "The first stone was laid on 9 September 1296, by Cardinal Valeriana, the first papal legate ever sent to Florence.",
+   "plate": "rise",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Florence_Cathedral"
+  },
+  {
+   "year": "1302",
+   "title": "History",
+   "caption": "After Arnolfo died in 1302, building of the cathedral slowed for almost 50 years.",
+   "quote": "After Arnolfo died in 1302, building of the cathedral slowed for almost 50 years.",
+   "plate": "arch-shift",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Florence_Cathedral"
+  }
+ ]
+}

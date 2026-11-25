@@ -1,0 +1,44 @@
+[
+ null,
+ null,
+ {
+  "local": "/cache/lincoln-memorial-s2.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Lincoln_Memorial_3.JPG",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "UpstateNYer",
+  "file": "Lincoln Memorial 3.JPG",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ {
+  "local": "/cache/lincoln-memorial-s3.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:National_Mall,_Lincoln_Memorial_04448v.jpg",
+  "license": "Public domain",
+  "license_url": null,
+  "author": "Carol M. Highsmith",
+  "file": "National Mall, Lincoln Memorial 04448v.jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ {
+  "local": "/cache/lincoln-memorial-s4.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:The_Lincoln_Memorial_(7189327895).jpg",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "author": "www.GlynLowe.com from Hamburg, Germany",
+  "file": "The Lincoln Memorial (7189327895).jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ {
+  "local": "/cache/lincoln-memorial-s5.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:An_overview_of_the_Lincoln_Memorial,_Reflecting_Pool_and_a_portion_of_the_Mall,_with_a_crowd_gathered_for_the_National_Victory_Celebration,_a_day-long_event_being_held_in_honor_of_t_-_DPLA_-_8b525e03e3721e8fc04d91ea75db1e94.jpeg",
+  "license": "Public domain",
+  "license_url": null,
+  "author": "Department of Defense. American Forces Information Service. Defense Visual Infor",
+  "file": "An overview of the Lincoln Memorial, Reflecting Pool and a portion of the Mall, with a crowd gathered for the National Victory Celebration, a day-long event being held in honor of t - DPLA - 8b525e03e3721e8fc04d91ea75db1e94.jpeg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ }
+]

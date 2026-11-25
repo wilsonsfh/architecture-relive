@@ -1,0 +1,166 @@
+{
+ "id": "angkor-wat",
+ "name": "Angkor Wat",
+ "city": "Siem Reap Province, Cambodia",
+ "tagline": "Buddhist temple complex in Cambodia.",
+ "origin": "resolver",
+ "story_status": "EXTRACTED",
+ "model": null,
+ "gothic": false,
+ "verified": {
+  "status": "VERIFIED",
+  "qid": "Q43473",
+  "wikidata_url": "https://www.wikidata.org/wiki/Q43473",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Angkor_Wat",
+  "coordinates": {
+   "lat": 13.4125,
+   "lon": 103.86666666667
+  },
+  "country": "Cambodia",
+  "styles": [
+   "Khmer architecture",
+   "Dravidian architecture"
+  ],
+  "instance_of": [
+   "Buddhist temple",
+   "archaeological site",
+   "temple complex",
+   "Hindu temple"
+  ],
+  "inception": "+1200-00-00T00:00:00Z",
+  "retrieved_at": "2026-11-25T14:33:13.326Z"
+ },
+ "construction": {
+  "status": "VERIFIED",
+  "quote": "8 acres) within the medieval capital of Angkor, it was constructed between 1113 and 1150 CE during the reign of the Khmer king Suryavarman II as a Hindu temple dedicated to Vishnu.",
+  "source": "https://en.wikipedia.org/wiki/Angkor_Wat"
+ },
+ "image": {
+  "local": "/cache/angkor-wat-0.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Angkor1866.jpg",
+  "license": "Public domain",
+  "license_url": null,
+  "author": "Wikimedia Commons",
+  "status": "VERIFIED",
+  "file": "Angkor1866.jpg"
+ },
+ "photos": [
+  {
+   "local": "/cache/angkor-wat-0.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Angkor1866.jpg",
+   "license": "Public domain",
+   "license_url": null,
+   "author": "Wikimedia Commons",
+   "status": "VERIFIED",
+   "file": "Angkor1866.jpg"
+  },
+  {
+   "local": "/cache/angkor-wat-1.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Awatcornertower01.JPG",
+   "license": "CC BY-SA 3.0",
+   "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "Wikimedia Commons",
+   "status": "VERIFIED",
+   "file": "Awatcornertower01.JPG"
+  },
+  {
+   "local": "/cache/angkor-wat-2.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Angkor-Wat-from-the-air.JPG",
+   "license": "CC BY 2.5",
+   "license_url": "https://creativecommons.org/licenses/by/2.5",
+   "author": "Charles J Sharp",
+   "status": "VERIFIED",
+   "file": "Angkor-Wat-from-the-air.JPG"
+  },
+  {
+   "local": "/cache/angkor-wat-3.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Angkor_Wat.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Bjørn Christian Tørrissen",
+   "status": "VERIFIED",
+   "file": "Angkor Wat.jpg"
+  },
+  {
+   "local": "/cache/angkor-wat-4.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Statue_in_Cambodia.jpg",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "author": "mark sebastian",
+   "status": "VERIFIED",
+   "file": "Statue in Cambodia.jpg"
+  },
+  {
+   "local": "/cache/angkor-wat-5.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Angkor_Vat_(6931599619).jpg",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "author": "Jean-Pierre Dalbéra from Paris, France",
+   "status": "VERIFIED",
+   "file": "Angkor Vat (6931599619).jpg"
+  }
+ ],
+ "attested_features": [],
+ "scenes": [
+  {
+   "year": "1113 ",
+   "title": "Overview",
+   "caption": "8 acres) within the medieval capital of Angkor, it was constructed between 1113 and 1150 CE during the reign of the Khmer king Suryavarman II as a Hindu temple dedicated to Vishnu.",
+   "quote": "8 acres) within the medieval capital of Angkor, it was constructed between 1113 and 1150 CE during the reign of the Khmer king Suryavarman II as a Hindu temple dedicated to Vishnu.",
+   "plate": "columns",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Angkor_Wat"
+  },
+  {
+   "year": "1113",
+   "title": "Construction",
+   "caption": "Angkor Wat was commissioned by the Khmer king Suryavarman II (ruled 1113–c.",
+   "quote": "Angkor Wat was commissioned by the Khmer king Suryavarman II (ruled 1113–c.",
+   "plate": "arch-shift",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Angkor_Wat"
+  },
+  {
+   "year": "13th century",
+   "title": "Overview",
+   "caption": "From the late 13th century onward, the complex was gradually transformed into a Buddhist temple as Khmer kings adopted Buddhism.",
+   "quote": "From the late 13th century onward, the complex was gradually transformed into a Buddhist temple as Khmer kings adopted Buddhism.",
+   "plate": "columns",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Angkor_Wat"
+  },
+  {
+   "year": "20th century",
+   "title": "Overview",
+   "caption": "The temple complex fell into disuse before restoration work began on it in the 20th century, with various international agencies involved in the project.",
+   "quote": "The temple complex fell into disuse before restoration work began on it in the 20th century, with various international agencies involved in the project.",
+   "plate": "columns",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Angkor_Wat"
+  },
+  {
+   "year": "1992",
+   "title": "Overview",
+   "caption": "The Angkor area was designated as a UNESCO World Heritage Site in 1992.",
+   "quote": "The Angkor area was designated as a UNESCO World Heritage Site in 1992.",
+   "plate": "book",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Angkor_Wat"
+  },
+  {
+   "year": "1993 ",
+   "title": "Overview",
+   "caption": "Restoration was coordinated by the International Coordinating Committee for the Safeguarding and Development of the Historic Site of Angkor (ICC-Angkor), established in 1993 under UNESCO.",
+   "quote": "Restoration was coordinated by the International Coordinating Committee for the Safeguarding and Development of the Historic Site of Angkor (ICC-Angkor), established in 1993 under UNESCO.",
+   "plate": "restoration",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Angkor_Wat"
+  }
+ ]
+}

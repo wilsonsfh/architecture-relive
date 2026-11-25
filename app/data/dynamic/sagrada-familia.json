@@ -1,0 +1,171 @@
+{
+ "id": "sagrada-familia",
+ "name": "Basilica and Expiatory Church of the Holy Family",
+ "city": "Sagrada Família, Spain",
+ "tagline": "Basilica under construction since 1882 in Barcelona, Spain.",
+ "origin": "resolver",
+ "story_status": "EXTRACTED",
+ "model": null,
+ "gothic": true,
+ "verified": {
+  "status": "VERIFIED",
+  "qid": "Q48435",
+  "wikidata_url": "https://www.wikidata.org/wiki/Q48435",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia",
+  "coordinates": {
+   "lat": 41.40369,
+   "lon": 2.17433
+  },
+  "country": "Spain",
+  "styles": [
+   "Catalan modernism",
+   "Gothic Revival"
+  ],
+  "instance_of": [
+   "minor basilica",
+   "expiatory temple"
+  ],
+  "inception": "+1882-03-19T00:00:00Z",
+  "retrieved_at": "2026-11-25T14:28:06.247Z"
+ },
+ "construction": {
+  "status": "VERIFIED",
+  "quote": "On 19 March 1882, construction of Sagrada Família began under the architect Francisco de Paula del Villar.",
+  "source": "https://en.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia"
+ },
+ "image": {
+  "local": "/cache/sagrada-familia-0.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:046CupolaSPietro.jpg",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "MarkusMark",
+  "status": "VERIFIED",
+  "file": "046CupolaSPietro.jpg"
+ },
+ "photos": [
+  {
+   "local": "/cache/sagrada-familia-0.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:046CupolaSPietro.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "MarkusMark",
+   "status": "VERIFIED",
+   "file": "046CupolaSPietro.jpg"
+  },
+  {
+   "local": "/cache/sagrada-familia-1.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Puerta_Gloria.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Canaan",
+   "status": "VERIFIED",
+   "file": "Puerta Gloria.jpg"
+  },
+  {
+   "local": "/cache/sagrada-familia-2.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:AlphaOmega.jpg",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "author": "Etan J. Tal",
+   "status": "VERIFIED",
+   "file": "AlphaOmega.jpg"
+  },
+  {
+   "local": "/cache/sagrada-familia-3.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:SagradaFamiliaRoof2.jpg",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "author": "Etan J. Tal",
+   "status": "VERIFIED",
+   "file": "SagradaFamiliaRoof2.jpg"
+  },
+  {
+   "local": "/cache/sagrada-familia-4.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:019_Sagrada_Fam%C3%ADlia,_interior,_fa%C3%A7ana_de_la_Gl%C3%B2ria.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Enfo",
+   "status": "VERIFIED",
+   "file": "019 Sagrada Família, interior, façana de la Glòria.jpg"
+  },
+  {
+   "local": "/cache/sagrada-familia-5.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:La_Sagrada_Familia_en_construcci%C3%B3n,_c._1915.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Templo Expiatorio de la Sagrada Familia",
+   "status": "VERIFIED",
+   "file": "La Sagrada Familia en construcción, c. 1915.jpg"
+  }
+ ],
+ "attested_features": [
+  {
+   "feature": "nave",
+   "quote": "The central nave vaulting was completed in 2000 and the main tasks since then have been the construction of the transept vaults and apse.",
+   "status": "VERIFIED",
+   "source": "https://en.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia"
+  }
+ ],
+ "scenes": [
+  {
+   "year": "1882",
+   "title": "Overview",
+   "caption": "On 19 March 1882, construction of Sagrada Família began under the architect Francisco de Paula del Villar.",
+   "quote": "On 19 March 1882, construction of Sagrada Família began under the architect Francisco de Paula del Villar.",
+   "plate": "rise",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia"
+  },
+  {
+   "year": "1883",
+   "title": "Overview",
+   "caption": "In 1883, when Villar resigned, Gaudí took over as chief architect, transforming the project with his architectural and engineering style, combining Gothic and curvilinear Art Nouveau forms.",
+   "quote": "In 1883, when Villar resigned, Gaudí took over as chief architect, transforming the project with his architectural and engineering style, combining Gothic and curvilinear Art Nouveau forms.",
+   "plate": "arch-shift",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia"
+  },
+  {
+   "year": "1926",
+   "title": "Overview",
+   "caption": "At the time of his death in 1926, less than a quarter of the project was complete.",
+   "quote": "At the time of his death in 1926, less than a quarter of the project was complete.",
+   "plate": "volume",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia"
+  },
+  {
+   "year": "1936",
+   "title": "Overview",
+   "caption": "In July 1936, anarchists from the Iberian Anarchist Federation (Federación Anarquista Ibérica, or FAI) set fire to the crypt and broke their way into the workshop, partially destroying Gaudí's original plans.",
+   "quote": "In July 1936, anarchists from the Iberian Anarchist Federation (Federación Anarquista Ibérica, or FAI) set fire to the crypt and broke their way into the workshop, partially destroying Gaudí's original plans.",
+   "plate": "fracture",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia"
+  },
+  {
+   "year": "2005",
+   "title": "Overview",
+   "caption": "In 2005, parts of the Sagrada Família (Nativity façade and Crypt) were declared a UNESCO World Heritage Site, under \"Works of Antoni Gaudí\".",
+   "quote": "In 2005, parts of the Sagrada Família (Nativity façade and Crypt) were declared a UNESCO World Heritage Site, under \"Works of Antoni Gaudí\".",
+   "plate": "book",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia"
+  },
+  {
+   "year": "2010",
+   "title": "Overview",
+   "caption": "On 7 November 2010, Pope Benedict XVI consecrated the church and proclaimed it a basilica.",
+   "quote": "On 7 November 2010, Pope Benedict XVI consecrated the church and proclaimed it a basilica.",
+   "plate": "arch-shift",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia"
+  }
+ ]
+}

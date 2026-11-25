@@ -1,0 +1,35 @@
+[
+ {
+  "local": "/cache/chichen-itza-s0.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:North-East_side_of_the_Temple_of_Kukulc%C3%A1n_in_Chichen_Itza,_Mexico.jpg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Marc-Lautenbacher",
+  "file": "North-East side of the Temple of Kukulcán in Chichen Itza, Mexico.jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ null,
+ {
+  "local": "/cache/chichen-itza-s2.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Chichen_Itza_1.jpg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Daniel Schwen",
+  "file": "Chichen Itza 1.jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ null,
+ null,
+ {
+  "local": "/cache/chichen-itza-s5.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Chichen_Itza_2.jpg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Daniel Schwen",
+  "file": "Chichen Itza 2.jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ }
+]

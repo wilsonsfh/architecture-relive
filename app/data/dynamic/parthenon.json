@@ -1,0 +1,172 @@
+{
+ "id": "parthenon",
+ "name": "Parthenon",
+ "city": "Athens Municipality, Greece",
+ "tagline": "Temple on the Athenian Acropolis, Greece.",
+ "origin": "resolver",
+ "story_status": "EXTRACTED",
+ "model": null,
+ "gothic": false,
+ "verified": {
+  "status": "VERIFIED",
+  "qid": "Q10288",
+  "wikidata_url": "https://www.wikidata.org/wiki/Q10288",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Parthenon",
+  "coordinates": {
+   "lat": 37.971527,
+   "lon": 23.726601
+  },
+  "country": "Greece",
+  "styles": [
+   "Doric order",
+   "peripteral"
+  ],
+  "instance_of": [
+   "ancient Greek temple",
+   "Ancient Greek archaeological site",
+   "religious building ruin"
+  ],
+  "inception": "-0500-00-00T00:00:00Z",
+  "retrieved_at": "2026-11-25T14:29:16.818Z"
+ },
+ "construction": {
+  "status": "VERIFIED",
+  "quote": "The Parthenon was built in the 5th century BC in thanksgiving for the Greek victory over the Persian invaders during the Greco-Persian Wars.",
+  "source": "https://en.wikipedia.org/wiki/Parthenon"
+ },
+ "image": {
+  "local": "/cache/parthenon-0.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Parthenon_XL.jpg",
+  "license": "CC BY-SA 2.5",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+  "author": "No machine-readable author provided. Thermos assumed (based on copyright claims)",
+  "status": "VERIFIED",
+  "file": "Parthenon XL.jpg"
+ },
+ "photos": [
+  {
+   "local": "/cache/parthenon-0.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Parthenon_XL.jpg",
+   "license": "CC BY-SA 2.5",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+   "author": "No machine-readable author provided. Thermos assumed (based on copyright claims)",
+   "status": "VERIFIED",
+   "file": "Parthenon XL.jpg"
+  },
+  {
+   "local": "/cache/parthenon-1.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:1868_Lawrence_Alma-Tadema_-_Phidias_Showing_the_Frieze_of_the_Parthenon_to_his_Friends.jpg",
+   "license": "Public domain",
+   "license_url": null,
+   "author": "Lawrence Alma-Tadema",
+   "status": "VERIFIED",
+   "file": "1868 Lawrence Alma-Tadema - Phidias Showing the Frieze of the Parthenon to his Friends.jpg"
+  },
+  {
+   "local": "/cache/parthenon-2.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:MotarFragmentFromParthenon-BritishMuseum-August21-08.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "Wikimedia Commons",
+   "status": "VERIFIED",
+   "file": "MotarFragmentFromParthenon-BritishMuseum-August21-08.jpg"
+  },
+  {
+   "local": "/cache/parthenon-3.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Flickr_-_Nic%27s_events_-_London_-_14-15_Dec_2007_-_067.jpg",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "author": "Wikimedia Commons",
+   "status": "VERIFIED",
+   "file": "Flickr - Nic's events - London - 14-15 Dec 2007 - 067.jpg"
+  },
+  {
+   "local": "/cache/parthenon-4.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:The_Parthenon_in_Athens.jpg",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "author": "Steve Swayne",
+   "status": "VERIFIED",
+   "file": "The Parthenon in Athens.jpg"
+  },
+  {
+   "local": "/cache/parthenon-5.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Attica_06-13_Athens_50_View_from_Philopappos_-_Acropolis_Hill.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "A.Savin",
+   "status": "VERIFIED",
+   "file": "Attica 06-13 Athens 50 View from Philopappos - Acropolis Hill.jpg"
+  }
+ ],
+ "attested_features": [
+  {
+   "feature": "nave",
+   "quote": "A large central portal with surrounding side-doors was made in the wall dividing the cella, which became the church's nave, and from the rear chamber, the church's narthex.",
+   "status": "VERIFIED",
+   "source": "https://en.wikipedia.org/wiki/Parthenon"
+  }
+ ],
+ "scenes": [
+  {
+   "year": "5th century BC",
+   "title": "Overview",
+   "caption": "The Parthenon was built in the 5th century BC in thanksgiving for the Greek victory over the Persian invaders during the Greco-Persian Wars.",
+   "quote": "The Parthenon was built in the 5th century BC in thanksgiving for the Greek victory over the Persian invaders during the Greco-Persian Wars.",
+   "plate": "rise",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Parthenon"
+  },
+  {
+   "year": "447 BC",
+   "title": "Overview",
+   "caption": "Construction started in 447 BC when the Delian League was at the peak of its power.",
+   "quote": "Construction started in 447 BC when the Delian League was at the peak of its power.",
+   "plate": "arch-shift",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Parthenon"
+  },
+  {
+   "year": "438 BC",
+   "title": "Overview",
+   "caption": "It was completed in 438 BC; work on the artwork and decorations continued until 432 BC.",
+   "quote": "It was completed in 438 BC; work on the artwork and decorations continued until 432 BC.",
+   "plate": "volume",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Parthenon"
+  },
+  {
+   "year": "6th century",
+   "title": "Overview",
+   "caption": "In the final decade of the 6th century AD, the Parthenon was converted into a Christian church dedicated to the Virgin Mary.",
+   "quote": "In the final decade of the 6th century AD, the Parthenon was converted into a Christian church dedicated to the Virgin Mary.",
+   "plate": "layers",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Parthenon"
+  },
+  {
+   "year": "15th century",
+   "title": "Overview",
+   "caption": "After the Ottoman conquest in the mid-15th century, it became a mosque.",
+   "quote": "After the Ottoman conquest in the mid-15th century, it became a mosque.",
+   "plate": "rise",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Parthenon"
+  },
+  {
+   "year": "1687 ",
+   "title": "Overview",
+   "caption": "In the Morean War, a Venetian bomb landed on the Parthenon, which the Ottomans had used as a munitions dump, during the 1687 siege of the Acropolis.",
+   "quote": "In the Morean War, a Venetian bomb landed on the Parthenon, which the Ottomans had used as a munitions dump, during the 1687 siege of the Acropolis.",
+   "plate": "fracture",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Parthenon"
+  }
+ ]
+}

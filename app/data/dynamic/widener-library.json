@@ -1,0 +1,160 @@
+{
+ "id": "widener-library",
+ "name": "Widener Library",
+ "city": "Massachusetts, United States",
+ "tagline": "Primary building of Harvard Library.",
+ "origin": "resolver",
+ "story_status": "EXTRACTED",
+ "model": null,
+ "gothic": false,
+ "verified": {
+  "status": "VERIFIED",
+  "qid": "Q1060854",
+  "wikidata_url": "https://www.wikidata.org/wiki/Q1060854",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Widener_Library",
+  "coordinates": {
+   "lat": 42.3737,
+   "lon": -71.1164
+  },
+  "country": "United States",
+  "styles": [],
+  "instance_of": [
+   "library"
+  ],
+  "inception": "+1915-00-00T00:00:00Z",
+  "retrieved_at": "2026-11-25T14:32:33.125Z"
+ },
+ "construction": {
+  "status": "VERIFIED",
+  "quote": "It honors Harry Elkins Widener, a 1907 Harvard College graduate and book collector, and was built by his mother Eleanor Elkins Widener soon after his death in the sinking of the Titanic in 1912.",
+  "source": "https://en.wikipedia.org/wiki/Widener_Library"
+ },
+ "image": {
+  "local": "/cache/widener-library-0.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Gore_Hall_finial_-_Harvard_University_-_IMG_0106.JPG",
+  "license": "Public domain",
+  "license_url": null,
+  "author": "Daderot",
+  "status": "VERIFIED",
+  "file": "Gore Hall finial - Harvard University - IMG 0106.JPG"
+ },
+ "photos": [
+  {
+   "local": "/cache/widener-library-0.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Gore_Hall_finial_-_Harvard_University_-_IMG_0106.JPG",
+   "license": "Public domain",
+   "license_url": null,
+   "author": "Daderot",
+   "status": "VERIFIED",
+   "file": "Gore Hall finial - Harvard University - IMG 0106.JPG"
+  },
+  {
+   "local": "/cache/widener-library-1.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:AmCyc_Harvard_University_-_Gore_Hall.jpg",
+   "license": "Public domain",
+   "license_url": null,
+   "author": "engraved by John Filmer",
+   "status": "VERIFIED",
+   "file": "AmCyc Harvard University - Gore Hall.jpg"
+  },
+  {
+   "local": "/cache/widener-library-2.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:HarvardUniversity_WidenerLibrary_Reading_c1915_cropped.jpg",
+   "license": "Public domain",
+   "license_url": null,
+   "author": "Unknown authorUnknown author",
+   "status": "VERIFIED",
+   "file": "HarvardUniversity WidenerLibrary Reading c1915 cropped.jpg"
+  },
+  {
+   "local": "/cache/widener-library-3.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:HarvardUniversity_GoreHall_RemovingBooks_c1912.jpg",
+   "license": "Public domain",
+   "license_url": null,
+   "author": "Unknown authorUnknown author",
+   "status": "VERIFIED",
+   "file": "HarvardUniversity GoreHall RemovingBooks c1912.jpg"
+  },
+  {
+   "local": "/cache/widener-library-4.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:HarvardUniversity_WidenerLibrary_StairsToMemorialRooms.jpeg",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "author": "Will Hart from Fullerton, U.S.A. - flickr.com/photos/cthulhuwho1 - cthulhuwho1.c",
+   "status": "VERIFIED",
+   "file": "HarvardUniversity WidenerLibrary StairsToMemorialRooms.jpeg"
+  },
+  {
+   "local": "/cache/widener-library-5.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:HarvardUniversity_WidenerLibrary_MainDoor.jpeg",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "author": "Will Hart from Fullerton, U.S.A. - flickr.com/photos/cthulhuwho1 - cthulhuwho1.c",
+   "status": "VERIFIED",
+   "file": "HarvardUniversity WidenerLibrary MainDoor.jpeg"
+  }
+ ],
+ "attested_features": [],
+ "scenes": [
+  {
+   "year": "1892 ",
+   "title": "Predecessor",
+   "caption": "Harvard Librarian Justin Winsor concluded his 1892 Annual Report by pleading, \"I have in earlier reports exhaust­ed the language of warning and anxiety, in rep­re­sent­ing the totally inad­e­quate accom­mo­da­tions for books and readers which Gore Hall affords.",
+   "quote": "Harvard Librarian Justin Winsor concluded his 1892 Annual Report by pleading, \"I have in earlier reports exhaust­ed the language of warning and anxiety, in rep­re­sent­ing the totally inad­e­quate accom­mo­da­tions for books and readers which Gore Hall affords.",
+   "plate": "rise",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Widener_Library"
+  },
+  {
+   "year": "1907 ",
+   "title": "Overview",
+   "caption": "It honors Harry Elkins Widener, a 1907 Harvard College graduate and book collector, and was built by his mother Eleanor Elkins Widener soon after his death in the sinking of the Titanic in 1912.",
+   "quote": "It honors Harry Elkins Widener, a 1907 Harvard College graduate and book collector, and was built by his mother Eleanor Elkins Widener soon after his death in the sinking of the Titanic in 1912.",
+   "plate": "arch-shift",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Widener_Library"
+  },
+  {
+   "year": "1910 ",
+   "title": "Terms and cost of gift",
+   "caption": "which largely followed the 1910 architects' committee's outline (though with the committee's central circula­tion room shifted from the center to the northeast corner, yielding pride of place to the Memorial Rooms).",
+   "quote": "which largely followed the 1910 architects' committee's outline (though with the committee's central circula­tion room shifted from the center to the northeast corner, yielding pride of place to the Memorial Rooms).",
+   "plate": "volume",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Widener_Library"
+  },
+  {
+   "year": "1913",
+   "title": "Terms and cost of gift",
+   "caption": "After Gore Hall was demolished to make way, ground was broken on February 12, 1913, and the corner­stone laid June 16.",
+   "quote": "After Gore Hall was demolished to make way, ground was broken on February 12, 1913, and the corner­stone laid June 16.",
+   "plate": "layers",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Widener_Library"
+  },
+  {
+   "year": "1969 ",
+   "title": "Overview",
+   "caption": "to which was later added one of the few perfect Gutenberg Bibles‍—‌the object of a 1969 burglary attempt conjectured by Harvard's police chief to have been inspired by the 1964 heist film Topkapi.",
+   "quote": "to which was later added one of the few perfect Gutenberg Bibles‍—‌the object of a 1969 burglary attempt conjectured by Harvard's police chief to have been inspired by the 1964 heist film Topkapi.",
+   "plate": "spires",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Widener_Library"
+  },
+  {
+   "year": "2025",
+   "title": "Terms and cost of gift",
+   "caption": "5 million [equivalent to $80 million in 2025].",
+   "quote": "5 million [equivalent to $80 million in 2025].",
+   "plate": "arch-shift",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Widener_Library"
+  }
+ ]
+}

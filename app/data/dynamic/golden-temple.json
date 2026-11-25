@@ -1,0 +1,163 @@
+{
+ "id": "golden-temple",
+ "name": "Harmandir Sahib",
+ "city": "Amritsar, India",
+ "tagline": "Sikh religious site in Punjab, India.",
+ "origin": "resolver",
+ "story_status": "EXTRACTED",
+ "model": null,
+ "gothic": false,
+ "verified": {
+  "status": "VERIFIED",
+  "qid": "Q180422",
+  "wikidata_url": "https://www.wikidata.org/wiki/Q180422",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Golden_Temple",
+  "coordinates": {
+   "lat": 31.62,
+   "lon": 74.876667
+  },
+  "country": "India",
+  "styles": [],
+  "instance_of": [
+   "built structure",
+   "historic site",
+   "pilgrimage site",
+   "gurdwara"
+  ],
+  "inception": "+1589-00-00T00:00:00Z",
+  "retrieved_at": "2026-11-25T14:34:13.607Z"
+ },
+ "construction": {
+  "status": "VERIFIED",
+  "quote": "The pool on the site of the gurdwara was completed by the fourth Sikh Guru, Guru Ram Das, in 1577.",
+  "source": "https://en.wikipedia.org/wiki/Golden_Temple"
+ },
+ "image": {
+  "local": "/cache/golden-temple-0.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Goldentemple_(82).JPG",
+  "license": "CC BY 2.5",
+  "license_url": "https://creativecommons.org/licenses/by/2.5",
+  "author": "No machine-readable author provided. Soman assumed (based on copyright claims).",
+  "status": "VERIFIED",
+  "file": "Goldentemple (82).JPG"
+ },
+ "photos": [
+  {
+   "local": "/cache/golden-temple-0.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Goldentemple_(82).JPG",
+   "license": "CC BY 2.5",
+   "license_url": "https://creativecommons.org/licenses/by/2.5",
+   "author": "No machine-readable author provided. Soman assumed (based on copyright claims).",
+   "status": "VERIFIED",
+   "file": "Goldentemple (82).JPG"
+  },
+  {
+   "local": "/cache/golden-temple-1.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Akal_Takht_illuminated,_in_Harmandir_Sahib_complex,_Amritsar.jpg",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "author": "Giridhar Appaji Nag Y from Bangalore, India",
+   "status": "VERIFIED",
+   "file": "Akal Takht illuminated, in Harmandir Sahib complex, Amritsar.jpg"
+  },
+  {
+   "local": "/cache/golden-temple-2.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Entrance_to_Golden_Temple,_Amritsar.jpg",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "author": "Guilhem Vellut",
+   "status": "VERIFIED",
+   "file": "Entrance to Golden Temple, Amritsar.jpg"
+  },
+  {
+   "local": "/cache/golden-temple-3.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Ceiling_of_the_Golden_Temple_in_gold_and_precious_stones.JPG",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "author": "SM14",
+   "status": "VERIFIED",
+   "file": "Ceiling of the Golden Temple in gold and precious stones.JPG"
+  },
+  {
+   "local": "/cache/golden-temple-4.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Golden_Temple_(Harmandir_Sahib)_in_Amritsar,_India.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Paulrudd",
+   "status": "VERIFIED",
+   "file": "Golden Temple (Harmandir Sahib) in Amritsar, India.jpg"
+  },
+  {
+   "local": "/cache/golden-temple-5.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Golden_Temple_night_view_-_IMG_6323-2.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Bijay Chaurasia",
+   "status": "VERIFIED",
+   "file": "Golden Temple night view - IMG 6323-2.jpg"
+  }
+ ],
+ "attested_features": [],
+ "scenes": [
+  {
+   "year": "150",
+   "title": "Overview",
+   "caption": "Over 150,000 people visit the shrine every day for worship, being one of the most visited religious sites in the world.",
+   "quote": "Over 150,000 people visit the shrine every day for worship, being one of the most visited religious sites in the world.",
+   "plate": "rise",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Golden_Temple"
+  },
+  {
+   "year": "1577",
+   "title": "Overview",
+   "caption": "The pool on the site of the gurdwara was completed by the fourth Sikh Guru, Guru Ram Das, in 1577.",
+   "quote": "The pool on the site of the gurdwara was completed by the fourth Sikh Guru, Guru Ram Das, in 1577.",
+   "plate": "arch-shift",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Golden_Temple"
+  },
+  {
+   "year": "1604",
+   "title": "Overview",
+   "caption": "In 1604, Guru Arjan, the fifth Sikh Guru, placed a copy of the Adi Granth in the Golden Temple and played a prominent role in its development.",
+   "quote": "In 1604, Guru Arjan, the fifth Sikh Guru, placed a copy of the Adi Granth in the Golden Temple and played a prominent role in its development.",
+   "plate": "columns",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Golden_Temple"
+  },
+  {
+   "year": "1809",
+   "title": "Overview",
+   "caption": "Maharaja Ranjit Singh, after founding the Sikh Empire, rebuilt it in marble and copper in 1809, and overlaid the sanctum with gold leaf in 1830.",
+   "quote": "Maharaja Ranjit Singh, after founding the Sikh Empire, rebuilt it in marble and copper in 1809, and overlaid the sanctum with gold leaf in 1830.",
+   "plate": "restoration",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Golden_Temple"
+  },
+  {
+   "year": "1883 ",
+   "title": "Overview",
+   "caption": "It became a centre of the Singh Sabha Movement between 1883 and the 1920s, and the Punjabi Suba Movement between 1947 and 1966.",
+   "quote": "It became a centre of the Singh Sabha Movement between 1883 and the 1920s, and the Punjabi Suba Movement between 1947 and 1966.",
+   "plate": "rise",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Golden_Temple"
+  },
+  {
+   "year": "1984",
+   "title": "Overview",
+   "caption": "In 1984, Prime Minister Indira Gandhi sent in the Indian Army as part of Operation Blue Star, leading to the deaths of thousands of soldiers, militants and civilians, as well as causing significant damage to the gurdwara and the destruction of the nearby Akal Takht—the prime seat of authority for the Sikhs.",
+   "quote": "In 1984, Prime Minister Indira Gandhi sent in the Indian Army as part of Operation Blue Star, leading to the deaths of thousands of soldiers, militants and civilians, as well as causing significant damage to the gurdwara and the destruction of the nearby Akal Takht—the prime seat of authority for the Sikhs.",
+   "plate": "fracture",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Golden_Temple"
+  }
+ ]
+}

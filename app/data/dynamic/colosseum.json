@@ -1,0 +1,169 @@
+{
+ "id": "colosseum",
+ "name": "Colosseum",
+ "city": "Roma Capitale, Italy",
+ "tagline": "Ancient Roman amphitheater in Rome.",
+ "origin": "resolver",
+ "story_status": "EXTRACTED",
+ "model": null,
+ "gothic": false,
+ "verified": {
+  "status": "VERIFIED",
+  "qid": "Q10285",
+  "wikidata_url": "https://www.wikidata.org/wiki/Q10285",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Colosseum",
+  "coordinates": {
+   "lat": 41.890277777778,
+   "lon": 12.492222222222
+  },
+  "country": "Italy",
+  "styles": [
+   "ancient Roman architecture"
+  ],
+  "instance_of": [
+   "Roman amphitheatre",
+   "archaeological site",
+   "stadium",
+   "archaeological artifact museum",
+   "Italian national museum",
+   "historical civil building museum",
+   "Museum of the Italian Ministry of Culture",
+   "roman ruins"
+  ],
+  "inception": "+0082-00-00T00:00:00Z",
+  "retrieved_at": "2026-11-25T14:26:43.744Z"
+ },
+ "construction": {
+  "status": "VERIFIED",
+  "quote": "By the late 6th century a small chapel had been built into the structure of the amphitheater, though this apparently did not confer any particular religious significance on the building as a whole.",
+  "source": "https://en.wikipedia.org/wiki/Colosseum"
+ },
+ "image": {
+  "local": "/cache/colosseum-0.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Jean-Leon_Gerome_Pollice_Verso.jpg",
+  "license": "Public domain",
+  "license_url": null,
+  "author": "Jean-Léon Gérôme",
+  "status": "VERIFIED",
+  "file": "Jean-Leon Gerome Pollice Verso.jpg"
+ },
+ "photos": [
+  {
+   "local": "/cache/colosseum-0.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Jean-Leon_Gerome_Pollice_Verso.jpg",
+   "license": "Public domain",
+   "license_url": null,
+   "author": "Jean-Léon Gérôme",
+   "status": "VERIFIED",
+   "file": "Jean-Leon Gerome Pollice Verso.jpg"
+  },
+  {
+   "local": "/cache/colosseum-1.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Cole_Thomas_Interior_of_the_Colosseum_Rome_1832.jpg",
+   "license": "Public domain",
+   "license_url": null,
+   "author": "Thomas Cole",
+   "status": "VERIFIED",
+   "file": "Cole Thomas Interior of the Colosseum Rome 1832.jpg"
+  },
+  {
+   "local": "/cache/colosseum-2.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Colosseum-Entrance_LII.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "WarpFlyght",
+   "status": "VERIFIED",
+   "file": "Colosseum-Entrance LII.jpg"
+  },
+  {
+   "local": "/cache/colosseum-3.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Colosseum_in_Rome-April_2007-1-_copie_2B.jpg",
+   "license": "CC BY-SA 2.5",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+   "author": "Diliff",
+   "status": "VERIFIED",
+   "file": "Colosseum in Rome-April 2007-1- copie 2B.jpg"
+  },
+  {
+   "local": "/cache/colosseum-4.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Coliseo_medieval.jpg",
+   "license": "Public domain",
+   "license_url": null,
+   "author": "Wikimedia Commons",
+   "status": "VERIFIED",
+   "file": "Coliseo medieval.jpg"
+  },
+  {
+   "local": "/cache/colosseum-5.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:046CupolaSPietro.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "MarkusMark",
+   "status": "VERIFIED",
+   "file": "046CupolaSPietro.jpg"
+  }
+ ],
+ "attested_features": [],
+ "scenes": [
+  {
+   "year": "161",
+   "title": "Name",
+   "caption": "161–180) in about 1533 referred to Middle English: this Emperour, beynge with the Senate at Collisee ....",
+   "quote": "161–180) in about 1533 referred to Middle English: this Emperour, beynge with the Senate at Collisee ....",
+   "plate": "rise",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Colosseum"
+  },
+  {
+   "year": "1000 ",
+   "title": "Name",
+   "caption": "By the year 1000 the Latin name \"Colosseum\" had been coined to refer to the amphitheatre from the nearby \"Colossus Solis\".",
+   "quote": "By the year 1000 the Latin name \"Colosseum\" had been coined to refer to the amphitheatre from the nearby \"Colossus Solis\".",
+   "plate": "arch-shift",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Colosseum"
+  },
+  {
+   "year": "12th century",
+   "title": "Name",
+   "caption": "In the 12th century, the structure was recorded as the amphitheatrum colisei, 'Amphitheatre of the Colossus'.",
+   "quote": "In the 12th century, the structure was recorded as the amphitheatrum colisei, 'Amphitheatre of the Colossus'.",
+   "plate": "volume",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Colosseum"
+  },
+  {
+   "year": "1367",
+   "title": "Name",
+   "caption": "Similarly, the Italian: colosseo, or coliseo, are attested as referring first to the amphitheatre in Rome, and then to any amphitheatre (as Italian: culiseo in 1367).",
+   "quote": "Similarly, the Italian: colosseo, or coliseo, are attested as referring first to the amphitheatre in Rome, and then to any amphitheatre (as Italian: culiseo in 1367).",
+   "plate": "layers",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Colosseum"
+  },
+  {
+   "year": "15th century",
+   "title": "Name",
+   "caption": "From Middle French: colisée derived the Middle English: colisee, in use by the middle of the 15th century and employed by John Capgrave in his Solace of Pilgrims, in which he remarked: Middle English: collise eke is a meruelous place … þe moost part of it stant at þis day.",
+   "quote": "From Middle French: colisée derived the Middle English: colisee, in use by the middle of the 15th century and employed by John Capgrave in his Solace of Pilgrims, in which he remarked: Middle English: collise eke is a meruelous place … þe moost part of it stant at þis day.",
+   "plate": "pilgrims",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Colosseum"
+  },
+  {
+   "year": "16th century",
+   "title": "Name",
+   "caption": "In the High Middle Ages, the Flavian amphitheatre is attested as the late 13th-century Old French: colosé, and in Middle French as: colisée by the early 16th century, by which time the word could be applied to any amphitheatre.",
+   "quote": "In the High Middle Ages, the Flavian amphitheatre is attested as the late 13th-century Old French: colosé, and in Middle French as: colisée by the early 16th century, by which time the word could be applied to any amphitheatre.",
+   "plate": "arch-shift",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Colosseum"
+  }
+ ]
+}

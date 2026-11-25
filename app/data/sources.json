@@ -1,0 +1,113 @@
+{
+  "retrieved_at": "2026-11-25T14:03:52.496Z",
+  "buildings": [
+    {
+      "id": "chartres",
+      "qid": "Q180274",
+      "name": "Notre-Dame de Chartres",
+      "wikipedia_title": "Chartres Cathedral",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Chartres_Cathedral",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q180274",
+      "coordinates": {
+        "lat": 48.44777777777778,
+        "lon": 1.4877777777777776
+      },
+      "inception_wikidata": "+1145-00-00T00:00:00Z",
+      "styles_wikidata": [
+        "classic gothic"
+      ],
+      "country": "France",
+      "wikipedia_extract": "Chartres Cathedral is a Catholic cathedral in Chartres, France, about 80 km southwest of Paris, and is the seat of the Bishop of Chartres. Dedicated in honour of the Virgin Mary, it was mostly constructed between 1194 and 1220. It stands on the site of at least five cathedrals that have occupied the site since the Diocese of Chartres was formed as an episcopal see in the 4th century. It is one of the best-known and most influential examples of High Gothic and Classic Gothic architecture. It was built above earlier Romanesque basements, while its north spire is more recent (1507–1513) and is built in the more ornate Flamboyant style.",
+      "image": {
+        "local": "/img/chartres.jpg",
+        "commons_file": "Westfassade Chartres.jpg",
+        "commons_page": "https://commons.wikimedia.org/wiki/File:Westfassade_Chartres.jpg",
+        "license": "Public domain",
+        "license_url": null,
+        "author": "BT"
+      }
+    },
+    {
+      "id": "notre-dame-paris",
+      "qid": "Q2981",
+      "name": "Notre-Dame de Paris",
+      "wikipedia_title": "Notre-Dame de Paris",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2981",
+      "coordinates": {
+        "lat": 48.853,
+        "lon": 2.3498
+      },
+      "inception_wikidata": "+1163-00-00T00:00:00Z",
+      "styles_wikidata": [
+        "French Gothic architecture",
+        "Early Gothic architecture",
+        "Rayonnant",
+        "classic gothic"
+      ],
+      "country": "France",
+      "wikipedia_extract": "Notre-Dame de Paris, often referred to simply as Notre-Dame, is a medieval Catholic cathedral and basilica on the Île de la Cité, in the 4th arrondissement of Paris, France. It is the cathedral church of the Roman Catholic Archdiocese of Paris.",
+      "image": {
+        "local": "/img/notre-dame-paris.jpg",
+        "commons_file": "Notre-Dame de Paris 2013-07-24.jpg",
+        "commons_page": "https://commons.wikimedia.org/wiki/File:Notre-Dame_de_Paris_2013-07-24.jpg",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "author": "P e z i"
+      }
+    },
+    {
+      "id": "cologne",
+      "qid": "Q4176",
+      "name": "Cologne Cathedral",
+      "wikipedia_title": "Cologne Cathedral",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Cologne_Cathedral",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4176",
+      "coordinates": {
+        "lat": 50.94138888888889,
+        "lon": 6.958333333333333
+      },
+      "inception_wikidata": "+1248-00-00T00:00:00Z",
+      "styles_wikidata": [
+        "Gothic architecture"
+      ],
+      "country": "Germany",
+      "wikipedia_extract": "Cologne Cathedral is a Catholic cathedral in Cologne, North Rhine-Westphalia, Germany. It is the seat of the Archbishop of Cologne and of the administration of the Archdiocese of Cologne. It is a renowned monument of German Catholicism and Gothic architecture and was declared a World Heritage Site in 1996. It is Germany's most visited landmark, attracting an average of 6 million people a year. At 157 m (515 ft), the cathedral is the tallest twin-spired church in the world, the third tallest church in Europe after Sagrada Família and Ulm Minster, and the tallest cathedral in the world.",
+      "image": {
+        "local": "/img/cologne.jpg",
+        "commons_file": "Kölner Dom von Osten.jpg",
+        "commons_page": "https://commons.wikimedia.org/wiki/File:K%C3%B6lner_Dom_von_Osten.jpg",
+        "license": "CC BY-SA 3.0 de",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+        "author": "Thomas Wolf, www.foto-tw.de"
+      }
+    },
+    {
+      "id": "amiens",
+      "qid": "Q106934",
+      "name": "Notre-Dame d'Amiens",
+      "wikipedia_title": "Amiens Cathedral",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Amiens_Cathedral",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106934",
+      "coordinates": {
+        "lat": 49.89457,
+        "lon": 2.3021
+      },
+      "inception_wikidata": "+1220-00-00T00:00:00Z",
+      "styles_wikidata": [
+        "classic gothic",
+        "Gothic architecture"
+      ],
+      "country": "France",
+      "wikipedia_extract": "The Cathedral of Our Lady of Amiens, or simply Amiens Cathedral, is a Catholic cathedral. The cathedral is the seat of the Bishop of Amiens. It is situated on a slight ridge overlooking the River Somme in Amiens, the administrative capital of the Picardy region of France, some 120 kilometres north of Paris.",
+      "image": {
+        "local": "/img/amiens.jpg",
+        "commons_file": "0 Amiens - Cathédrale Notre-Dame (1).JPG",
+        "commons_page": "https://commons.wikimedia.org/wiki/File:0_Amiens_-_Cath%C3%A9drale_Notre-Dame_(1).JPG",
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "author": "Jean-Pol GRANDMONT"
+      }
+    }
+  ]
+}

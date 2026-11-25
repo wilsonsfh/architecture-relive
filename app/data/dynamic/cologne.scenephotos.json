@@ -1,0 +1,25 @@
+[
+ {
+  "local": "/cache/cologne-s0.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Lisburn_Cathedral_WW_2_War_Memorial.jpg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Memorialman",
+  "file": "Lisburn Cathedral WW 2 War Memorial.jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ {
+  "local": "/cache/cologne-s1.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Cologne._Monument_in_front_of_the_Hohenzollern_bridge.jpg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Vitold Muratov",
+  "file": "Cologne. Monument in front of the Hohenzollern bridge.jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ null,
+ null,
+ null
+]

@@ -1,0 +1,163 @@
+{
+ "id": "casa-batllo",
+ "name": "Casa Batlló",
+ "city": "Dreta de l'Eixample, Spain",
+ "tagline": "Building by Antoni Gaudí in Barcelona, Spain.",
+ "origin": "resolver",
+ "story_status": "EXTRACTED",
+ "model": null,
+ "gothic": false,
+ "verified": {
+  "status": "VERIFIED",
+  "qid": "Q461371",
+  "wikidata_url": "https://www.wikidata.org/wiki/Q461371",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Casa_Batll%C3%B3",
+  "coordinates": {
+   "lat": 41.39158,
+   "lon": 2.16492
+  },
+  "country": "Spain",
+  "styles": [
+   "Catalan modernism"
+  ],
+  "instance_of": [
+   "multifamily residential",
+   "residential building"
+  ],
+  "inception": "+1877-00-00T00:00:00Z",
+  "retrieved_at": "2026-11-25T14:34:24.297Z"
+ },
+ "construction": {
+  "status": "VERIFIED",
+  "quote": "A remodel of a previously built house, it was redesigned in 1904 by Gaudí (although the actual construction had not begun at this point) and has been refurbished several times since.",
+  "source": "https://en.wikipedia.org/wiki/Casa_Batll%C3%B3"
+ },
+ "image": {
+  "local": "/cache/casa-batllo-0.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Casa_Batllo.jpg",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "author": "Alscardoso",
+  "status": "VERIFIED",
+  "file": "Casa Batllo.jpg"
+ },
+ "photos": [
+  {
+   "local": "/cache/casa-batllo-0.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Casa_Batllo.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "Alscardoso",
+   "status": "VERIFIED",
+   "file": "Casa Batllo.jpg"
+  },
+  {
+   "local": "/cache/casa-batllo-1.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:CasaBatllo_0170.JPG",
+   "license": "CC BY-SA 2.5",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+   "author": "tato grasso",
+   "status": "VERIFIED",
+   "file": "CasaBatllo 0170.JPG"
+  },
+  {
+   "local": "/cache/casa-batllo-2.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Batllo-godo-per_Napoleon.jpg",
+   "license": "Public domain",
+   "license_url": null,
+   "author": "Anaïs Napoleon",
+   "status": "VERIFIED",
+   "file": "Batllo-godo-per Napoleon.jpg"
+  },
+  {
+   "local": "/cache/casa-batllo-3.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Casa_Batll%C3%B3_(Antoni_Gaudi)_(atrium),_43,_Passeig_de_Gr%C3%A0cia,_Eixample,_Barcelona,_Catalonia,_Spain.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Mstyslav Chernov",
+   "status": "VERIFIED",
+   "file": "Casa Batlló (Antoni Gaudi) (atrium), 43, Passeig de Gràcia, Eixample, Barcelona, Catalonia, Spain.jpg"
+  },
+  {
+   "local": "/cache/casa-batllo-4.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Casa_Batll%C3%B3_(Antoni_Gaudi)_(atrium,close_up),_43,_Passeig_de_Gr%C3%A0cia,_Eixample,_Barcelona,_Catalonia,_Spain.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Mstyslav Chernov",
+   "status": "VERIFIED",
+   "file": "Casa Batlló (Antoni Gaudi) (atrium,close up), 43, Passeig de Gràcia, Eixample, Barcelona, Catalonia, Spain.jpg"
+  },
+  {
+   "local": "/cache/casa-batllo-5.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Casa_Batll%C3%B3_(Antoni_Gaudi)_(interior),_43,_Passeig_de_Gr%C3%A0cia,_Eixample,_Barcelona,_Catalonia,_Spain.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Mstyslav Chernov",
+   "status": "VERIFIED",
+   "file": "Casa Batlló (Antoni Gaudi) (interior), 43, Passeig de Gràcia, Eixample, Barcelona, Catalonia, Spain.jpg"
+  }
+ ],
+ "attested_features": [],
+ "scenes": [
+  {
+   "year": "19th century",
+   "title": "Initial construction (1877)",
+   "caption": "Cortés's building was a classical building without remarkable characteristics within the eclecticism traditional in the late 19th century.",
+   "quote": "Cortés's building was a classical building without remarkable characteristics within the eclecticism traditional in the late 19th century.",
+   "plate": "rise",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Casa_Batll%C3%B3"
+  },
+  {
+   "year": "1877",
+   "title": "Initial construction (1877)",
+   "caption": "The building that is now Casa Batlló was built in 1877.",
+   "quote": "The building that is now Casa Batlló was built in 1877.",
+   "plate": "arch-shift",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Casa_Batll%C3%B3"
+  },
+  {
+   "year": "1903",
+   "title": "Batlló family",
+   "caption": "The house was bought by Josep Batlló in 1903.",
+   "quote": "The house was bought by Josep Batlló in 1903.",
+   "plate": "volume",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Casa_Batll%C3%B3"
+  },
+  {
+   "year": "1904 ",
+   "title": "Overview",
+   "caption": "A remodel of a previously built house, it was redesigned in 1904 by Gaudí (although the actual construction had not begun at this point) and has been refurbished several times since.",
+   "quote": "A remodel of a previously built house, it was redesigned in 1904 by Gaudí (although the actual construction had not begun at this point) and has been refurbished several times since.",
+   "plate": "layers",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Casa_Batll%C3%B3"
+  },
+  {
+   "year": "20th century",
+   "title": "Batlló family",
+   "caption": "The design of the house made the home undesirable to buyers but the Batlló family decided to buy it nonetheless due to its location in the middle of Passeig de Gràcia, which in the early 20th century was as a very upscale, fashionable area.",
+   "quote": "The design of the house made the home undesirable to buyers but the Batlló family decided to buy it nonetheless due to its location in the middle of Passeig de Gràcia, which in the early 20th century was as a very upscale, fashionable area.",
+   "plate": "rise",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Casa_Batll%C3%B3"
+  },
+  {
+   "year": "2005",
+   "title": "Overview",
+   "caption": "In 2005, Casa Batlló became a UNESCO World Heritage Site.",
+   "quote": "In 2005, Casa Batlló became a UNESCO World Heritage Site.",
+   "plate": "book",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Casa_Batll%C3%B3"
+  }
+ ]
+}

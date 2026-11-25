@@ -1,0 +1,35 @@
+[
+ null,
+ {
+  "local": "/cache/alhambra-s1.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Granada_alhambra_1.jpg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "KP FM",
+  "file": "Granada alhambra 1.jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ {
+  "local": "/cache/alhambra-s2.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Alhambra_-_Flickr_-_Me_in_ME.jpg",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "author": "Paul VanDerWerf from Brunswick, Maine, USA",
+  "file": "Alhambra - Flickr - Me in ME.jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ {
+  "local": "/cache/alhambra-s3.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Granada_alhambra.jpg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "KP FM",
+  "file": "Granada alhambra.jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ null,
+ null
+]

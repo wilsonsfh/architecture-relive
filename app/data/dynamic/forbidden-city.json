@@ -1,0 +1,163 @@
+{
+ "id": "forbidden-city",
+ "name": "Forbidden City",
+ "city": "Donghuamen Subdistrict, People's Republic of China",
+ "tagline": "Imperial palace complex in Beijing, China.",
+ "origin": "resolver",
+ "story_status": "EXTRACTED",
+ "model": null,
+ "gothic": false,
+ "verified": {
+  "status": "VERIFIED",
+  "qid": "Q80290",
+  "wikidata_url": "https://www.wikidata.org/wiki/Q80290",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Forbidden_City",
+  "coordinates": {
+   "lat": 39.91583333333333,
+   "lon": 116.39083333333333
+  },
+  "country": "People's Republic of China",
+  "styles": [],
+  "instance_of": [
+   "palace",
+   "building complex",
+   "museum",
+   "Chinese AAAAA-rated tourist attraction"
+  ],
+  "inception": "+1420-00-00T00:00:00Z",
+  "retrieved_at": "2026-11-25T14:33:21.437Z"
+ },
+ "construction": {
+  "status": "VERIFIED",
+  "quote": "The Forbidden City was constructed from 1406 to 1420 and was the imperial palace and winter residence of the Emperor of China from the Ming dynasty (since the Yongle Emperor in 1420) to the end of the Qing dynasty in 1924.",
+  "source": "https://en.wikipedia.org/wiki/Forbidden_City"
+ },
+ "image": {
+  "local": "/cache/forbidden-city-0.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Neun-Drachen-Mauer.jpg",
+  "license": "Public domain",
+  "license_url": null,
+  "author": "Seebeer",
+  "status": "VERIFIED",
+  "file": "Neun-Drachen-Mauer.jpg"
+ },
+ "photos": [
+  {
+   "local": "/cache/forbidden-city-0.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Neun-Drachen-Mauer.jpg",
+   "license": "Public domain",
+   "license_url": null,
+   "author": "Seebeer",
+   "status": "VERIFIED",
+   "file": "Neun-Drachen-Mauer.jpg"
+  },
+  {
+   "local": "/cache/forbidden-city-1.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Palace_color_decorative_painting.JPG",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Gisling",
+   "status": "VERIFIED",
+   "file": "Palace color decorative painting.JPG"
+  },
+  {
+   "local": "/cache/forbidden-city-2.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:China_ming_blue_dragons.JPG",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "author": "Rosemania",
+   "status": "VERIFIED",
+   "file": "China ming blue dragons.JPG"
+  },
+  {
+   "local": "/cache/forbidden-city-3.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:China_qing_two_blue_ceramics.JPG",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "author": "Rosemania",
+   "status": "VERIFIED",
+   "file": "China qing two blue ceramics.JPG"
+  },
+  {
+   "local": "/cache/forbidden-city-4.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Sign_of_the_Hall_of_Supreme_Harmony.JPG",
+   "license": "Public domain",
+   "license_url": null,
+   "author": "ImMrDrake",
+   "status": "VERIFIED",
+   "file": "Sign of the Hall of Supreme Harmony.JPG"
+  },
+  {
+   "local": "/cache/forbidden-city-5.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Die_Gartenlaube_(1853)_b_445.jpg",
+   "license": "Public domain",
+   "license_url": null,
+   "author": "various",
+   "status": "VERIFIED",
+   "file": "Die Gartenlaube (1853) b 445.jpg"
+  }
+ ],
+ "attested_features": [],
+ "scenes": [
+  {
+   "year": "500 ",
+   "title": "Overview",
+   "caption": "Serving as the home of Chinese emperors and their households, the Forbidden City was the ceremonial and political center of the Chinese government for over 500 years.",
+   "quote": "Serving as the home of Chinese emperors and their households, the Forbidden City was the ceremonial and political center of the Chinese government for over 500 years.",
+   "plate": "rise",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Forbidden_City"
+  },
+  {
+   "year": "999 ",
+   "title": "Overview",
+   "caption": "The complex claims to consist of 9,999 rooms in total, although experts have shown in recent years that the number amounts to 8,886, covering 72 ha (720,000 m2; 180 acres).",
+   "quote": "The complex claims to consist of 9,999 rooms in total, although experts have shown in recent years that the number amounts to 8,886, covering 72 ha (720,000 m2; 180 acres).",
+   "plate": "arch-shift",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Forbidden_City"
+  },
+  {
+   "year": "1406 ",
+   "title": "Overview",
+   "caption": "The Forbidden City was constructed from 1406 to 1420 and was the imperial palace and winter residence of the Emperor of China from the Ming dynasty (since the Yongle Emperor in 1420) to the end of the Qing dynasty in 1924.",
+   "quote": "The Forbidden City was constructed from 1406 to 1420 and was the imperial palace and winter residence of the Emperor of China from the Ming dynasty (since the Yongle Emperor in 1420) to the end of the Qing dynasty in 1924.",
+   "plate": "volume",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Forbidden_City"
+  },
+  {
+   "year": "1420 ",
+   "title": "Overview",
+   "caption": "It was the residence of twenty-four Ming and Qing dynasty Emperors and was the center of political power in China from 1420 to 1924.",
+   "quote": "It was the residence of twenty-four Ming and Qing dynasty Emperors and was the center of political power in China from 1420 to 1924.",
+   "plate": "layers",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Forbidden_City"
+  },
+  {
+   "year": "1925",
+   "title": "Overview",
+   "caption": "Since 1925, the Forbidden City has been under the charge of the Palace Museum, whose extensive collection of artwork and artifacts was built upon the imperial collections of the Ming and Qing dynasties.",
+   "quote": "Since 1925, the Forbidden City has been under the charge of the Palace Museum, whose extensive collection of artwork and artifacts was built upon the imperial collections of the Ming and Qing dynasties.",
+   "plate": "book",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Forbidden_City"
+  },
+  {
+   "year": "1987",
+   "title": "Overview",
+   "caption": "The palace is now administered by the Palace Museum and has been a UNESCO World Heritage Site since 1987.",
+   "quote": "The palace is now administered by the Palace Museum and has been a UNESCO World Heritage Site since 1987.",
+   "plate": "book",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Forbidden_City"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+[
+ null,
+ {
+  "local": "/cache/palace-of-versailles-s1.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Guide_au_Musee_de_Versailles_1879_(128378170).jpg",
+  "license": "Public domain",
+  "license_url": null,
+  "author": "Unknown authorUnknown author",
+  "file": "Guide au Musee de Versailles 1879 (128378170).jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ {
+  "local": "/cache/palace-of-versailles-s2.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Vue_a%C3%A9rienne_du_domaine_de_Versailles_par_ToucanWings_-_Creative_Commons_By_Sa_3.0_-_113.jpg",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "ToucanWings",
+  "file": "Vue aérienne du domaine de Versailles par ToucanWings - Creative Commons By Sa 3.0 - 113.jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ {
+  "local": "/cache/palace-of-versailles-s3.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Vue_a%C3%A9rienne_du_domaine_de_Versailles_par_ToucanWings_-_Creative_Commons_By_Sa_3.0_-_083.jpg",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "ToucanWings",
+  "file": "Vue aérienne du domaine de Versailles par ToucanWings - Creative Commons By Sa 3.0 - 083.jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ {
+  "local": "/cache/palace-of-versailles-s4.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Versailles_Chapel_-_July_2006.jpg",
+  "license": "CC BY 2.5",
+  "license_url": "https://creativecommons.org/licenses/by/2.5",
+  "author": "Diliff",
+  "file": "Versailles Chapel - July 2006.jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ {
+  "local": "/cache/palace-of-versailles-s5.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Guide_au_Musee_de_Versailles_1879_(128378239).jpg",
+  "license": "Public domain",
+  "license_url": null,
+  "author": "Unknown authorUnknown author",
+  "file": "Guide au Musee de Versailles 1879 (128378239).jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ }
+]

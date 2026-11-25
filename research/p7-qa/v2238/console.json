@@ -1,0 +1,257 @@
+{
+  "console": [
+    {
+      "type": "error",
+      "text": "Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "location": {
+        "url": "http://127.0.0.1:5817/favicon.ico",
+        "line": 0,
+        "column": 0,
+        "lineNumber": 0,
+        "columnNumber": 0
+      },
+      "page_url": "http://127.0.0.1:5817/#/",
+      "time": 1795617891.9903615
+    },
+    {
+      "type": "error",
+      "text": "Error: <path> attribute d: Expected number, \"MM180 145 L180 13\u2026\".",
+      "location": {
+        "url": "http://127.0.0.1:5817/js/app.js",
+        "line": 142,
+        "column": 0,
+        "lineNumber": 142,
+        "columnNumber": 0
+      },
+      "page_url": "http://127.0.0.1:5817/#/b/great-wall-of-china/story",
+      "time": 1795617910.8585916
+    },
+    {
+      "type": "error",
+      "text": "Error: <path> attribute d: Expected number, \"MM180 145 L180 13\u2026\".",
+      "location": {
+        "url": "http://127.0.0.1:5817/js/app.js",
+        "line": 142,
+        "column": 0,
+        "lineNumber": 142,
+        "columnNumber": 0
+      },
+      "page_url": "http://127.0.0.1:5817/#/b/chartres/story",
+      "time": 1795617911.8510647
+    },
+    {
+      "type": "error",
+      "text": "Error: <path> attribute d: Expected number, \"MM180 145 L180 13\u2026\".",
+      "location": {
+        "url": "http://127.0.0.1:5817/js/app.js",
+        "line": 142,
+        "column": 0,
+        "lineNumber": 142,
+        "columnNumber": 0
+      },
+      "page_url": "http://127.0.0.1:5817/#/b/chartres/story",
+      "time": 1795617912.804486
+    },
+    {
+      "type": "error",
+      "text": "Error: <path> attribute d: Expected number, \"MM302 270 L302 24\u2026\".",
+      "location": {
+        "url": "http://127.0.0.1:5817/js/app.js",
+        "line": 142,
+        "column": 0,
+        "lineNumber": 142,
+        "columnNumber": 0
+      },
+      "page_url": "http://127.0.0.1:5817/#/b/chartres/story",
+      "time": 1795617913.3059797
+    },
+    {
+      "type": "error",
+      "text": "Error: <path> attribute d: Expected number, \"MM156 270 L156 24\u2026\".",
+      "location": {
+        "url": "http://127.0.0.1:5817/js/app.js",
+        "line": 142,
+        "column": 0,
+        "lineNumber": 142,
+        "columnNumber": 0
+      },
+      "page_url": "http://127.0.0.1:5817/#/b/chartres/story",
+      "time": 1795617913.5555959
+    },
+    {
+      "type": "error",
+      "text": "Error: <path> attribute d: Expected number, \"MM158 190 L158 15\u2026\".",
+      "location": {
+        "url": "http://127.0.0.1:5817/js/app.js",
+        "line": 142,
+        "column": 0,
+        "lineNumber": 142,
+        "columnNumber": 0
+      },
+      "page_url": "http://127.0.0.1:5817/#/b/chartres/story",
+      "time": 1795617913.5557804
+    },
+    {
+      "type": "error",
+      "text": "Error: <path> attribute d: Expected number, \"MM328 270 L328 24\u2026\".",
+      "location": {
+        "url": "http://127.0.0.1:5817/js/app.js",
+        "line": 142,
+        "column": 0,
+        "lineNumber": 142,
+        "columnNumber": 0
+      },
+      "page_url": "http://127.0.0.1:5817/#/b/chartres/story",
+      "time": 1795617914.0561244
+    },
+    {
+      "type": "warning",
+      "text": "[.WebGL-0x2394001efe00]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels",
+      "location": {
+        "url": "http://127.0.0.1:5817/#/b/chartres/inside",
+        "line": 0,
+        "column": 0,
+        "lineNumber": 0,
+        "columnNumber": 0
+      },
+      "page_url": "http://127.0.0.1:5817/#/b/chartres/inside",
+      "time": 1795617914.704666
+    },
+    {
+      "type": "warning",
+      "text": "[.WebGL-0x2394001efe00]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels",
+      "location": {
+        "url": "http://127.0.0.1:5817/#/b/chartres/inside",
+        "line": 0,
+        "column": 0,
+        "lineNumber": 0,
+        "columnNumber": 0
+      },
+      "page_url": "http://127.0.0.1:5817/#/b/chartres/inside",
+      "time": 1795617918.678102
+    },
+    {
+      "type": "warning",
+      "text": "[.WebGL-0x2394001efe00]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels",
+      "location": {
+        "url": "http://127.0.0.1:5817/#/b/chartres/inside",
+        "line": 0,
+        "column": 0,
+        "lineNumber": 0,
+        "columnNumber": 0
+      },
+      "page_url": "http://127.0.0.1:5817/#/b/chartres/inside",
+      "time": 1795617920.230232
+    },
+    {
+      "type": "warning",
+      "text": "[.WebGL-0x2394001efe00]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels (this message will no longer repeat)",
+      "location": {
+        "url": "http://127.0.0.1:5817/#/b/chartres/inside",
+        "line": 0,
+        "column": 0,
+        "lineNumber": 0,
+        "columnNumber": 0
+      },
+      "page_url": "http://127.0.0.1:5817/#/b/chartres/inside",
+      "time": 1795617921.8664396
+    },
+    {
+      "type": "error",
+      "text": "Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "location": {
+        "url": "http://127.0.0.1:5817/favicon.ico",
+        "line": 0,
+        "column": 0,
+        "lineNumber": 0,
+        "columnNumber": 0
+      },
+      "page_url": "http://127.0.0.1:5817/#/b/chartres/inside",
+      "time": 1795618201.7253766,
+      "run": "supplement"
+    },
+    {
+      "type": "warning",
+      "text": "[.WebGL-0x333403944000]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels",
+      "location": {
+        "url": "http://127.0.0.1:5817/#/b/chartres/inside",
+        "line": 0,
+        "column": 0,
+        "lineNumber": 0,
+        "columnNumber": 0
+      },
+      "page_url": "http://127.0.0.1:5817/#/b/chartres/inside",
+      "time": 1795618201.9539168,
+      "run": "supplement"
+    },
+    {
+      "type": "warning",
+      "text": "[.WebGL-0x333403944000]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels",
+      "location": {
+        "url": "http://127.0.0.1:5817/#/b/chartres/inside",
+        "line": 0,
+        "column": 0,
+        "lineNumber": 0,
+        "columnNumber": 0
+      },
+      "page_url": "http://127.0.0.1:5817/#/b/chartres/inside",
+      "time": 1795618203.8545225,
+      "run": "supplement"
+    },
+    {
+      "type": "warning",
+      "text": "[.WebGL-0x333403944000]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels",
+      "location": {
+        "url": "http://127.0.0.1:5817/#/b/chartres/inside",
+        "line": 0,
+        "column": 0,
+        "lineNumber": 0,
+        "columnNumber": 0
+      },
+      "page_url": "http://127.0.0.1:5817/#/b/chartres/inside",
+      "time": 1795618204.3845534,
+      "run": "supplement"
+    },
+    {
+      "type": "warning",
+      "text": "[.WebGL-0x333403944000]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels (this message will no longer repeat)",
+      "location": {
+        "url": "http://127.0.0.1:5817/#/b/chartres/inside",
+        "line": 0,
+        "column": 0,
+        "lineNumber": 0,
+        "columnNumber": 0
+      },
+      "page_url": "http://127.0.0.1:5817/#/b/chartres/inside",
+      "time": 1795618204.866432,
+      "run": "supplement"
+    },
+    {
+      "type": "error",
+      "text": "Error: <path> attribute d: Expected number, \"MM180 145 L180 13\u2026\".",
+      "location": {
+        "url": "http://127.0.0.1:5817/js/app.js",
+        "line": 142,
+        "column": 0,
+        "lineNumber": 142,
+        "columnNumber": 0
+      },
+      "page_url": "http://127.0.0.1:5817/?qa=svg#/b/great-wall-of-china/story",
+      "time": 1795618219.5775437,
+      "run": "supplement"
+    }
+  ],
+  "page_errors": [],
+  "failed_requests": [
+    {
+      "status": 404,
+      "url": "http://127.0.0.1:5817/favicon.ico",
+      "method": "GET",
+      "resource_type": "image",
+      "page_url": "http://127.0.0.1:5817/#/b/chartres/inside",
+      "time": 1795618216.2010765,
+      "source": "Read-only HTTP verification of favicon 404 already emitted by native browser console"
+    }
+  ],
+  "request_failures": []
+}

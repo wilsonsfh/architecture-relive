@@ -1,0 +1,62 @@
+[
+ {
+  "local": "/cache/hagia-sophia-s0.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Istanbul_-_Hagia_Sophia_-_01.JPG",
+  "license": "CC BY-SA 2.1 es",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.1/es/deed.en",
+  "author": "Wikimedia Commons",
+  "file": "Istanbul - Hagia Sophia - 01.JPG",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ {
+  "local": "/cache/hagia-sophia-s1.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Central_nave_-_Hagia_Sophia_(8291196158).jpg",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "author": "Jorge Láscar from Australia",
+  "file": "Central nave - Hagia Sophia (8291196158).jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ {
+  "local": "/cache/hagia-sophia-s2.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Die_Hagia_Sophia_zu_Konstantinopel_1939_(164942020).jpg",
+  "license": "Public domain",
+  "license_url": null,
+  "author": "Alfons Maria Schneider",
+  "file": "Die Hagia Sophia zu Konstantinopel 1939 (164942020).jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ {
+  "local": "/cache/hagia-sophia-s3.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Die_Hagia_Sophia_zu_Konstantinopel_1939_(164942027).jpg",
+  "license": "Public domain",
+  "license_url": null,
+  "author": "Alfons Maria Schneider",
+  "file": "Die Hagia Sophia zu Konstantinopel 1939 (164942027).jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ {
+  "local": "/cache/hagia-sophia-s4.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Hagia_Sophia_(8394751320).jpg",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "author": "Jorge Láscar from Australia",
+  "file": "Hagia Sophia (8394751320).jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ {
+  "local": "/cache/hagia-sophia-s5.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Die_Hagia_Sophia_zu_Konstantinopel_1939_(164941932).jpg",
+  "license": "Public domain",
+  "license_url": null,
+  "author": "Alfons Maria Schneider",
+  "file": "Die Hagia Sophia zu Konstantinopel 1939 (164941932).jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ }
+]

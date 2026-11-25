@@ -1,0 +1,163 @@
+{
+ "id": "blue-mosque-istanbul",
+ "name": "Sultan Ahmed Mosque",
+ "city": "Eminönü, Turkey",
+ "tagline": "17th-century mosque in Turkey.",
+ "origin": "resolver",
+ "story_status": "EXTRACTED",
+ "model": null,
+ "gothic": false,
+ "verified": {
+  "status": "VERIFIED",
+  "qid": "Q80541",
+  "wikidata_url": "https://www.wikidata.org/wiki/Q80541",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Blue_Mosque%2C_Istanbul",
+  "coordinates": {
+   "lat": 41.0053851,
+   "lon": 28.9768247
+  },
+  "country": "Turkey",
+  "styles": [
+   "Ottoman architecture"
+  ],
+  "instance_of": [
+   "mosque",
+   "historic building"
+  ],
+  "inception": "+1609-00-00T00:00:00Z",
+  "retrieved_at": "2026-11-25T14:29:27.583Z"
+ },
+ "construction": {
+  "status": "VERIFIED",
+  "quote": "It was constructed between 1609 and 1617 during the rule of Ahmed I.",
+  "source": "https://en.wikipedia.org/wiki/Blue_Mosque%2C_Istanbul"
+ },
+ "image": {
+  "local": "/cache/blue-mosque-istanbul-0.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Exterior_of_Sultan_Ahmed_I_Mosque,_(old_name_P1020390.jpg).jpg",
+  "license": "Public domain",
+  "license_url": null,
+  "author": "Bigdaddy1204 at English Wikipedia",
+  "status": "VERIFIED",
+  "file": "Exterior of Sultan Ahmed I Mosque, (old name P1020390.jpg).jpg"
+ },
+ "photos": [
+  {
+   "local": "/cache/blue-mosque-istanbul-0.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Exterior_of_Sultan_Ahmed_I_Mosque,_(old_name_P1020390.jpg).jpg",
+   "license": "Public domain",
+   "license_url": null,
+   "author": "Bigdaddy1204 at English Wikipedia",
+   "status": "VERIFIED",
+   "file": "Exterior of Sultan Ahmed I Mosque, (old name P1020390.jpg).jpg"
+  },
+  {
+   "local": "/cache/blue-mosque-istanbul-1.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:SultanAhmetMosqueCourtyard.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Edal Anton Lefterov",
+   "status": "VERIFIED",
+   "file": "SultanAhmetMosqueCourtyard.jpg"
+  },
+  {
+   "local": "/cache/blue-mosque-istanbul-2.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Mausoleum_of_Sultan_Ahmed_I_-_sarcophagus_of_the_sultan_-_P1030868.JPG",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "User:Vmenkov",
+   "status": "VERIFIED",
+   "file": "Mausoleum of Sultan Ahmed I - sarcophagus of the sultan - P1030868.JPG"
+  },
+  {
+   "local": "/cache/blue-mosque-istanbul-3.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Blaue_Moschee_Seitenkuppel.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "H005",
+   "status": "VERIFIED",
+   "file": "Blaue Moschee Seitenkuppel.jpg"
+  },
+  {
+   "local": "/cache/blue-mosque-istanbul-4.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Blue_mosque_-_Istanbul_-_06.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Norbert Nagel",
+   "status": "VERIFIED",
+   "file": "Blue mosque - Istanbul - 06.jpg"
+  },
+  {
+   "local": "/cache/blue-mosque-istanbul-5.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Blue_Mosque_2.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Christian Perez",
+   "status": "VERIFIED",
+   "file": "Blue Mosque 2.jpg"
+  }
+ ],
+ "attested_features": [],
+ "scenes": [
+  {
+   "year": "1574",
+   "title": "Construction",
+   "caption": "1574), as both Murad III and Mehmed III before him had not constructed their own.",
+   "quote": "1574), as both Murad III and Mehmed III before him had not constructed their own.",
+   "plate": "rise",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Blue_Mosque%2C_Istanbul"
+  },
+  {
+   "year": "1609 ",
+   "title": "Overview",
+   "caption": "It was constructed between 1609 and 1617 during the rule of Ahmed I.",
+   "quote": "It was constructed between 1609 and 1617 during the rule of Ahmed I.",
+   "plate": "arch-shift",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Blue_Mosque%2C_Istanbul"
+  },
+  {
+   "year": "1617",
+   "title": "Construction",
+   "caption": "Ahmed I died around the same time or very soon afterwards in 1617.",
+   "quote": "Ahmed I died around the same time or very soon afterwards in 1617.",
+   "plate": "volume",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Blue_Mosque%2C_Istanbul"
+  },
+  {
+   "year": "1883",
+   "title": "Restorations and recent history",
+   "caption": "In 1883, much of the mosque interior's painted decoration was replaced by new stenciled paintwork, some of which changed the original colour scheme.",
+   "quote": "In 1883, much of the mosque interior's painted decoration was replaced by new stenciled paintwork, some of which changed the original colour scheme.",
+   "plate": "layers",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Blue_Mosque%2C_Istanbul"
+  },
+  {
+   "year": "20th century",
+   "title": "Construction",
+   "caption": "During excavations in the early 20th century, some of the ancient seats were discovered in the mosque's courtyard.",
+   "quote": "During excavations in the early 20th century, some of the ancient seats were discovered in the mosque's courtyard.",
+   "plate": "rise",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Blue_Mosque%2C_Istanbul"
+  },
+  {
+   "year": "1985 ",
+   "title": "Overview",
+   "caption": "The Blue Mosque was included in the UNESCO World Heritage Site list in 1985 under the name of \"Historic Areas of Istanbul\".",
+   "quote": "The Blue Mosque was included in the UNESCO World Heritage Site list in 1985 under the name of \"Historic Areas of Istanbul\".",
+   "plate": "book",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Blue_Mosque%2C_Istanbul"
+  }
+ ]
+}

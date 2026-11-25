@@ -1,0 +1,161 @@
+{
+ "id": "chichen-itza",
+ "name": "Chichen Itza",
+ "city": "Yucatán, Mexico",
+ "tagline": "Pre-Columbian Maya city in Mexico.",
+ "origin": "resolver",
+ "story_status": "EXTRACTED",
+ "model": null,
+ "gothic": false,
+ "verified": {
+  "status": "VERIFIED",
+  "qid": "Q5859",
+  "wikidata_url": "https://www.wikidata.org/wiki/Q5859",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Chichen_Itza",
+  "coordinates": {
+   "lat": 20.683055555556,
+   "lon": -88.568611111111
+  },
+  "country": "Mexico",
+  "styles": [],
+  "instance_of": [
+   "ancient city",
+   "archaeological site"
+  ],
+  "inception": "+0455-00-00T00:00:00Z",
+  "retrieved_at": "2026-11-25T14:27:08.207Z"
+ },
+ "construction": {
+  "status": "VERIFIED",
+  "quote": "In 2009, to investigate construction that predated El Castillo, Yucatec archeologists began excavations adjacent to El Castillo under the direction of Rafael (Rach) Cobos.",
+  "source": "https://en.wikipedia.org/wiki/Chichen_Itza"
+ },
+ "image": {
+  "local": "/cache/chichen-itza-0.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Chich%C3%A9n_Itz%C3%A1_Goal.jpg",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "author": "Kåre Thor Olsen",
+  "status": "VERIFIED",
+  "file": "Chichén Itzá Goal.jpg"
+ },
+ "photos": [
+  {
+   "local": "/cache/chichen-itza-0.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Chich%C3%A9n_Itz%C3%A1_Goal.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "Kåre Thor Olsen",
+   "status": "VERIFIED",
+   "file": "Chichén Itzá Goal.jpg"
+  },
+  {
+   "local": "/cache/chichen-itza-1.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Chich%C3%A9n_Itz%C3%A1_Mayan_observatory.jpg",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "author": "Bruno Girin",
+   "status": "VERIFIED",
+   "file": "Chichén Itzá Mayan observatory.jpg"
+  },
+  {
+   "local": "/cache/chichen-itza-2.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Chichen-Itza-1000-Warriors-Columns.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Uspn",
+   "status": "VERIFIED",
+   "file": "Chichen-Itza-1000-Warriors-Columns.jpg"
+  },
+  {
+   "local": "/cache/chichen-itza-3.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:ChichenItzaEquinox.jpg",
+   "license": "Public domain",
+   "license_url": null,
+   "author": "ATSZ56",
+   "status": "VERIFIED",
+   "file": "ChichenItzaEquinox.jpg"
+  },
+  {
+   "local": "/cache/chichen-itza-4.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Chichen_Itza_3.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Daniel Schwen",
+   "status": "VERIFIED",
+   "file": "Chichen Itza 3.jpg"
+  },
+  {
+   "local": "/cache/chichen-itza-5.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Chichen_Itza_4.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Daniel Schwen",
+   "status": "VERIFIED",
+   "file": "Chichen Itza 4.jpg"
+  }
+ ],
+ "attested_features": [],
+ "scenes": [
+  {
+   "year": "600",
+   "title": "Overview",
+   "caption": "600–900 AD) through the Terminal Classic (c.",
+   "quote": "600–900 AD) through the Terminal Classic (c.",
+   "plate": "rise",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Chichen_Itza"
+  },
+  {
+   "year": "800",
+   "title": "Overview",
+   "caption": "800–900 AD) and into the early portion of the Postclassic period (c.",
+   "quote": "800–900 AD) and into the early portion of the Postclassic period (c.",
+   "plate": "arch-shift",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Chichen_Itza"
+  },
+  {
+   "year": "1904 ",
+   "title": "Location",
+   "caption": "Edward Herbert Thompson dredged the Cenote Sagrado from 1904 to 1910, and recovered artifacts of gold, jade, pottery and incense, as well as human remains.",
+   "quote": "Edward Herbert Thompson dredged the Cenote Sagrado from 1904 to 1910, and recovered artifacts of gold, jade, pottery and incense, as well as human remains.",
+   "plate": "volume",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Chichen_Itza"
+  },
+  {
+   "year": "20th century",
+   "title": "Name and orthography",
+   "caption": "Traditional Yucatec Maya spelling in Latin letters, used from the 16th through mid 20th century, spelled it as \"Chichen Itza\" (as accents on the last syllable are usual for the language, they are not indicated as they are in Spanish).",
+   "quote": "Traditional Yucatec Maya spelling in Latin letters, used from the 16th through mid 20th century, spelled it as \"Chichen Itza\" (as accents on the last syllable are usual for the language, they are not indicated as they are in Spanish).",
+   "plate": "layers",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Chichen_Itza"
+  },
+  {
+   "year": "2010",
+   "title": "Overview",
+   "caption": "The land under the monuments had been privately owned until 29 March 2010, when it was purchased by the state of Yucatán.",
+   "quote": "The land under the monuments had been privately owned until 29 March 2010, when it was purchased by the state of Yucatán.",
+   "plate": "rise",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Chichen_Itza"
+  },
+  {
+   "year": "2015",
+   "title": "Location",
+   "caption": "In 2015, scientists determined that there is a hidden cenote under the Temple of Kukulkan, which has never been seen by archeologists.",
+   "quote": "In 2015, scientists determined that there is a hidden cenote under the Temple of Kukulkan, which has never been seen by archeologists.",
+   "plate": "columns",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Chichen_Itza"
+  }
+ ]
+}

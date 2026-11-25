@@ -1,0 +1,173 @@
+{
+ "id": "alhambra",
+ "name": "Alhambra",
+ "city": "Granada, Spain",
+ "tagline": "Palace and fortress complex in Granada, Spain.",
+ "origin": "resolver",
+ "story_status": "EXTRACTED",
+ "model": null,
+ "gothic": false,
+ "verified": {
+  "status": "VERIFIED",
+  "qid": "Q47476",
+  "wikidata_url": "https://www.wikidata.org/wiki/Q47476",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Alhambra",
+  "coordinates": {
+   "lat": 37.17634,
+   "lon": -3.58821
+  },
+  "country": "Spain",
+  "styles": [
+   "Art of Al-Andalus"
+  ],
+  "instance_of": [
+   "architectural ensemble",
+   "palace",
+   "palace",
+   "garden",
+   "group of monuments"
+  ],
+  "inception": "+1239-00-00T00:00:00Z",
+  "retrieved_at": "2026-11-25T14:33:31.504Z"
+ },
+ "construction": {
+  "status": "VERIFIED",
+  "quote": "The most significant construction campaigns, which gave the royal palaces much of their defining character, took place in the 14th century during the reigns of Yusuf I and Muhammad V.",
+  "source": "https://en.wikipedia.org/wiki/Alhambra"
+ },
+ "image": {
+  "local": "/cache/alhambra-0.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:France_Loiret_La_Bussiere_Potager_05.jpg",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "author": "No machine-readable author provided. Calips assumed (based on copyright claims).",
+  "status": "VERIFIED",
+  "file": "France Loiret La Bussiere Potager 05.jpg"
+ },
+ "photos": [
+  {
+   "local": "/cache/alhambra-0.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:France_Loiret_La_Bussiere_Potager_05.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "No machine-readable author provided. Calips assumed (based on copyright claims).",
+   "status": "VERIFIED",
+   "file": "France Loiret La Bussiere Potager 05.jpg"
+  },
+  {
+   "local": "/cache/alhambra-1.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Castillo_del_Mauror.JPG",
+   "license": "Public domain",
+   "license_url": null,
+   "author": "Pepepitos",
+   "status": "VERIFIED",
+   "file": "Castillo del Mauror.JPG"
+  },
+  {
+   "local": "/cache/alhambra-2.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Granada-Alhambra12.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Nikater",
+   "status": "VERIFIED",
+   "file": "Granada-Alhambra12.jpg"
+  },
+  {
+   "local": "/cache/alhambra-3.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Detalle_de_la_pared_de_la_Sala_del_Mexuar._La_Alhambra,_Granada.%C2%ABS%C3%B3lo_Dios_es_vencedor%C2%BB.JPG",
+   "license": "CC BY-SA 3.0 es",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/es/deed.en",
+   "author": "Roberto Chamoso G",
+   "status": "VERIFIED",
+   "file": "Detalle de la pared de la Sala del Mexuar. La Alhambra, Granada.«Sólo Dios es vencedor».JPG"
+  },
+  {
+   "local": "/cache/alhambra-4.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Alhambra,_Alcazaba,_Torre_Quebrada_01_(4392663424).jpg",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "author": "michael clarke stuff",
+   "status": "VERIFIED",
+   "file": "Alhambra, Alcazaba, Torre Quebrada 01 (4392663424).jpg"
+  },
+  {
+   "local": "/cache/alhambra-5.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Diego_S%C3%A1nchez_Sarabia_-_Jarr%C3%B3n_nazar%C3%AD_de_los_escudos._-_Google_Art_Project.jpg",
+   "license": "Public domain",
+   "license_url": null,
+   "author": "Diego Sánchez Sarabia",
+   "status": "VERIFIED",
+   "file": "Diego Sánchez Sarabia - Jarrón nazarí de los escudos. - Google Art Project.jpg"
+  }
+ ],
+ "attested_features": [
+  {
+   "feature": "nave",
+   "quote": "The roof was made of wood and the central nave, which led to the mihrab, had a higher ceiling than the two side naves.",
+   "status": "VERIFIED",
+   "source": "https://en.wikipedia.org/wiki/Alhambra"
+  }
+ ],
+ "scenes": [
+  {
+   "year": "1238 CE",
+   "title": "Overview",
+   "caption": "The building of the complex was begun in 1238 CE by Muhammad I Ibn al-Ahmar, the first Nasrid ruler and founder of the Emirate of Granada, the last Muslim state of al-Andalus.",
+   "quote": "The building of the complex was begun in 1238 CE by Muhammad I Ibn al-Ahmar, the first Nasrid ruler and founder of the Emirate of Granada, the last Muslim state of al-Andalus.",
+   "plate": "rise",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Alhambra"
+  },
+  {
+   "year": "14th century",
+   "title": "Overview",
+   "caption": "The most significant construction campaigns, which gave the royal palaces much of their defining character, took place in the 14th century during the reigns of Yusuf I and Muhammad V.",
+   "quote": "The most significant construction campaigns, which gave the royal palaces much of their defining character, took place in the 14th century during the reigns of Yusuf I and Muhammad V.",
+   "plate": "arch-shift",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Alhambra"
+  },
+  {
+   "year": "1492",
+   "title": "Overview",
+   "caption": "After the conclusion of the Christian Reconquista in 1492, the site became the Royal Court of Ferdinand and Isabella (where Christopher Columbus received royal endorsement for his expedition), and the palaces were partially altered.",
+   "quote": "After the conclusion of the Christian Reconquista in 1492, the site became the Royal Court of Ferdinand and Isabella (where Christopher Columbus received royal endorsement for his expedition), and the palaces were partially altered.",
+   "plate": "volume",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Alhambra"
+  },
+  {
+   "year": "1526",
+   "title": "Overview",
+   "caption": "In 1526, Charles V commissioned a new Renaissance-style palace in direct juxtaposition with the Nasrid palaces.",
+   "quote": "In 1526, Charles V commissioned a new Renaissance-style palace in direct juxtaposition with the Nasrid palaces.",
+   "plate": "layers",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Alhambra"
+  },
+  {
+   "year": "1812",
+   "title": "Overview",
+   "caption": "The troops of Napoleon destroyed parts of it in 1812.",
+   "quote": "The troops of Napoleon destroyed parts of it in 1812.",
+   "plate": "fracture",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Alhambra"
+  },
+  {
+   "year": "1832",
+   "title": "Overview",
+   "caption": "The most influential of them was Washington Irving, whose Tales of the Alhambra (1832) brought international attention to the site.",
+   "quote": "The most influential of them was Washington Irving, whose Tales of the Alhambra (1832) brought international attention to the site.",
+   "plate": "arch-shift",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Alhambra"
+  }
+ ]
+}

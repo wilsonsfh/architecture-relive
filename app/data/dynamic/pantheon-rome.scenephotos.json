@@ -1,0 +1,62 @@
+[
+ {
+  "local": "/cache/pantheon-rome-s0.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Pantheon_wider_centered.jpg",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "author": "Jean-Pierre Lavoie (Jplavoie)",
+  "file": "Pantheon wider centered.jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ {
+  "local": "/cache/pantheon-rome-s1.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Pantheon_interior_(45696759504).jpg",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "author": "Deb Nystrom from Ann Arbor, Michigan, USA",
+  "file": "Pantheon interior (45696759504).jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ {
+  "local": "/cache/pantheon-rome-s2.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Pantheon_Rom_1_cropped.jpg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Rabax63",
+  "file": "Pantheon Rom 1 cropped.jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ {
+  "local": "/cache/pantheon-rome-s3.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Pantheon_(45696758404).jpg",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "author": "Deb Nystrom from Ann Arbor, Michigan, USA",
+  "file": "Pantheon (45696758404).jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ {
+  "local": "/cache/pantheon-rome-s4.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Rome_(IT),_Pantheon_--_2013_--_3572.jpg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Dietmar Rabich",
+  "file": "Rome (IT), Pantheon -- 2013 -- 3572.jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ {
+  "local": "/cache/pantheon-rome-s5.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Pantheon_(Rome),_Dome_interior.jpg",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "author": "Wilfredor",
+  "file": "Pantheon (Rome), Dome interior.jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ }
+]

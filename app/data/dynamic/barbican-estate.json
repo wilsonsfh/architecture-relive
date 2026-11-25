@@ -1,0 +1,165 @@
+{
+ "id": "barbican-estate",
+ "name": "Barbican Estate",
+ "city": "City of London, United Kingdom",
+ "tagline": "Residential complex in London, England.",
+ "origin": "resolver",
+ "story_status": "EXTRACTED",
+ "model": null,
+ "gothic": false,
+ "verified": {
+  "status": "VERIFIED",
+  "qid": "Q2319878",
+  "wikidata_url": "https://www.wikidata.org/wiki/Q2319878",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Barbican_Estate",
+  "coordinates": {
+   "lat": 51.519192,
+   "lon": -0.094607
+  },
+  "country": "United Kingdom",
+  "styles": [
+   "brutalist architecture"
+  ],
+  "instance_of": [
+   "grand ensemble",
+   "area of London",
+   "skyscraper",
+   "mixed-use building"
+  ],
+  "inception": "+1982-00-00T00:00:00Z",
+  "retrieved_at": "2026-11-25T14:30:15.544Z"
+ },
+ "construction": {
+  "status": "VERIFIED",
+  "quote": "The main fort of Roman London was built between 90 and 120 AD south-east of where the Museum of London now stands at the corner of London Wall and Aldersgate Street.",
+  "source": "https://en.wikipedia.org/wiki/Barbican_Estate"
+ },
+ "image": {
+  "local": "/cache/barbican-estate-0.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Barbican.flats.london.arp.jpg",
+  "license": "Public domain",
+  "license_url": null,
+  "author": "Arpingstone",
+  "status": "VERIFIED",
+  "file": "Barbican.flats.london.arp.jpg"
+ },
+ "photos": [
+  {
+   "local": "/cache/barbican-estate-0.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Barbican.flats.london.arp.jpg",
+   "license": "Public domain",
+   "license_url": null,
+   "author": "Arpingstone",
+   "status": "VERIFIED",
+   "file": "Barbican.flats.london.arp.jpg"
+  },
+  {
+   "local": "/cache/barbican-estate-1.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Barbican_monument_Bryers_and_Sons.JPG",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Sandpiper",
+   "status": "VERIFIED",
+   "file": "Barbican monument Bryers and Sons.JPG"
+  },
+  {
+   "local": "/cache/barbican-estate-2.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Barbican_steps_and_fountains.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Tom Morris",
+   "status": "VERIFIED",
+   "file": "Barbican steps and fountains.jpg"
+  },
+  {
+   "local": "/cache/barbican-estate-3.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Barbican_towers.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Riodamascus",
+   "status": "VERIFIED",
+   "file": "Barbican towers.jpg"
+  },
+  {
+   "local": "/cache/barbican-estate-4.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Barbicanestatefromabove.jpg",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "author": "Suttonpubcrawl (talk) (Uploads)",
+   "status": "VERIFIED",
+   "file": "Barbicanestatefromabove.jpg"
+  },
+  {
+   "local": "/cache/barbican-estate-5.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Barbican_Estate_-_August_2014_01.JPG",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Maarten Jansen",
+   "status": "VERIFIED",
+   "file": "Barbican Estate - August 2014 01.JPG"
+  }
+ ],
+ "attested_features": [],
+ "scenes": [
+  {
+   "year": "120 AD",
+   "title": "History",
+   "caption": "The main fort of Roman London was built between 90 and 120 AD south-east of where the Museum of London now stands at the corner of London Wall and Aldersgate Street.",
+   "quote": "The main fort of Roman London was built between 90 and 120 AD south-east of where the Museum of London now stands at the corner of London Wall and Aldersgate Street.",
+   "plate": "wall",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Barbican_Estate"
+  },
+  {
+   "year": "200 AD",
+   "title": "History",
+   "caption": "Around 200 AD, walls were built around the city that incorporated the old fort, which became a grand entrance known as Cripplegate.",
+   "quote": "Around 200 AD, walls were built around the city that incorporated the old fort, which became a grand entrance known as Cripplegate.",
+   "plate": "wall",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Barbican_Estate"
+  },
+  {
+   "year": "1268 ",
+   "title": "History",
+   "caption": "Records of transactions of the time show that the cemetery had been expanded several times through the acquisition of property by Jews between 1268 and 1290.",
+   "quote": "Records of transactions of the time show that the cemetery had been expanded several times through the acquisition of property by Jews between 1268 and 1290.",
+   "plate": "volume",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Barbican_Estate"
+  },
+  {
+   "year": "1290",
+   "title": "History",
+   "caption": "The Jews were expelled from England in 1290, and on 12 July 1291 Edward I granted the site of the cemetery to Master William de Montford, who was Dean of St Paul's but seems to have held this land privately.",
+   "quote": "The Jews were expelled from England in 1290, and on 12 July 1291 Edward I granted the site of the cemetery to Master William de Montford, who was Dean of St Paul's but seems to have held this land privately.",
+   "plate": "layers",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Barbican_Estate"
+  },
+  {
+   "year": "16th century",
+   "title": "History",
+   "caption": "By the 16th century it had passed to Charles Brandon, 1st Duke of Suffolk.",
+   "quote": "By the 16th century it had passed to Charles Brandon, 1st Duke of Suffolk.",
+   "plate": "rise",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Barbican_Estate"
+  },
+  {
+   "year": "1617",
+   "title": "History",
+   "caption": "The house was later owned by Thomas Egerton, Lord Ellesmere, and later named Bridgewater House after the title bestowed on John Egerton in 1617.",
+   "quote": "The house was later owned by Thomas Egerton, Lord Ellesmere, and later named Bridgewater House after the title bestowed on John Egerton in 1617.",
+   "plate": "arch-shift",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Barbican_Estate"
+  }
+ ]
+}

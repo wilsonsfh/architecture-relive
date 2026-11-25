@@ -1,0 +1,162 @@
+{
+ "id": "king-s-college-chapel-cambridge",
+ "name": "King's College Chapel",
+ "city": "Cambridge, United Kingdom",
+ "tagline": "Church at King's College, Cambridge.",
+ "origin": "resolver",
+ "story_status": "EXTRACTED",
+ "model": null,
+ "gothic": true,
+ "verified": {
+  "status": "VERIFIED",
+  "qid": "Q1263246",
+  "wikidata_url": "https://www.wikidata.org/wiki/Q1263246",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/King's_College_Chapel%2C_Cambridge",
+  "coordinates": {
+   "lat": 52.204722222222,
+   "lon": 0.11638888888889
+  },
+  "country": "United Kingdom",
+  "styles": [
+   "Gothic art"
+  ],
+  "instance_of": [
+   "chapel"
+  ],
+  "inception": "+1446-01-17T00:00:00Z",
+  "retrieved_at": "2026-11-25T14:31:31.982Z"
+ },
+ "construction": {
+  "status": "VERIFIED",
+  "quote": "The Chapel was built in phases by a succession of kings of England from 1448 to 1515, a period which spanned the Wars of the Roses and three subsequent decades.",
+  "source": "https://en.wikipedia.org/wiki/King's_College_Chapel%2C_Cambridge"
+ },
+ "image": {
+  "local": "/cache/king-s-college-chapel-cambridge-0.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:KingsCollegeChapel.jpg",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "author": "Christian Richardt",
+  "status": "VERIFIED",
+  "file": "KingsCollegeChapel.jpg"
+ },
+ "photos": [
+  {
+   "local": "/cache/king-s-college-chapel-cambridge-0.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:KingsCollegeChapel.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "Christian Richardt",
+   "status": "VERIFIED",
+   "file": "KingsCollegeChapel.jpg"
+  },
+  {
+   "local": "/cache/king-s-college-chapel-cambridge-1.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:20130808_Kings_College_Chapel_01.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Dmitry Tonkonog",
+   "status": "VERIFIED",
+   "file": "20130808 Kings College Chapel 01.jpg"
+  },
+  {
+   "local": "/cache/king-s-college-chapel-cambridge-2.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Cambridge_KingsCollege_Towers.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "KaiBorgeest",
+   "status": "VERIFIED",
+   "file": "Cambridge KingsCollege Towers.jpg"
+  },
+  {
+   "local": "/cache/king-s-college-chapel-cambridge-3.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:King%27s_College_Chapel_Vault.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Cc364",
+   "status": "VERIFIED",
+   "file": "King's College Chapel Vault.jpg"
+  },
+  {
+   "local": "/cache/king-s-college-chapel-cambridge-4.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Thomas_Malton_-_Cambridge_University,_Kings_College_Chapel_-_B1977.14.11895_-_Yale_Center_for_British_Art.jpg",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Thomas Malton",
+   "status": "VERIFIED",
+   "file": "Thomas Malton - Cambridge University, Kings College Chapel - B1977.14.11895 - Yale Center for British Art.jpg"
+  },
+  {
+   "local": "/cache/king-s-college-chapel-cambridge-5.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Kings_Chapel.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "IsaacIvanov",
+   "status": "VERIFIED",
+   "file": "Kings Chapel.jpg"
+  }
+ ],
+ "attested_features": [],
+ "scenes": [
+  {
+   "year": "1441 ",
+   "title": "History",
+   "caption": "This foundation was begun 1441 on a small site, now the Old Schools.",
+   "quote": "This foundation was begun 1441 on a small site, now the Old Schools.",
+   "plate": "rise",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/King's_College_Chapel%2C_Cambridge"
+  },
+  {
+   "year": "1444",
+   "title": "History",
+   "caption": "It had a small chapel, which was begun in 1444.",
+   "quote": "It had a small chapel, which was begun in 1444.",
+   "plate": "arch-shift",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/King's_College_Chapel%2C_Cambridge"
+  },
+  {
+   "year": "1446",
+   "title": "History",
+   "caption": "The first stone of the Chapel was laid, by Henry himself, on the Feast of St James the Apostle, 25 July 1446.",
+   "quote": "The first stone of the Chapel was laid, by Henry himself, on the Feast of St James the Apostle, 25 July 1446.",
+   "plate": "volume",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/King's_College_Chapel%2C_Cambridge"
+  },
+  {
+   "year": "1448 ",
+   "title": "Overview",
+   "caption": "The Chapel was built in phases by a succession of kings of England from 1448 to 1515, a period which spanned the Wars of the Roses and three subsequent decades.",
+   "quote": "The Chapel was built in phases by a succession of kings of England from 1448 to 1515, a period which spanned the Wars of the Roses and three subsequent decades.",
+   "plate": "layers",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/King's_College_Chapel%2C_Cambridge"
+  },
+  {
+   "year": "1448",
+   "title": "History",
+   "caption": "However, Henry soon greatly expanded his scheme, demolishing a large swathe of the town to begin a large court and chapel, the dimensions of which were specified  in his Will and Intent of 12 March 1448.",
+   "quote": "However, Henry soon greatly expanded his scheme, demolishing a large swathe of the town to begin a large court and chapel, the dimensions of which were specified  in his Will and Intent of 12 March 1448.",
+   "plate": "rise",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/King's_College_Chapel%2C_Cambridge"
+  },
+  {
+   "year": "1531",
+   "title": "Overview",
+   "caption": "The Chapel's large stained glass windows were completed by 1531, and its early Renaissance pulpitum was erected in 1532–36.",
+   "quote": "The Chapel's large stained glass windows were completed by 1531, and its early Renaissance pulpitum was erected in 1532–36.",
+   "plate": "glass",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/King's_College_Chapel%2C_Cambridge"
+  }
+ ]
+}

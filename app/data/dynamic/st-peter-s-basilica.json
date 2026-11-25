@@ -1,0 +1,174 @@
+{
+ "id": "st-peter-s-basilica",
+ "name": "St. Peter's Basilica",
+ "city": "Vatican City, Vatican City",
+ "tagline": "Roman Catholic basilica and landmark in Vatican City.",
+ "origin": "resolver",
+ "story_status": "EXTRACTED",
+ "model": null,
+ "gothic": false,
+ "verified": {
+  "status": "VERIFIED",
+  "qid": "Q12512",
+  "wikidata_url": "https://www.wikidata.org/wiki/Q12512",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/St._Peter's_Basilica",
+  "coordinates": {
+   "lat": 41.90222222222222,
+   "lon": 12.453416666666667
+  },
+  "country": "Vatican City",
+  "styles": [
+   "Renaissance architecture",
+   "baroque architecture"
+  ],
+  "instance_of": [
+   "major basilica",
+   "papal basilica",
+   "architectural landmark",
+   "parish church",
+   "patriarchal basilica"
+  ],
+  "inception": "+1506-04-18T00:00:00Z",
+  "retrieved_at": "2026-11-25T14:28:16.295Z"
+ },
+ "construction": {
+  "status": "VERIFIED",
+  "quote": "Construction of the present basilica began on 18 April 1506 and was completed on 18 November 1626.",
+  "source": "https://en.wikipedia.org/wiki/St._Peter's_Basilica"
+ },
+ "image": {
+  "local": "/cache/st-peter-s-basilica-0.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Cathedrapetri%2Bgloria.jpg",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "Ricardo André Frantz (User:Tetraktys)",
+  "status": "VERIFIED",
+  "file": "Cathedrapetri+gloria.jpg"
+ },
+ "photos": [
+  {
+   "local": "/cache/st-peter-s-basilica-0.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Cathedrapetri%2Bgloria.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Ricardo André Frantz (User:Tetraktys)",
+   "status": "VERIFIED",
+   "file": "Cathedrapetri+gloria.jpg"
+  },
+  {
+   "local": "/cache/st-peter-s-basilica-1.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Saint_Andreas.jpg",
+   "license": "Public domain",
+   "license_url": null,
+   "author": "Use the force",
+   "status": "VERIFIED",
+   "file": "Saint Andreas.jpg"
+  },
+  {
+   "local": "/cache/st-peter-s-basilica-2.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:046CupolaSPietro.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "MarkusMark",
+   "status": "VERIFIED",
+   "file": "046CupolaSPietro.jpg"
+  },
+  {
+   "local": "/cache/st-peter-s-basilica-3.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Konzilseroeffnung_2.jpg",
+   "license": "Public domain",
+   "license_url": null,
+   "author": "Peter Geymayer",
+   "status": "VERIFIED",
+   "file": "Konzilseroeffnung 2.jpg"
+  },
+  {
+   "local": "/cache/st-peter-s-basilica-4.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Basilica_di_San_Pietro_(notte).jpg",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "author": "Eugene Pivovarov",
+   "status": "VERIFIED",
+   "file": "Basilica di San Pietro (notte).jpg"
+  },
+  {
+   "local": "/cache/st-peter-s-basilica-5.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Basilica_di_san_pietro.JPG",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Denisbelli",
+   "status": "VERIFIED",
+   "file": "Basilica di san pietro.JPG"
+  }
+ ],
+ "attested_features": [
+  {
+   "feature": "nave",
+   "quote": "The basilica is cruciform in shape, with an elongated nave in the Latin cross form but the early designs were for a centrally planned structure and this is still in evidence in the architecture.",
+   "status": "VERIFIED",
+   "source": "https://en.wikipedia.org/wiki/St._Peter's_Basilica"
+  }
+ ],
+ "scenes": [
+  {
+   "year": "15th century",
+   "title": "Overview",
+   "caption": "It was initially planned in the 15th century by Pope Nicholas V and then Pope Julius II to replace the ageing Old St.",
+   "quote": "It was initially planned in the 15th century by Pope Nicholas V and then Pope Julius II to replace the ageing Old St.",
+   "plate": "rise",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/St._Peter's_Basilica"
+  },
+  {
+   "year": "1506 ",
+   "title": "Overview",
+   "caption": "Construction of the present basilica began on 18 April 1506 and was completed on 18 November 1626.",
+   "quote": "Construction of the present basilica began on 18 April 1506 and was completed on 18 November 1626.",
+   "plate": "arch-shift",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/St._Peter's_Basilica"
+  },
+  {
+   "year": "1626 ",
+   "title": "Status",
+   "caption": "At length, on 18 November 1626 Pope Urban VIII solemnly dedicated the Basilica.",
+   "quote": "At length, on 18 November 1626 Pope Urban VIII solemnly dedicated the Basilica.",
+   "plate": "volume",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/St._Peter's_Basilica"
+  },
+  {
+   "year": "1836 ",
+   "title": "Overview",
+   "caption": "Pope Gregory XVI granted a \"perpetual privilege\" in 1836 authorizing any Catholic priest to celebrate Mass at the altar in the chapel.",
+   "quote": "Pope Gregory XVI granted a \"perpetual privilege\" in 1836 authorizing any Catholic priest to celebrate Mass at the altar in the chapel.",
+   "plate": "layers",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/St._Peter's_Basilica"
+  },
+  {
+   "year": "20th century",
+   "title": "Overview",
+   "caption": "Andrew, whose skull was possessed by the Vatican until the 20th century.",
+   "quote": "Andrew, whose skull was possessed by the Vatican until the 20th century.",
+   "plate": "rise",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/St._Peter's_Basilica"
+  },
+  {
+   "year": "1984 ",
+   "title": "Status",
+   "caption": "Peter's Basilica was inscribed as a UNESCO World Heritage Site in 1984 under criteria (i), (ii), (iv), and (vi).",
+   "quote": "Peter's Basilica was inscribed as a UNESCO World Heritage Site in 1984 under criteria (i), (ii), (iv), and (vi).",
+   "plate": "book",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/St._Peter's_Basilica"
+  }
+ ]
+}

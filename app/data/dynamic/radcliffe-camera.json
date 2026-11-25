@@ -1,0 +1,163 @@
+{
+ "id": "radcliffe-camera",
+ "name": "Radcliffe Camera",
+ "city": "Oxford, United Kingdom",
+ "tagline": "University library building in Oxford, United Kingdom.",
+ "origin": "resolver",
+ "story_status": "EXTRACTED",
+ "model": null,
+ "gothic": false,
+ "verified": {
+  "status": "VERIFIED",
+  "qid": "Q1602700",
+  "wikidata_url": "https://www.wikidata.org/wiki/Q1602700",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Radcliffe_Camera",
+  "coordinates": {
+   "lat": 51.7534,
+   "lon": -1.2539
+  },
+  "country": "United Kingdom",
+  "styles": [
+   "English Baroque"
+  ],
+  "instance_of": [
+   "library",
+   "university building"
+  ],
+  "inception": "+1748-00-00T00:00:00Z",
+  "retrieved_at": "2026-11-25T14:32:09.513Z"
+ },
+ "construction": {
+  "status": "VERIFIED",
+  "quote": "The library's construction and maintenance was funded from the estate of John Radcliffe, a physician who left £40,000 upon his death in 1714; the library was not ready to open until 1749.",
+  "source": "https://en.wikipedia.org/wiki/Radcliffe_Camera"
+ },
+ "image": {
+  "local": "/cache/radcliffe-camera-0.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Radcliffe_Camera,_Oxford_-_Oct_2006.jpg",
+  "license": "CC BY 2.5",
+  "license_url": "https://creativecommons.org/licenses/by/2.5",
+  "author": "Diliff",
+  "status": "VERIFIED",
+  "file": "Radcliffe Camera, Oxford - Oct 2006.jpg"
+ },
+ "photos": [
+  {
+   "local": "/cache/radcliffe-camera-0.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Radcliffe_Camera,_Oxford_-_Oct_2006.jpg",
+   "license": "CC BY 2.5",
+   "license_url": "https://creativecommons.org/licenses/by/2.5",
+   "author": "Diliff",
+   "status": "VERIFIED",
+   "file": "Radcliffe Camera, Oxford - Oct 2006.jpg"
+  },
+  {
+   "local": "/cache/radcliffe-camera-1.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Radcliffe2ndlevel.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Stickinho",
+   "status": "VERIFIED",
+   "file": "Radcliffe2ndlevel.jpg"
+  },
+  {
+   "local": "/cache/radcliffe-camera-2.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:The_Radcliffe_Camera_from_the_Bodleian_end_of_Catte_Street.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Ozeye",
+   "status": "VERIFIED",
+   "file": "The Radcliffe Camera from the Bodleian end of Catte Street.jpg"
+  },
+  {
+   "local": "/cache/radcliffe-camera-3.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:1_radcliffe_camera_night_2012.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "chensiyuan",
+   "status": "VERIFIED",
+   "file": "1 radcliffe camera night 2012.jpg"
+  },
+  {
+   "local": "/cache/radcliffe-camera-4.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Radcliffe_Camera,_Oxford;_panoramic_view_with_All_Soul%27s_Col_Wellcome_V0014214.jpg",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "author": "Wikimedia Commons",
+   "status": "VERIFIED",
+   "file": "Radcliffe Camera, Oxford; panoramic view with All Soul's Col Wellcome V0014214.jpg"
+  },
+  {
+   "local": "/cache/radcliffe-camera-5.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Radcliffe_Camera_Oxford_2018_03.jpg",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "author": "Julian Herzog (Website)",
+   "status": "VERIFIED",
+   "file": "Radcliffe Camera Oxford 2018 03.jpg"
+  }
+ ],
+ "attested_features": [],
+ "scenes": [
+  {
+   "year": "100 ",
+   "title": "Background",
+   "caption": "Radcliffe dedicated £100 a year to furnishing his proposed library with books.",
+   "quote": "Radcliffe dedicated £100 a year to furnishing his proposed library with books.",
+   "plate": "rise",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Radcliffe_Camera"
+  },
+  {
+   "year": "1650",
+   "title": "Background",
+   "caption": "1650–1714) attended University College from the age of thirteen, becoming a fellow of Lincoln College at eighteen.",
+   "quote": "1650–1714) attended University College from the age of thirteen, becoming a fellow of Lincoln College at eighteen.",
+   "plate": "arch-shift",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Radcliffe_Camera"
+  },
+  {
+   "year": "1712 ",
+   "title": "Background",
+   "caption": "Francis Atterbury, Dean of Christ Church, writing in December 1712 describes plans for a 90 ft room on the site of neighbouring Exeter College, and that the lower storey would be a library for Exeter College and the upper story Radcliffe's Library.",
+   "quote": "Francis Atterbury, Dean of Christ Church, writing in December 1712 describes plans for a 90 ft room on the site of neighbouring Exeter College, and that the lower storey would be a library for Exeter College and the upper story Radcliffe's Library.",
+   "plate": "volume",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Radcliffe_Camera"
+  },
+  {
+   "year": "1714",
+   "title": "Overview",
+   "caption": "The library's construction and maintenance was funded from the estate of John Radcliffe, a physician who left £40,000 upon his death in 1714; the library was not ready to open until 1749.",
+   "quote": "The library's construction and maintenance was funded from the estate of John Radcliffe, a physician who left £40,000 upon his death in 1714; the library was not ready to open until 1749.",
+   "plate": "layers",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Radcliffe_Camera"
+  },
+  {
+   "year": "1736",
+   "title": "Plans",
+   "caption": "The latter lived until 1736, although it appears between the death of Redshaw in 1716 and Millicent Radcliffe in 1736, much preparatory work was done acquiring the site for the library.",
+   "quote": "The latter lived until 1736, although it appears between the death of Redshaw in 1716 and Millicent Radcliffe in 1736, much preparatory work was done acquiring the site for the library.",
+   "plate": "rise",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Radcliffe_Camera"
+  },
+  {
+   "year": "1810",
+   "title": "Overview",
+   "caption": "Until 1810, the library housed books covering a wide range of subjects, but under George Williams it was brought up to date from a state of neglect, and focus narrowed to the sciences, although by 1850 the Radcliffe Library still lagged behind the Bodleian.",
+   "quote": "Until 1810, the library housed books covering a wide range of subjects, but under George Williams it was brought up to date from a state of neglect, and focus narrowed to the sciences, although by 1850 the Radcliffe Library still lagged behind the Bodleian.",
+   "plate": "arch-shift",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Radcliffe_Camera"
+  }
+ ]
+}

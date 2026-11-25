@@ -1,0 +1,44 @@
+[
+ {
+  "local": "/cache/radcliffe-camera-s0.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Radcliffe_Camera_from_Exeter.jpg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Medarduss",
+  "file": "Radcliffe Camera from Exeter.jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ {
+  "local": "/cache/radcliffe-camera-s1.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Bodleian_Library_and_bicycles_in_Radcliffe_Square.jpg",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0",
+  "author": "APK",
+  "file": "Bodleian Library and bicycles in Radcliffe Square.jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ {
+  "local": "/cache/radcliffe-camera-s2.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Radcliffe_railway_station_MMB_04_158854.jpg",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "mattbuck (category)",
+  "file": "Radcliffe railway station MMB 04 158854.jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ null,
+ {
+  "local": "/cache/radcliffe-camera-s4.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Radcliffe_Camera_in_soft_sunlight.jpg",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "author": "Bill Tyne from Oxford, England",
+  "file": "Radcliffe Camera in soft sunlight.jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ null
+]

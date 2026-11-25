@@ -1,0 +1,19 @@
+{
+  "name": "nave-architecture-explorer",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Prototype: pick a real Gothic cathedral, see its verified facts, play its storyline, step inside a simplified 3D nave.",
+  "scripts": {
+    "fetch": "node scripts/fetch-sources.mjs",
+    "build": "node scripts/build-data.mjs",
+    "test": "node scripts/build-data.mjs && node --test test/slice.test.mjs",
+    "start": "node server.mjs"
+  },
+  "dependencies": {
+    "@fontsource/caveat": "5.3.0",
+    "gsap": "3.15.1",
+    "openai": "4.104.0",
+    "three": "0.187.0"
+  }
+}

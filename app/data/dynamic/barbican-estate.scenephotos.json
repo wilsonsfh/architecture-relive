@@ -1,0 +1,26 @@
+[
+ {
+  "local": "/cache/barbican-estate-s0.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Barbican_Estate_main_entrance_2023_01.jpg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "DaHuzyBru",
+  "file": "Barbican Estate main entrance 2023 01.jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ {
+  "local": "/cache/barbican-estate-s1.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Barbican_Estate_main_entrance_2023_02.jpg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "DaHuzyBru",
+  "file": "Barbican Estate main entrance 2023 02.jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ null,
+ null,
+ null,
+ null
+]

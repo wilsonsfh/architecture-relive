@@ -1,0 +1,53 @@
+[
+ {
+  "local": "/cache/king-s-college-chapel-cambridge-s0.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:King%27s_college_chapel,_cambridge_1446-1515._(4953858698).jpg",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "author": "seier+seier",
+  "file": "King's college chapel, cambridge 1446-1515. (4953858698).jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ {
+  "local": "/cache/king-s-college-chapel-cambridge-s1.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Britton%27s_Architectural_Antiquities,_1807_-_King%27s_College_Chapel_02,_West_Front_-_architecturalant01brit_0061.jpg",
+  "license": "Public domain",
+  "license_url": null,
+  "author": "Joseph Clarendon Smith / Samuel Prout",
+  "file": "Britton's Architectural Antiquities, 1807 - King's College Chapel 02, West Front - architecturalant01brit 0061.jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ {
+  "local": "/cache/king-s-college-chapel-cambridge-s2.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Britton%27s_Architectural_Antiquities,_1807_-_King%27s_College_Chapel_01,_NW_view_-_architecturalant01brit_0058.jpg",
+  "license": "Public domain",
+  "license_url": null,
+  "author": "John Thomas Smith / John Linnell Bond",
+  "file": "Britton's Architectural Antiquities, 1807 - King's College Chapel 01, NW view - architecturalant01brit 0058.jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ null,
+ {
+  "local": "/cache/king-s-college-chapel-cambridge-s4.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Britton%27s_Architectural_Antiquities,_1807_-_King%27s_College_Chapel_03,_South_Entrance_Porch_-_architecturalant01brit_0066.jpg",
+  "license": "Public domain",
+  "license_url": null,
+  "author": "Samuel Rawle / John Linnell Bond",
+  "file": "Britton's Architectural Antiquities, 1807 - King's College Chapel 03, South Entrance Porch - architecturalant01brit 0066.jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ {
+  "local": "/cache/king-s-college-chapel-cambridge-s5.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Kings_College_Chapel_Cambridge_west_window.jpg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Martinvl",
+  "file": "Kings College Chapel Cambridge west window.jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ }
+]

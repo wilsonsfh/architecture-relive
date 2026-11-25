@@ -1,0 +1,35 @@
+{
+  "item": "q7qa",
+  "status": "verified",
+  "timestamp": "2026-11-25T22:35:30+08:00",
+  "summary": "QA evidence complete: 41 screenshots in one browser run, existing tests pass with bundled-vendor resolution, defects reported, application unchanged.",
+  "changed_files": [
+    "analysis/p7-qa/QA-REPORT.md",
+    "analysis/p7-qa/SCREENSHOT-INDEX.json",
+    "analysis/p7-qa/browser-evidence.json",
+    "analysis/p7-qa/capture.py",
+    "analysis/p7-qa/run-qa.sh",
+    "analysis/p7-qa/vendor-loader.mjs",
+    "analysis/p7-qa/shots/",
+    "analysis/p7-qa/node-tests.log",
+    "analysis/p7-qa/node-tests-vendored.log",
+    "analysis/p7-qa/browser-run.log",
+    "analysis/p7-qa/read-only-check.json",
+    "analysis/p7-qa/contrast-checks.json"
+  ],
+  "start_command": "cd analysis/p7-idea/app && PORT=4817 node server.mjs",
+  "tests": [
+    "Existing Node suite: 8/8 passed using QA-only loader for already-bundled Three.js; direct invocation fails missing installed three.",
+    "App and QA script syntax checks passed.",
+    "One flock-protected Chromium run: 41 PNGs, 56 passing assertions, 11 failing sequential pin-pointer assertions, 25 console errors, zero uncaught page errors.",
+    "PNG integrity passed; 48 application files unchanged by SHA-256; temporary :5817 server stopped."
+  ],
+  "limits": [
+    "QA verified means evidence collection is complete, not that the application is defect-free.",
+    "Mobile model disclaimer blocks Back; projected pin controls are clipped, hidden, or obstructed in tested sequences.",
+    "Diagnostic DOM pin clicks are labeled and do not prove user reachability.",
+    "Browser driver stopped at blocked mobile Back; required captures had already completed.",
+    "No 820px, dark, reduced-motion, Mac/Safari, or later Q7-change verification; additional testing stopped per parent time-save instruction."
+  ],
+  "ready_for_sync": true
+}

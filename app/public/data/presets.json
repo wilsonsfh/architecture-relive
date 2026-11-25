@@ -1,0 +1,276 @@
+{
+ "generated_at": "2026-11-25T14:34:24.319Z",
+ "presets": [
+  {
+   "id": "alhambra",
+   "name": "Alhambra",
+   "city": "Granada, Spain",
+   "style": "Art of Al-Andalus",
+   "scenes": 6,
+   "photos": 6,
+   "story": "EXTRACTED"
+  },
+  {
+   "id": "angkor-wat",
+   "name": "Angkor Wat",
+   "city": "Siem Reap Province, Cambodia",
+   "style": "Khmer architecture",
+   "scenes": 6,
+   "photos": 6,
+   "story": "EXTRACTED"
+  },
+  {
+   "id": "barbican-estate",
+   "name": "Barbican Estate",
+   "city": "City of London, United Kingdom",
+   "style": "brutalist architecture",
+   "scenes": 6,
+   "photos": 6,
+   "story": "EXTRACTED"
+  },
+  {
+   "id": "sagrada-familia",
+   "name": "Basilica and Expiatory Church of the Holy Family",
+   "city": "Sagrada Família, Spain",
+   "style": "Catalan modernism",
+   "scenes": 6,
+   "photos": 6,
+   "story": "EXTRACTED"
+  },
+  {
+   "id": "casa-batllo",
+   "name": "Casa Batlló",
+   "city": "Dreta de l'Eixample, Spain",
+   "style": "Catalan modernism",
+   "scenes": 6,
+   "photos": 6,
+   "story": "EXTRACTED"
+  },
+  {
+   "id": "chichen-itza",
+   "name": "Chichen Itza",
+   "city": "Yucatán, Mexico",
+   "style": null,
+   "scenes": 6,
+   "photos": 6,
+   "story": "EXTRACTED"
+  },
+  {
+   "id": "chrysler-building",
+   "name": "Chrysler Building",
+   "city": "Manhattan, United States",
+   "style": "Art Deco",
+   "scenes": 6,
+   "photos": 6,
+   "story": "EXTRACTED"
+  },
+  {
+   "id": "colosseum",
+   "name": "Colosseum",
+   "city": "Roma Capitale, Italy",
+   "style": "ancient Roman architecture",
+   "scenes": 6,
+   "photos": 6,
+   "story": "EXTRACTED"
+  },
+  {
+   "id": "elliott-hall-of-music",
+   "name": "Elliott Hall of Music",
+   "city": "West Lafayette, United States",
+   "style": null,
+   "scenes": 4,
+   "photos": 3,
+   "story": "EXTRACTED"
+  },
+  {
+   "id": "florence-cathedral",
+   "name": "Florence Cathedral",
+   "city": "Florence, Italy",
+   "style": "Renaissance architecture",
+   "scenes": 6,
+   "photos": 6,
+   "story": "EXTRACTED"
+  },
+  {
+   "id": "forbidden-city",
+   "name": "Forbidden City",
+   "city": "Donghuamen Subdistrict, People's Republic of China",
+   "style": null,
+   "scenes": 6,
+   "photos": 6,
+   "story": "EXTRACTED"
+  },
+  {
+   "id": "great-wall-of-china",
+   "name": "Great Wall of China",
+   "city": "Hebei, People's Republic of China",
+   "style": null,
+   "scenes": 6,
+   "photos": 6,
+   "story": "EXTRACTED"
+  },
+  {
+   "id": "hagia-sophia",
+   "name": "Hagia Sophia",
+   "city": "Fatih, Turkey",
+   "style": "Byzantine architecture",
+   "scenes": 6,
+   "photos": 6,
+   "story": "EXTRACTED"
+  },
+  {
+   "id": "golden-temple",
+   "name": "Harmandir Sahib",
+   "city": "Amritsar, India",
+   "style": null,
+   "scenes": 6,
+   "photos": 6,
+   "story": "EXTRACTED"
+  },
+  {
+   "id": "king-s-college-chapel-cambridge",
+   "name": "King's College Chapel",
+   "city": "Cambridge, United Kingdom",
+   "style": "Gothic art",
+   "scenes": 6,
+   "photos": 6,
+   "story": "EXTRACTED"
+  },
+  {
+   "id": "leaning-tower-of-pisa",
+   "name": "Leaning Tower of Pisa",
+   "city": "Pisa, Italy",
+   "style": "Romanesque architecture",
+   "scenes": 6,
+   "photos": 6,
+   "story": "EXTRACTED"
+  },
+  {
+   "id": "lincoln-memorial",
+   "name": "Lincoln Memorial",
+   "city": "Washington, D.C., United States",
+   "style": "Greek Revival architecture",
+   "scenes": 6,
+   "photos": 6,
+   "story": "EXTRACTED"
+  },
+  {
+   "id": "palace-of-versailles",
+   "name": "Palace of Versailles",
+   "city": "Versailles, France",
+   "style": "Neoclassical architecture",
+   "scenes": 6,
+   "photos": 6,
+   "story": "EXTRACTED"
+  },
+  {
+   "id": "pantheon-rome",
+   "name": "Pantheon",
+   "city": "Rome, Italy",
+   "style": "ancient Roman architecture",
+   "scenes": 6,
+   "photos": 6,
+   "story": "EXTRACTED"
+  },
+  {
+   "id": "parthenon",
+   "name": "Parthenon",
+   "city": "Athens Municipality, Greece",
+   "style": "Doric order",
+   "scenes": 6,
+   "photos": 6,
+   "story": "EXTRACTED"
+  },
+  {
+   "id": "peles-castle",
+   "name": "Peleș Castle",
+   "city": "Sinaia, Romania",
+   "style": "Renaissance Revival architecture",
+   "scenes": 6,
+   "photos": 6,
+   "story": "EXTRACTED"
+  },
+  {
+   "id": "radcliffe-camera",
+   "name": "Radcliffe Camera",
+   "city": "Oxford, United Kingdom",
+   "style": "English Baroque",
+   "scenes": 6,
+   "photos": 6,
+   "story": "EXTRACTED"
+  },
+  {
+   "id": "saint-basil-s-cathedral",
+   "name": "St. Basil's Cathedral",
+   "city": "Tverskoy District, Russia",
+   "style": "Russian architecture",
+   "scenes": 6,
+   "photos": 6,
+   "story": "EXTRACTED"
+  },
+  {
+   "id": "st-peter-s-basilica",
+   "name": "St. Peter's Basilica",
+   "city": "Vatican City, Vatican City",
+   "style": "Renaissance architecture",
+   "scenes": 6,
+   "photos": 6,
+   "story": "EXTRACTED"
+  },
+  {
+   "id": "sterling-memorial-library",
+   "name": "Sterling Memorial Library",
+   "city": "New Haven, United States",
+   "style": "Collegiate Gothic",
+   "scenes": 6,
+   "photos": 6,
+   "story": "EXTRACTED"
+  },
+  {
+   "id": "blue-mosque-istanbul",
+   "name": "Sultan Ahmed Mosque",
+   "city": "Eminönü, Turkey",
+   "style": "Ottoman architecture",
+   "scenes": 6,
+   "photos": 6,
+   "story": "EXTRACTED"
+  },
+  {
+   "id": "sydney-opera-house",
+   "name": "Sydney Opera House",
+   "city": "City of Sydney, Australia",
+   "style": "expressionist architecture",
+   "scenes": 6,
+   "photos": 6,
+   "story": "EXTRACTED"
+  },
+  {
+   "id": "taj-mahal",
+   "name": "Taj Mahal",
+   "city": "Agra, India",
+   "style": "Islamic architecture",
+   "scenes": 6,
+   "photos": 6,
+   "story": "EXTRACTED"
+  },
+  {
+   "id": "villa-savoye",
+   "name": "Villa Savoye",
+   "city": "Poissy, France",
+   "style": "modern architecture",
+   "scenes": 6,
+   "photos": 2,
+   "story": "EXTRACTED"
+  },
+  {
+   "id": "widener-library",
+   "name": "Widener Library",
+   "city": "Massachusetts, United States",
+   "style": null,
+   "scenes": 6,
+   "photos": 6,
+   "story": "EXTRACTED"
+  }
+ ],
+ "failed": []
+}

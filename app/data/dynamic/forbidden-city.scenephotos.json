@@ -1,0 +1,26 @@
+[
+ null,
+ null,
+ {
+  "local": "/cache/forbidden-city-s2.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:1996_-248-6_Beijing_Forbidden_City_(5069073752).jpg",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "author": "Dan Lundberg",
+  "file": "1996 -248-6 Beijing Forbidden City (5069073752).jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ null,
+ {
+  "local": "/cache/forbidden-city-s4.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Lascar_The_Forbidden_City_(4474620754).jpg",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "author": "Jorge Láscar from Australia",
+  "file": "Lascar The Forbidden City (4474620754).jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ null
+]

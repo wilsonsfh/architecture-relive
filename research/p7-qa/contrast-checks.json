@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Body",
+    "ratio": 14.435
+  },
+  {
+    "name": "Secondary text",
+    "ratio": 6.406
+  },
+  {
+    "name": "Ruby heading",
+    "ratio": 6.007
+  },
+  {
+    "name": "Home placeholder (33.3% ink)",
+    "ratio": 2.073
+  },
+  {
+    "name": "Inside definition (80% cream)",
+    "ratio": 10.399
+  },
+  {
+    "name": "Inside source (60% cream)",
+    "ratio": 6.265
+  },
+  {
+    "name": "Inside hint (66.7% cream)",
+    "ratio": 7.492
+  }
+]

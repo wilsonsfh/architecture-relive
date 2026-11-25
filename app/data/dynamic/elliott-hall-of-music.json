@@ -1,0 +1,110 @@
+{
+ "id": "elliott-hall-of-music",
+ "name": "Elliott Hall of Music",
+ "city": "West Lafayette, United States",
+ "tagline": "Concert hall and theater at Purdue University in Indiana, United States.",
+ "origin": "resolver",
+ "story_status": "EXTRACTED",
+ "model": null,
+ "gothic": false,
+ "verified": {
+  "status": "VERIFIED",
+  "qid": "Q5365659",
+  "wikidata_url": "https://www.wikidata.org/wiki/Q5365659",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Elliott_Hall_of_Music",
+  "coordinates": {
+   "lat": 40.4279,
+   "lon": -86.9149
+  },
+  "country": "United States",
+  "styles": [],
+  "instance_of": [
+   "theatre building",
+   "concert hall"
+  ],
+  "inception": "+1940-05-03T00:00:00Z",
+  "retrieved_at": "2026-11-25T14:33:05.435Z"
+ },
+ "construction": null,
+ "image": {
+  "local": "/cache/elliott-hall-of-music-0.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Hall_of_Music,_Purdue.JPG",
+  "license": "CC BY 3.0",
+  "license_url": "https://creativecommons.org/licenses/by/3.0",
+  "author": "Amerique",
+  "status": "VERIFIED",
+  "file": "Hall of Music, Purdue.JPG"
+ },
+ "photos": [
+  {
+   "local": "/cache/elliott-hall-of-music-0.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Hall_of_Music,_Purdue.JPG",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "author": "Amerique",
+   "status": "VERIFIED",
+   "file": "Hall of Music, Purdue.JPG"
+  },
+  {
+   "local": "/cache/elliott-hall-of-music-1.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Purdue_BellTower_1.jpg",
+   "license": "Public domain",
+   "license_url": null,
+   "author": "Tstuddud at English Wikipedia",
+   "status": "VERIFIED",
+   "file": "Purdue BellTower 1.jpg"
+  },
+  {
+   "local": "/cache/elliott-hall-of-music-2.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Purdue_University,_West_Lafayette,_Indiana,_Estados_Unidos,_2012-10-15,_DD_08.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Diego Delso",
+   "status": "VERIFIED",
+   "file": "Purdue University, West Lafayette, Indiana, Estados Unidos, 2012-10-15, DD 08.jpg"
+  }
+ ],
+ "attested_features": [],
+ "scenes": [
+  {
+   "year": "1874",
+   "title": "Overview",
+   "caption": "Elliott (1874–1960), who was president of Purdue University from 1922 to 1945.",
+   "quote": "Elliott (1874–1960), who was president of Purdue University from 1922 to 1945.",
+   "plate": "rise",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Elliott_Hall_of_Music"
+  },
+  {
+   "year": "1893",
+   "title": "Overview",
+   "caption": "Two sets of three allegorical sculptures complete the two primary facades and were designed by Jon Magnus Jonson (1893–1947).",
+   "quote": "Two sets of three allegorical sculptures complete the two primary facades and were designed by Jon Magnus Jonson (1893–1947).",
+   "plate": "arch-shift",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Elliott_Hall_of_Music"
+  },
+  {
+   "year": "1940",
+   "title": "Overview",
+   "caption": "The facility was dedicated as the \"Purdue Hall of Music\" on May 3–4, 1940, and was renamed in honor of Elliott in 1958.",
+   "quote": "The facility was dedicated as the \"Purdue Hall of Music\" on May 3–4, 1940, and was renamed in honor of Elliott in 1958.",
+   "plate": "volume",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Elliott_Hall_of_Music"
+  },
+  {
+   "year": "2016",
+   "title": "Overview",
+   "caption": "at the Disco (2016), Kentucky's Cage the Elephant (2017), Lafayette's Jeremy Camp (2018), Blue Man Group (2020), and Noah Kahan (2023).",
+   "quote": "at the Disco (2016), Kentucky's Cage the Elephant (2017), Lafayette's Jeremy Camp (2018), Blue Man Group (2020), and Noah Kahan (2023).",
+   "plate": "layers",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Elliott_Hall_of_Music"
+  }
+ ]
+}

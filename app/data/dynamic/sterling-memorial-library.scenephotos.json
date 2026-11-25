@@ -1,0 +1,44 @@
+[
+ {
+  "local": "/cache/sterling-memorial-library-s0.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Sterling_Memorial_Library_4,_September_1,_2008.jpg",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "author": "Ragesoss",
+  "file": "Sterling Memorial Library 4, September 1, 2008.jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ null,
+ {
+  "local": "/cache/sterling-memorial-library-s2.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Sterling_Memorial_Library_from_the_corner_of_Elm_and_High_Streets,_Yale_University,_New_Haven,_Connecticut.jpg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Christian David",
+  "file": "Sterling Memorial Library from the corner of Elm and High Streets, Yale University, New Haven, Connecticut.jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ {
+  "local": "/cache/sterling-memorial-library-s3.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Roof_finial_statue_of_the_Sterling_Memorial_Library,_Yale_University,_New_Haven,_Connecticut.jpg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Christian David",
+  "file": "Roof finial statue of the Sterling Memorial Library, Yale University, New Haven, Connecticut.jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ {
+  "local": "/cache/sterling-memorial-library-s4.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Main_portal_of_the_Sterling_Memorial_Library,_Yale_University,_New_Haven,_Connecticut.jpg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Christian David",
+  "file": "Main portal of the Sterling Memorial Library, Yale University, New Haven, Connecticut.jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ null
+]

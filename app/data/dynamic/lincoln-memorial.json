@@ -1,0 +1,163 @@
+{
+ "id": "lincoln-memorial",
+ "name": "Lincoln Memorial",
+ "city": "Washington, D.C., United States",
+ "tagline": "National memorial in Washington, DC.",
+ "origin": "resolver",
+ "story_status": "EXTRACTED",
+ "model": null,
+ "gothic": false,
+ "verified": {
+  "status": "VERIFIED",
+  "qid": "Q213559",
+  "wikidata_url": "https://www.wikidata.org/wiki/Q213559",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Lincoln_Memorial",
+  "coordinates": {
+   "lat": 38.889277777778,
+   "lon": -77.050138888889
+  },
+  "country": "United States",
+  "styles": [
+   "Greek Revival architecture"
+  ],
+  "instance_of": [
+   "National Memorial of the United States",
+   "memorial"
+  ],
+  "inception": "+1922-05-30T00:00:00Z",
+  "retrieved_at": "2026-11-25T14:27:08.767Z"
+ },
+ "construction": {
+  "status": "VERIFIED",
+  "quote": "Dedicated on May 30, 1922, it is one of several memorials built to honor an American president.",
+  "source": "https://en.wikipedia.org/wiki/Lincoln_Memorial"
+ },
+ "image": {
+  "local": "/cache/lincoln-memorial-0.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:US_$5_series_2003_reverse.jpg",
+  "license": "Public domain",
+  "license_url": null,
+  "author": "Wikimedia Commons",
+  "status": "VERIFIED",
+  "file": "US $5 series 2003 reverse.jpg"
+ },
+ "photos": [
+  {
+   "local": "/cache/lincoln-memorial-0.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:US_$5_series_2003_reverse.jpg",
+   "license": "Public domain",
+   "license_url": null,
+   "author": "Wikimedia Commons",
+   "status": "VERIFIED",
+   "file": "US $5 series 2003 reverse.jpg"
+  },
+  {
+   "local": "/cache/lincoln-memorial-1.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:HistoricPlacesNationalRegisterPlaque.JPG",
+   "license": "Public domain",
+   "license_url": null,
+   "author": "Jonathunder",
+   "status": "VERIFIED",
+   "file": "HistoricPlacesNationalRegisterPlaque.JPG"
+  },
+  {
+   "local": "/cache/lincoln-memorial-2.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Lincoln_Memorial.jpg",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "author": "Jeff Kubina",
+   "status": "VERIFIED",
+   "file": "Lincoln Memorial.jpg"
+  },
+  {
+   "local": "/cache/lincoln-memorial-3.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Lincoln_Memorial_Under_Construction_1916.jpg",
+   "license": "Public domain",
+   "license_url": null,
+   "author": "Unknown authorUnknown author",
+   "status": "VERIFIED",
+   "file": "Lincoln Memorial Under Construction 1916.jpg"
+  },
+  {
+   "local": "/cache/lincoln-memorial-4.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Lincoln_Memorial_east_side.JPG",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Martin Falbisoner",
+   "status": "VERIFIED",
+   "file": "Lincoln Memorial east side.JPG"
+  },
+  {
+   "local": "/cache/lincoln-memorial-5.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Lincoln_Memorial_in_June_2012.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Tyler Loveless",
+   "status": "VERIFIED",
+   "file": "Lincoln Memorial in June 2012.jpg"
+  }
+ ],
+ "attested_features": [],
+ "scenes": [
+  {
+   "year": "1867",
+   "title": "Construction and dedication",
+   "caption": "In 1867, Congress passed the first of many bills incorporating a commission to erect a monument for the sixteenth president.",
+   "quote": "In 1867, Congress passed the first of many bills incorporating a commission to erect a monument for the sixteenth president.",
+   "plate": "rise",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Lincoln_Memorial"
+  },
+  {
+   "year": "1868",
+   "title": "Construction and dedication",
+   "caption": ", was a statue by Lot Flannery erected in front of the District of Columbia City Hall in 1868, three years after Lincoln's assassination in Ford's Theatre.",
+   "quote": ", was a statue by Lot Flannery erected in front of the District of Columbia City Hall in 1868, three years after Lincoln's assassination in Ford's Theatre.",
+   "plate": "arch-shift",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Lincoln_Memorial"
+  },
+  {
+   "year": "1920",
+   "title": "Overview",
+   "caption": "In 1920, Daniel Chester French designed the large interior Abraham Lincoln statue, which was carved in marble by the Piccirilli brothers.",
+   "quote": "In 1920, Daniel Chester French designed the large interior Abraham Lincoln statue, which was carved in marble by the Piccirilli brothers.",
+   "plate": "volume",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Lincoln_Memorial"
+  },
+  {
+   "year": "1922",
+   "title": "Overview",
+   "caption": "Dedicated on May 30, 1922, it is one of several memorials built to honor an American president.",
+   "quote": "Dedicated on May 30, 1922, it is one of several memorials built to honor an American president.",
+   "plate": "layers",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Lincoln_Memorial"
+  },
+  {
+   "year": "1963",
+   "title": "Overview",
+   "caption": "'s \"I Have a Dream\" speech delivered on August 28, 1963, during the rally at the end of the March on Washington for Jobs and Freedom.",
+   "quote": "'s \"I Have a Dream\" speech delivered on August 28, 1963, during the rally at the end of the March on Washington for Jobs and Freedom.",
+   "plate": "rise",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Lincoln_Memorial"
+  },
+  {
+   "year": "1966",
+   "title": "Overview",
+   "caption": "It has been listed on the National Register of Historic Places since October 15, 1966, and was ranked seventh on the American Institute of Architects' 2007 list of America's Favorite Architecture.",
+   "quote": "It has been listed on the National Register of Historic Places since October 15, 1966, and was ranked seventh on the American Institute of Architects' 2007 list of America's Favorite Architecture.",
+   "plate": "book",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Lincoln_Memorial"
+  }
+ ]
+}

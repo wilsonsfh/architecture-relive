@@ -1,0 +1,62 @@
+[
+ {
+  "local": "/cache/sydney-opera-house-s0.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Sydney_Opera_House_-_Dec_2008.jpg",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "Diliff",
+  "file": "Sydney Opera House - Dec 2008.jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ {
+  "local": "/cache/sydney-opera-house-s1.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Sydney_(AU),_Opera_House_--_2019_--_3054.jpg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Dietmar Rabich",
+  "file": "Sydney (AU), Opera House -- 2019 -- 3054.jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ {
+  "local": "/cache/sydney-opera-house-s2.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:The_Sydney_Opera_House_(16449862819).jpg",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "author": "Jorge Láscar from Melbourne, Australia",
+  "file": "The Sydney Opera House (16449862819).jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ {
+  "local": "/cache/sydney-opera-house-s3.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Precast_concrete_panels_and_concrete_ribs_that_hold_the_roof_-_Sydney_Opera_House_(16634956472).jpg",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "author": "Jorge Láscar from Melbourne, Australia",
+  "file": "Precast concrete panels and concrete ribs that hold the roof - Sydney Opera House (16634956472).jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ {
+  "local": "/cache/sydney-opera-house-s4.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Sydney_Opera_House._(28073254919).jpg",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "author": "Bernard Spragg. NZ from Christchurch, New Zealand",
+  "file": "Sydney Opera House. (28073254919).jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ {
+  "local": "/cache/sydney-opera-house-s5.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Sydney_(AU),_Opera_House_--_2019_--_3061-4.jpg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Dietmar Rabich",
+  "file": "Sydney (AU), Opera House -- 2019 -- 3061-4.jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ }
+]

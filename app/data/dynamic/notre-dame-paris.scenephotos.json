@@ -1,0 +1,43 @@
+[
+ {
+  "local": "/cache/notre-dame-paris-s0.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Paris,_Notre_Dame_--_2014_--_1458-65.jpg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Dietmar Rabich",
+  "file": "Paris, Notre Dame -- 2014 -- 1458-65.jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ {
+  "local": "/cache/notre-dame-paris-s1.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Cath%C3%A9drale_Notre-Dame_de_Paris_(2019).jpg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Víctor Perea Ros",
+  "file": "Cathédrale Notre-Dame de Paris (2019).jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ {
+  "local": "/cache/notre-dame-paris-s2.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Panorama_of_the_interior_of_the_Cath%C3%A9drale_Notre_Dame_de_Paris-LR1_(22457676932).jpg",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "author": "Jorge Láscar from Melbourne, Australia",
+  "file": "Panorama of the interior of the Cathédrale Notre Dame de Paris-LR1 (22457676932).jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ null,
+ {
+  "local": "/cache/notre-dame-paris-s4.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:First_Lady_Jill_Biden_attends_the_reopening_ceremony_for_the_Cathedral_of_Notre_Dame_de_Paris_(54217673115).jpg",
+  "license": "Public domain",
+  "license_url": null,
+  "author": "The White House",
+  "file": "First Lady Jill Biden attends the reopening ceremony for the Cathedral of Notre Dame de Paris (54217673115).jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ }
+]

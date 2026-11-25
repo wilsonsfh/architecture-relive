@@ -1,0 +1,43 @@
+0 verbose cli /Users/WilsonSoon/.nvm/versions/node/v22.23.4/bin/node /Users/WilsonSoon/.nvm/versions/node/v22.23.4/bin/npm
+1 info using npm@10.9.9
+2 info using node@v22.23.4
+3 silly config load:file:/Users/WilsonSoon/.nvm/versions/node/v22.23.4/lib/node_modules/npm/npmrc
+4 silly config load:file:/Users/WilsonSoon/Downloads/Interviews/ManusAI/AI-round/analysis/p7-idea/app/.npmrc
+5 silly config load:file:/Users/WilsonSoon/.npmrc
+6 silly config load:file:/Users/WilsonSoon/.nvm/versions/node/v22.23.4/etc/npmrc
+7 verbose title npm i three gsap
+8 verbose argv "i" "three" "gsap" "--loglevel" "silent" "--cache" "./.npm-cache" "--no-audit" "--no-fund" "--logs-dir" "./.npm-cache/logs"
+9 verbose logfile logs-max:10 dir:/Users/WilsonSoon/Downloads/Interviews/ManusAI/AI-round/analysis/p7-idea/app/.npm-cache/logs/2026-11-25T14_02_43_447Z-
+10 verbose logfile /Users/WilsonSoon/Downloads/Interviews/ManusAI/AI-round/analysis/p7-idea/app/.npm-cache/logs/2026-11-25T14_02_43_447Z-debug-0.log
+11 silly logfile done cleaning log files
+12 silly packumentCache heap:4345298944 maxSize:1086324736 maxEntrySize:543162368
+13 silly idealTree buildDeps
+14 silly fetch manifest three@*
+15 silly packumentCache full:https://registry.npmjs.org/three cache-miss
+16 http fetch GET 200 https://registry.npmjs.org/three 141ms (cache miss)
+17 silly packumentCache full:https://registry.npmjs.org/three set size:undefined disposed:false
+18 silly fetch manifest gsap@*
+19 silly packumentCache full:https://registry.npmjs.org/gsap cache-miss
+20 http fetch GET 200 https://registry.npmjs.org/npm 165ms
+21 http fetch GET 200 https://registry.npmjs.org/gsap 85ms (cache miss)
+22 silly packumentCache full:https://registry.npmjs.org/gsap set size:undefined disposed:false
+23 silly placeDep ROOT gsap@3.15.1 OK for: app@1.0.0 want: *
+24 silly placeDep ROOT three@0.187.0 OK for: app@1.0.0 want: *
+25 silly reify moves {}
+26 http cache three@https://registry.npmjs.org/three/-/three-0.187.0.tgz 0ms (cache hit)
+27 http cache gsap@https://registry.npmjs.org/gsap/-/gsap-3.15.1.tgz 0ms (cache hit)
+28 silly tarball no local data for three@https://registry.npmjs.org/three/-/three-0.187.0.tgz. Extracting by manifest.
+29 silly tarball no local data for gsap@https://registry.npmjs.org/gsap/-/gsap-3.15.1.tgz. Extracting by manifest.
+30 http fetch GET 200 https://registry.npmjs.org/gsap/-/gsap-3.15.1.tgz 449ms (cache miss)
+31 http fetch GET 200 https://registry.npmjs.org/three/-/three-0.187.0.tgz 528ms (cache miss)
+32 verbose cwd /Users/WilsonSoon/Downloads/Interviews/ManusAI/AI-round/analysis/p7-idea/app
+33 verbose os Darwin 27.0.0
+34 verbose node v22.23.4
+35 verbose npm  v10.9.9
+36 notice
+36 notice New [31mmajor[39m version of npm available! [31m10.9.9[39m -> [34m12.2.3[39m
+36 notice Changelog: [34mhttps://github.com/npm/cli/releases/tag/v12.2.3[39m
+36 notice To update run: [4mnpm install -g npm@12.2.3[24m
+36 notice  { force: true, [Symbol(proc-log.meta)]: true }
+37 verbose exit 0
+38 info ok

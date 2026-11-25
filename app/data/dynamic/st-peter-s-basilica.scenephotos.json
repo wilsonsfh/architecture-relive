@@ -1,0 +1,44 @@
+[
+ {
+  "local": "/cache/st-peter-s-basilica-s0.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Scaffolding_Erected_for_the_Restoration_of_the_Vault_in_St._Peter%27s_Basilica-_Overview_of_the_Nave_MET_DP273771.jpg",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "author": "Creator:Giacomo Sangermano",
+  "file": "Scaffolding Erected for the Restoration of the Vault in St. Peter's Basilica- Overview of the Nave MET DP273771.jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ {
+  "local": "/cache/st-peter-s-basilica-s1.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Italy-0030_-_St._Peter%27s_Basilica_(5115387495).jpg",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "author": "Dennis G. Jarvis",
+  "file": "Italy-0030 - St. Peter's Basilica (5115387495).jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ {
+  "local": "/cache/st-peter-s-basilica-s2.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Vatican,_St._Peter%27s_Basilica.jpg",
+  "license": "Public domain",
+  "license_url": null,
+  "author": "Moustafa Farroukh",
+  "file": "Vatican, St. Peter's Basilica.jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ null,
+ null,
+ {
+  "local": "/cache/st-peter-s-basilica-s5.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:St._Peter%27s_Basilica_%26_Statue_of_St._Peter_(48466814022).jpg",
+  "license": "Public domain",
+  "license_url": null,
+  "author": "Gary Todd from Xinzheng, China",
+  "file": "St. Peter's Basilica & Statue of St. Peter (48466814022).jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ }
+]

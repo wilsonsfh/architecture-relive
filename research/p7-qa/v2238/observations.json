@@ -1,0 +1,1457 @@
+{
+  "controls": [
+    {
+      "control": "Open Great Wall from home",
+      "result": "PASS",
+      "url": "http://127.0.0.1:5817/#/b/great-wall-of-china"
+    },
+    {
+      "control": "Open story",
+      "result": "PASS",
+      "initial_state": {
+        "index": 0,
+        "title": "Overview",
+        "progress": 0.0763,
+        "pp": "Pause"
+      }
+    },
+    {
+      "control": "Play",
+      "result": "PASS",
+      "before": {
+        "index": 0,
+        "title": "Overview",
+        "progress": 0,
+        "pp": "Play"
+      },
+      "after": {
+        "index": 0,
+        "title": "Overview",
+        "progress": 0.2857,
+        "pp": "Pause"
+      }
+    },
+    {
+      "control": "Pause (2 seconds)",
+      "result": "PASS",
+      "before": {
+        "index": 0,
+        "title": "Overview",
+        "progress": 0.3119,
+        "pp": "Play"
+      },
+      "after": {
+        "index": 0,
+        "title": "Overview",
+        "progress": 0.3119,
+        "pp": "Play"
+      }
+    },
+    {
+      "control": "Next",
+      "result": "PASS",
+      "after": {
+        "index": 1,
+        "title": "Early walls",
+        "progress": 0,
+        "pp": "Play"
+      }
+    },
+    {
+      "control": "Back (previous scene)",
+      "result": "PASS",
+      "after": {
+        "index": 0,
+        "title": "Overview",
+        "progress": 0,
+        "pp": "Play"
+      }
+    },
+    {
+      "control": "Close",
+      "result": "PASS",
+      "url": "http://127.0.0.1:5817/#/b/great-wall-of-china"
+    },
+    {
+      "control": "Inside pin open",
+      "result": "PASS",
+      "chosen": "Pointed arch",
+      "term": "Pointed arch"
+    }
+  ],
+  "shots": [
+    "01-home-1440.png",
+    "02-home-390.png",
+    "03-great-wall-result-1440.png",
+    "04-great-wall-result-390.png",
+    "05-great-wall-story-scene1-1440.png",
+    "06-great-wall-story-playing-1440.png",
+    "07-great-wall-story-scene2-1440.png",
+    "08-great-wall-story-scene1-390.png",
+    "09-chartres-inside-start-1440.png",
+    "10-chartres-inside-pin-1440.png",
+    "11-chartres-inside-start-390.png",
+    "12-great-wall-story-svg-error-1440.png"
+  ],
+  "layouts": {
+    "home1440": {
+      "viewport": [
+        1440,
+        900
+      ],
+      "document_width": 1440
+    },
+    "home390": {
+      "screen": [
+        {
+          "text": "Gothic, explained.\n    A real cathedral. Its story. Its inside.\n    Show me one\n    \n      \n      \n    \n    34 buildings ready, or type any real one. Photo and generate modes come next.",
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844,
+          "opacity": "1",
+          "hidden": false,
+          "textRect": {
+            "x": 24,
+            "y": 19,
+            "width": 342,
+            "height": 801
+          },
+          "centerHit": "DIV",
+          "centerHitText": "",
+          "centerUncovered": true,
+          "inViewport": true
+        }
+      ],
+      "h1": [
+        {
+          "text": "Gothic, explained.",
+          "x": 24,
+          "y": 24,
+          "width": 342,
+          "height": 107.5,
+          "opacity": "1",
+          "hidden": false,
+          "textRect": {
+            "x": 24,
+            "y": 19,
+            "width": 212.09375,
+            "height": 115.75
+          },
+          "centerHit": "SPAN",
+          "centerHitText": "explained.",
+          "centerUncovered": true,
+          "inViewport": true
+        }
+      ]
+    },
+    "result390": {
+      "actions": [
+        {
+          "text": "Its story\n        \n        Another",
+          "x": 24,
+          "y": 569.3125,
+          "width": 342,
+          "height": 59,
+          "opacity": "1",
+          "hidden": false,
+          "textRect": {
+            "x": 24,
+            "y": 569.3125,
+            "width": 229.375,
+            "height": 59
+          },
+          "centerHit": "BUTTON",
+          "centerHitText": "Another",
+          "centerUncovered": true,
+          "inViewport": true
+        }
+      ],
+      "info": [
+        {
+          "text": "Great Wall of China\n      Hebei, People's Republic of China. Series of fortifications in northern China.\n      \n        StyleNot listed in Wikidata\n        Wikidata start-700\n      \n      \n        Its story\n        \n        Another\n      \n      Green dot: checked against Wikidata Q12501 and\n        Wikipedia, retrieved 2026-11-25.\n        Construction: \u201cSuccessive dynasties expanded the wall system; the best-known sections were built by the Ming dynasty (1368\u20131644).\u201d.\n        Looked up live. Story lines are copied word for word from Wikipedia. The walk-inside model is Gothic only, so it is hidden here.",
+          "x": 24,
+          "y": 258.375,
+          "width": 342,
+          "height": 561.625,
+          "opacity": "1",
+          "hidden": false,
+          "textRect": {
+            "x": 24,
+            "y": 255.375,
+            "width": 342,
+            "height": 564.625
+          },
+          "centerHit": "DIV",
+          "centerHitText": "StyleNot listed in Wikidata\n        Wikidata start-700",
+          "centerUncovered": true,
+          "inViewport": true
+        }
+      ],
+      "screen_scroll": {
+        "client": 844,
+        "scroll": 844
+      },
+      "story_action_reachable": [
+        {
+          "text": "Its story",
+          "x": 24,
+          "y": 569.3125,
+          "width": 134.640625,
+          "height": 59,
+          "opacity": "1",
+          "hidden": false,
+          "textRect": {
+            "x": 52,
+            "y": 585.3125,
+            "width": 78.640625,
+            "height": 27
+          },
+          "centerHit": "BUTTON",
+          "centerHitText": "Its story",
+          "centerUncovered": true,
+          "inViewport": true
+        }
+      ]
+    },
+    "story1440": {
+      "dots": [
+        {
+          "text": "",
+          "x": 563,
+          "y": 840,
+          "width": 44,
+          "height": 24,
+          "opacity": "1",
+          "hidden": false,
+          "textRect": {
+            "x": 569,
+            "y": 850,
+            "width": 32,
+            "height": 4
+          },
+          "centerHit": "I",
+          "centerHitText": "",
+          "centerUncovered": true,
+          "inViewport": true
+        },
+        {
+          "text": "",
+          "x": 617,
+          "y": 840,
+          "width": 44,
+          "height": 24,
+          "opacity": "1",
+          "hidden": false,
+          "textRect": {
+            "x": 623,
+            "y": 850,
+            "width": 32,
+            "height": 4
+          },
+          "centerHit": "I",
+          "centerHitText": "",
+          "centerUncovered": true,
+          "inViewport": true
+        },
+        {
+          "text": "",
+          "x": 671,
+          "y": 840,
+          "width": 44,
+          "height": 24,
+          "opacity": "1",
+          "hidden": false,
+          "textRect": {
+            "x": 677,
+            "y": 850,
+            "width": 32,
+            "height": 4
+          },
+          "centerHit": "I",
+          "centerHitText": "",
+          "centerUncovered": true,
+          "inViewport": true
+        },
+        {
+          "text": "",
+          "x": 725,
+          "y": 840,
+          "width": 44,
+          "height": 24,
+          "opacity": "1",
+          "hidden": false,
+          "textRect": {
+            "x": 731,
+            "y": 850,
+            "width": 32,
+            "height": 4
+          },
+          "centerHit": "I",
+          "centerHitText": "",
+          "centerUncovered": true,
+          "inViewport": true
+        },
+        {
+          "text": "",
+          "x": 779,
+          "y": 840,
+          "width": 44,
+          "height": 24,
+          "opacity": "1",
+          "hidden": false,
+          "textRect": {
+            "x": 785,
+            "y": 850,
+            "width": 32,
+            "height": 4
+          },
+          "centerHit": "I",
+          "centerHitText": "",
+          "centerUncovered": true,
+          "inViewport": true
+        },
+        {
+          "text": "",
+          "x": 833,
+          "y": 840,
+          "width": 44,
+          "height": 24,
+          "opacity": "1",
+          "hidden": false,
+          "textRect": {
+            "x": 839,
+            "y": 850,
+            "width": 32,
+            "height": 4
+          },
+          "centerHit": "I",
+          "centerHitText": "",
+          "centerUncovered": true,
+          "inViewport": true
+        }
+      ],
+      "controls": [
+        {
+          "text": "\u2190 Back",
+          "x": 551.359375,
+          "y": 768,
+          "width": 104.828125,
+          "height": 48,
+          "opacity": "0.3",
+          "hidden": false,
+          "textRect": {
+            "x": 571.359375,
+            "y": 780,
+            "width": 64.828125,
+            "height": 24
+          },
+          "centerHit": "DIV",
+          "centerHitText": "\u2190 BackPlayNext \u2192",
+          "centerUncovered": false,
+          "inViewport": true
+        },
+        {
+          "text": "Play",
+          "x": 664.1875,
+          "y": 768,
+          "width": 112,
+          "height": 48,
+          "opacity": "1",
+          "hidden": false,
+          "textRect": {
+            "x": 701.8125,
+            "y": 780,
+            "width": 36.75,
+            "height": 24
+          },
+          "centerHit": "BUTTON",
+          "centerHitText": "Play",
+          "centerUncovered": true,
+          "inViewport": true
+        },
+        {
+          "text": "Next \u2192",
+          "x": 784.1875,
+          "y": 768,
+          "width": 104.453125,
+          "height": 48,
+          "opacity": "1",
+          "hidden": false,
+          "textRect": {
+            "x": 804.1875,
+            "y": 780,
+            "width": 64.453125,
+            "height": 24
+          },
+          "centerHit": "BUTTON",
+          "centerHitText": "Next \u2192",
+          "centerUncovered": true,
+          "inViewport": true
+        }
+      ]
+    },
+    "story390": {
+      "stage": [
+        {
+          "text": "Illustration, not a reconstruction\n    \n    \n      Photo today, not of this momentHerbert Ponting, Public domain\n      7th century BCOverviewThe first walls date to the 7th century BC; these were joined together in the Qin dynasty.\n      Source line\u201cThe first walls date to the 7th century BC; these were joined together in the Qin dynasty.\u201dWikipedia",
+          "x": 24,
+          "y": 267.5,
+          "width": 342,
+          "height": 309,
+          "opacity": "1",
+          "hidden": false,
+          "textRect": {
+            "x": 24,
+            "y": 260.046875,
+            "width": 342.203125,
+            "height": 449.453125
+          },
+          "centerHit": "DIV",
+          "centerHitText": "Illustration, not a reconstruction\n    \n    \n      Photo today, not of this momentHerbert Ponting, Public domain\n      7",
+          "centerUncovered": true,
+          "inViewport": true
+        }
+      ],
+      "scene": [
+        {
+          "text": "7th century BCOverviewThe first walls date to the 7th century BC; these were joined together in the Qin dynasty.\n      Source line\u201cThe first walls date to the 7th century BC; these were joined together in the Qin dynasty.\u201dWikipedia",
+          "x": 218.078125,
+          "y": 267.5,
+          "width": 147.90625,
+          "height": 309,
+          "opacity": "1",
+          "hidden": false,
+          "textRect": {
+            "x": 218.078125,
+            "y": 267.5,
+            "width": 148.125,
+            "height": 442
+          },
+          "centerHit": "P",
+          "centerHitText": "The first walls date to the 7th century BC; these were joined together in the Qin dynasty.",
+          "centerUncovered": true,
+          "inViewport": true
+        }
+      ],
+      "caption": [
+        {
+          "text": "The first walls date to the 7th century BC; these were joined together in the Qin dynasty.",
+          "x": 218.078125,
+          "y": 355.5,
+          "width": 147.90625,
+          "height": 182,
+          "opacity": "1",
+          "hidden": false,
+          "textRect": {
+            "x": 218.078125,
+            "y": 354.5,
+            "width": 142.59375,
+            "height": 183
+          },
+          "centerHit": "P",
+          "centerHitText": "The first walls date to the 7th century BC; these were joined together in the Qin dynasty.",
+          "centerUncovered": true,
+          "inViewport": true
+        }
+      ],
+      "pair": [
+        {
+          "text": "Illustration, not a reconstruction\n    \n    \n      Photo today, not of this momentHerbert Ponting, Public domain",
+          "x": 24,
+          "y": 387.5,
+          "width": 170.078125,
+          "height": 68.984375,
+          "opacity": "1",
+          "hidden": false,
+          "textRect": {
+            "x": 24,
+            "y": 260.046875,
+            "width": 180.1875,
+            "height": 207.859375
+          },
+          "centerHit": "SPAN",
+          "centerHitText": "Illustration, not a reconstruction",
+          "centerUncovered": true,
+          "inViewport": true
+        }
+      ],
+      "tag": [
+        {
+          "text": "Illustration, not a reconstruction",
+          "x": 40,
+          "y": 401.5,
+          "width": 122.3125,
+          "height": 51,
+          "opacity": "1",
+          "hidden": false,
+          "textRect": {
+            "x": 40,
+            "y": 401.5,
+            "width": 122.328125,
+            "height": 51
+          },
+          "centerHit": "SPAN",
+          "centerHitText": "Illustration, not a reconstruction",
+          "centerUncovered": true,
+          "inViewport": true
+        }
+      ],
+      "controls": [
+        {
+          "text": "\u2190 Back",
+          "x": 49.046875,
+          "y": 720,
+          "width": 82.140625,
+          "height": 72,
+          "opacity": "0.3",
+          "hidden": false,
+          "textRect": {
+            "x": 69.046875,
+            "y": 732,
+            "width": 42.140625,
+            "height": 48
+          },
+          "centerHit": "DIV",
+          "centerHitText": "\u2190 BackPlayNext \u2192",
+          "centerUncovered": false,
+          "inViewport": true
+        },
+        {
+          "text": "Play",
+          "x": 139.1875,
+          "y": 732,
+          "width": 112,
+          "height": 48,
+          "opacity": "1",
+          "hidden": false,
+          "textRect": {
+            "x": 176.8125,
+            "y": 744,
+            "width": 36.75,
+            "height": 24
+          },
+          "centerHit": "BUTTON",
+          "centerHitText": "Play",
+          "centerUncovered": true,
+          "inViewport": true
+        },
+        {
+          "text": "Next \u2192",
+          "x": 259.1875,
+          "y": 720,
+          "width": 81.765625,
+          "height": 72,
+          "opacity": "1",
+          "hidden": false,
+          "textRect": {
+            "x": 279.1875,
+            "y": 732,
+            "width": 41.765625,
+            "height": 48
+          },
+          "centerHit": "BUTTON",
+          "centerHitText": "Next \u2192",
+          "centerUncovered": true,
+          "inViewport": true
+        }
+      ],
+      "dots": [
+        {
+          "text": "",
+          "x": 38,
+          "y": 802,
+          "width": 44,
+          "height": 24,
+          "opacity": "1",
+          "hidden": false,
+          "textRect": {
+            "x": 44,
+            "y": 812,
+            "width": 32,
+            "height": 4
+          },
+          "centerHit": "I",
+          "centerHitText": "",
+          "centerUncovered": true,
+          "inViewport": true
+        },
+        {
+          "text": "",
+          "x": 92,
+          "y": 802,
+          "width": 44,
+          "height": 24,
+          "opacity": "1",
+          "hidden": false,
+          "textRect": {
+            "x": 98,
+            "y": 812,
+            "width": 32,
+            "height": 4
+          },
+          "centerHit": "I",
+          "centerHitText": "",
+          "centerUncovered": true,
+          "inViewport": true
+        },
+        {
+          "text": "",
+          "x": 146,
+          "y": 802,
+          "width": 44,
+          "height": 24,
+          "opacity": "1",
+          "hidden": false,
+          "textRect": {
+            "x": 152,
+            "y": 812,
+            "width": 32,
+            "height": 4
+          },
+          "centerHit": "I",
+          "centerHitText": "",
+          "centerUncovered": true,
+          "inViewport": true
+        },
+        {
+          "text": "",
+          "x": 200,
+          "y": 802,
+          "width": 44,
+          "height": 24,
+          "opacity": "1",
+          "hidden": false,
+          "textRect": {
+            "x": 206,
+            "y": 812,
+            "width": 32,
+            "height": 4
+          },
+          "centerHit": "I",
+          "centerHitText": "",
+          "centerUncovered": true,
+          "inViewport": true
+        },
+        {
+          "text": "",
+          "x": 254,
+          "y": 802,
+          "width": 44,
+          "height": 24,
+          "opacity": "1",
+          "hidden": false,
+          "textRect": {
+            "x": 260,
+            "y": 812,
+            "width": 32,
+            "height": 4
+          },
+          "centerHit": "I",
+          "centerHitText": "",
+          "centerUncovered": true,
+          "inViewport": true
+        },
+        {
+          "text": "",
+          "x": 308,
+          "y": 802,
+          "width": 44,
+          "height": 24,
+          "opacity": "1",
+          "hidden": false,
+          "textRect": {
+            "x": 314,
+            "y": 812,
+            "width": 32,
+            "height": 4
+          },
+          "centerHit": "I",
+          "centerHitText": "",
+          "centerUncovered": true,
+          "inViewport": true
+        }
+      ],
+      "scroll": {
+        "client": 844,
+        "scroll": 844,
+        "scrollWidth": 390
+      }
+    },
+    "inside1440": {
+      "back": [
+        {
+          "text": "\u2190 Notre-Dame de Chartres",
+          "x": 44,
+          "y": 26,
+          "width": 257.125,
+          "height": 44,
+          "opacity": "1",
+          "hidden": false,
+          "textRect": {
+            "x": 56,
+            "y": 36,
+            "width": 233.125,
+            "height": 24
+          },
+          "centerHit": "BUTTON",
+          "centerHitText": "\u2190 Notre-Dame de Chartres",
+          "centerUncovered": true,
+          "inViewport": true
+        }
+      ],
+      "badge": [
+        {
+          "text": "Simplified model of a typical Gothic nave. Not a scan, not Notre-Dame de Chartres's actual interior.",
+          "x": 711.484375,
+          "y": 36,
+          "width": 672.515625,
+          "height": 35,
+          "opacity": "1",
+          "hidden": false,
+          "textRect": {
+            "x": 725.484375,
+            "y": 44,
+            "width": 644.515625,
+            "height": 19
+          },
+          "centerHit": "DIV",
+          "centerHitText": "Simplified model of a typical Gothic nave. Not a scan, not Notre-Dame de Chartres's actual interior.",
+          "centerUncovered": true,
+          "inViewport": true
+        }
+      ],
+      "pins": [
+        {
+          "text": "Nave",
+          "x": 677.25,
+          "y": 853.3154907226562,
+          "width": 85.5,
+          "height": 38,
+          "opacity": "1",
+          "hidden": false,
+          "textRect": {
+            "x": 709.25,
+            "y": 861.3154907226562,
+            "width": 39.5,
+            "height": 22
+          },
+          "centerHit": "BUTTON",
+          "centerHitText": "Nave",
+          "centerUncovered": true,
+          "inViewport": true
+        },
+        {
+          "text": "Pointed arch",
+          "x": 394.0000915527344,
+          "y": 294.60980224609375,
+          "width": 143.04690551757812,
+          "height": 38,
+          "opacity": "1",
+          "hidden": false,
+          "textRect": {
+            "x": 426.0000915527344,
+            "y": 302.60980224609375,
+            "width": 97.04690551757812,
+            "height": 22
+          },
+          "centerHit": "BUTTON",
+          "centerHitText": "Pointed arch",
+          "centerUncovered": true,
+          "inViewport": true
+        },
+        {
+          "text": "Triforium",
+          "x": 836.5703735351562,
+          "y": 262.9477844238281,
+          "width": 117.578125,
+          "height": 38,
+          "opacity": "1",
+          "hidden": false,
+          "textRect": {
+            "x": 868.5703735351562,
+            "y": 270.9477844238281,
+            "width": 71.578125,
+            "height": 22
+          },
+          "centerHit": "BUTTON",
+          "centerHitText": "Triforium",
+          "centerUncovered": true,
+          "inViewport": true
+        },
+        {
+          "text": "Clerestory",
+          "x": 495.92535400390625,
+          "y": 109.09237670898438,
+          "width": 124.390625,
+          "height": 38,
+          "opacity": "1",
+          "hidden": false,
+          "textRect": {
+            "x": 527.9253540039062,
+            "y": 117.09237670898438,
+            "width": 78.390625,
+            "height": 22
+          },
+          "centerHit": "BUTTON",
+          "centerHitText": "Clerestory",
+          "centerUncovered": true,
+          "inViewport": true
+        },
+        {
+          "text": "Rib vault",
+          "x": 663.4140625,
+          "y": 10.021766662597656,
+          "width": 113.171875,
+          "height": 38,
+          "opacity": "1",
+          "hidden": false,
+          "textRect": {
+            "x": 695.4140625,
+            "y": 18.021766662597656,
+            "width": 67.171875,
+            "height": 22
+          },
+          "centerHit": "BUTTON",
+          "centerHitText": "Rib vault",
+          "centerUncovered": true,
+          "inViewport": true
+        },
+        {
+          "text": "Rose window",
+          "x": 646.6796875,
+          "y": 406.5865173339844,
+          "width": 146.640625,
+          "height": 38,
+          "opacity": "1",
+          "hidden": false,
+          "textRect": {
+            "x": 678.6796875,
+            "y": 414.5865173339844,
+            "width": 100.640625,
+            "height": 22
+          },
+          "centerHit": "BUTTON",
+          "centerHitText": "Rose window",
+          "centerUncovered": true,
+          "inViewport": true
+        },
+        {
+          "text": "Flying buttress",
+          "x": 845.9351806640625,
+          "y": 169.187255859375,
+          "width": 159.5625,
+          "height": 38,
+          "opacity": "1",
+          "hidden": false,
+          "textRect": {
+            "x": 877.9351806640625,
+            "y": 177.187255859375,
+            "width": 113.5625,
+            "height": 22
+          },
+          "centerHit": "BUTTON",
+          "centerHitText": "Flying buttress",
+          "centerUncovered": true,
+          "inViewport": true
+        }
+      ],
+      "term": [
+        {
+          "text": "NaveThe long central space of a church, running from the entrance toward the altar. It is where the congregation stands.A general Gothic feature. The source I checked does not mention it for Notre-Dame de Chartres.",
+          "x": 56,
+          "y": 606.1875,
+          "width": 560,
+          "height": 245.8125,
+          "opacity": "1",
+          "hidden": false,
+          "textRect": {
+            "x": 56,
+            "y": 601.1875,
+            "width": 560,
+            "height": 250.8125
+          },
+          "centerHit": "P",
+          "centerHitText": "The long central space of a church, running from the entrance toward the altar. It is where the congregation stands.",
+          "centerUncovered": true,
+          "inViewport": true
+        }
+      ],
+      "hint": [
+        {
+          "text": "Drag to look. Tap a label.",
+          "x": 615.8515625,
+          "y": 840,
+          "width": 208.296875,
+          "height": 24,
+          "opacity": "1",
+          "hidden": false,
+          "textRect": {
+            "x": 615.8515625,
+            "y": 840,
+            "width": 208.296875,
+            "height": 24
+          },
+          "centerHit": "P",
+          "centerHitText": "Drag to look. Tap a label.",
+          "centerUncovered": true,
+          "inViewport": true
+        }
+      ]
+    },
+    "inside_pin1440": {
+      "chosen": "Pointed arch",
+      "pins": [
+        {
+          "text": "Nave",
+          "x": 679.4473266601562,
+          "y": 858.1766357421875,
+          "width": 85.5,
+          "height": 38,
+          "opacity": "1",
+          "hidden": false,
+          "textRect": {
+            "x": 711.4473266601562,
+            "y": 866.1766357421875,
+            "width": 39.5,
+            "height": 22
+          },
+          "centerHit": "BUTTON",
+          "centerHitText": "Nave",
+          "centerUncovered": true,
+          "inViewport": true
+        },
+        {
+          "text": "Pointed arch",
+          "x": 393.2000427246094,
+          "y": 294.5337219238281,
+          "width": 143.04690551757812,
+          "height": 38,
+          "opacity": "1",
+          "hidden": false,
+          "textRect": {
+            "x": 425.2000427246094,
+            "y": 302.5337219238281,
+            "width": 97.04690551757812,
+            "height": 22
+          },
+          "centerHit": "BUTTON",
+          "centerHitText": "Pointed arch",
+          "centerUncovered": true,
+          "inViewport": true
+        },
+        {
+          "text": "Triforium",
+          "x": 839.7015991210938,
+          "y": 261.9482421875,
+          "width": 117.578125,
+          "height": 38,
+          "opacity": "1",
+          "hidden": false,
+          "textRect": {
+            "x": 871.7015991210938,
+            "y": 269.9482421875,
+            "width": 71.578125,
+            "height": 22
+          },
+          "centerHit": "BUTTON",
+          "centerHitText": "Triforium",
+          "centerUncovered": true,
+          "inViewport": true
+        },
+        {
+          "text": "Clerestory",
+          "x": 496.7052001953125,
+          "y": 108.04070281982422,
+          "width": 124.390625,
+          "height": 38.00000762939453,
+          "opacity": "1",
+          "hidden": false,
+          "textRect": {
+            "x": 528.7052001953125,
+            "y": 116.04070281982422,
+            "width": 78.390625,
+            "height": 22.00000762939453
+          },
+          "centerHit": "BUTTON",
+          "centerHitText": "Clerestory",
+          "centerUncovered": true,
+          "inViewport": true
+        },
+        {
+          "text": "Rib vault",
+          "x": 665.1904296875,
+          "y": 8.478111267089844,
+          "width": 113.171875,
+          "height": 38,
+          "opacity": "1",
+          "hidden": false,
+          "textRect": {
+            "x": 697.1904296875,
+            "y": 16.478111267089844,
+            "width": 67.171875,
+            "height": 22
+          },
+          "centerHit": "BUTTON",
+          "centerHitText": "Rib vault",
+          "centerUncovered": true,
+          "inViewport": true
+        },
+        {
+          "text": "Rose window",
+          "x": 649.156005859375,
+          "y": 406.7845764160156,
+          "width": 146.640625,
+          "height": 38,
+          "opacity": "1",
+          "hidden": false,
+          "textRect": {
+            "x": 681.156005859375,
+            "y": 414.7845764160156,
+            "width": 100.640625,
+            "height": 22
+          },
+          "centerHit": "BUTTON",
+          "centerHitText": "Rose window",
+          "centerUncovered": true,
+          "inViewport": true
+        },
+        {
+          "text": "Flying buttress",
+          "x": 849.0862426757812,
+          "y": 167.74240112304688,
+          "width": 159.5625,
+          "height": 38,
+          "opacity": "1",
+          "hidden": false,
+          "textRect": {
+            "x": 881.0862426757812,
+            "y": 175.74240112304688,
+            "width": 113.5625,
+            "height": 22
+          },
+          "centerHit": "BUTTON",
+          "centerHitText": "Flying buttress",
+          "centerUncovered": true,
+          "inViewport": true
+        }
+      ],
+      "term": [
+        {
+          "text": "Pointed archAn arch of two curves meeting at a point. It sends its load down more steeply than a round arch, so builders could go taller and make arches of different widths reach the same height.A general Gothic feature. The source I checked does not mention it for Notre-Dame de Chartres.",
+          "x": 56,
+          "y": 573.796875,
+          "width": 560,
+          "height": 278.203125,
+          "opacity": "1",
+          "hidden": false,
+          "textRect": {
+            "x": 56,
+            "y": 568.8134765625,
+            "width": 560,
+            "height": 283.5635986328125
+          },
+          "centerHit": "P",
+          "centerHitText": "An arch of two curves meeting at a point. It sends its load down more steeply than a round arch, so builders could go ta",
+          "centerUncovered": true,
+          "inViewport": true
+        }
+      ]
+    },
+    "inside390": {
+      "back": [
+        {
+          "text": "\u2190 Notre-Dame de Chartres",
+          "x": 8,
+          "y": 8,
+          "width": 257.125,
+          "height": 44,
+          "opacity": "1",
+          "hidden": false,
+          "textRect": {
+            "x": 20,
+            "y": 18,
+            "width": 233.125,
+            "height": 24
+          },
+          "centerUncovered": false,
+          "inViewport": true,
+          "textSamples": [
+            {
+              "fraction": 0.1,
+              "uncovered": false,
+              "hit": "badge-model"
+            },
+            {
+              "fraction": 0.5,
+              "uncovered": false,
+              "hit": "badge-model"
+            },
+            {
+              "fraction": 0.9,
+              "uncovered": false,
+              "hit": "badge-model"
+            }
+          ]
+        }
+      ],
+      "badge": [
+        {
+          "text": "Simplified model of a typical Gothic nave. Not a scan, not Notre-Dame de Chartres's actual interior.",
+          "x": 0,
+          "y": 18,
+          "width": 370,
+          "height": 54,
+          "opacity": "1",
+          "hidden": false,
+          "textRect": {
+            "x": 14,
+            "y": 26,
+            "width": 331.1875,
+            "height": 38
+          },
+          "centerUncovered": true,
+          "inViewport": true,
+          "textSamples": [
+            {
+              "fraction": 0.1,
+              "uncovered": true,
+              "hit": "badge-model"
+            },
+            {
+              "fraction": 0.5,
+              "uncovered": true,
+              "hit": "badge-model"
+            },
+            {
+              "fraction": 0.9,
+              "uncovered": true,
+              "hit": "badge-model"
+            }
+          ]
+        }
+      ],
+      "pins": [
+        {
+          "text": "Nave",
+          "x": 152.25,
+          "y": 799.0380859375,
+          "width": 85.5,
+          "height": 38,
+          "opacity": "1",
+          "hidden": false,
+          "textRect": {
+            "x": 184.25,
+            "y": 807.0380859375,
+            "width": 39.5,
+            "height": 22
+          },
+          "centerUncovered": false,
+          "inViewport": true,
+          "textSamples": [
+            {
+              "fraction": 0.1,
+              "uncovered": false,
+              "hit": "att"
+            },
+            {
+              "fraction": 0.5,
+              "uncovered": false,
+              "hit": "att"
+            },
+            {
+              "fraction": 0.9,
+              "uncovered": false,
+              "hit": "att"
+            }
+          ]
+        },
+        {
+          "text": "Pointed arch",
+          "x": 0,
+          "y": 0,
+          "width": 143.046875,
+          "height": 38,
+          "opacity": "0",
+          "hidden": true,
+          "textRect": {
+            "x": 32,
+            "y": 8,
+            "width": 97.046875,
+            "height": 22
+          },
+          "centerUncovered": false,
+          "inViewport": true,
+          "textSamples": [
+            {
+              "fraction": 0.1,
+              "uncovered": false,
+              "hit": "badge-model"
+            },
+            {
+              "fraction": 0.5,
+              "uncovered": false,
+              "hit": "badge-model"
+            },
+            {
+              "fraction": 0.9,
+              "uncovered": false,
+              "hit": "badge-model"
+            }
+          ]
+        },
+        {
+          "text": "Triforium",
+          "x": 300.65911865234375,
+          "y": 245.40435791015625,
+          "width": 117.578125,
+          "height": 38,
+          "opacity": "1",
+          "hidden": false,
+          "textRect": {
+            "x": 332.65911865234375,
+            "y": 253.40435791015625,
+            "width": 71.578125,
+            "height": 22
+          },
+          "centerUncovered": true,
+          "inViewport": false,
+          "textSamples": [
+            {
+              "fraction": 0.1,
+              "uncovered": true,
+              "hit": "pin"
+            },
+            {
+              "fraction": 0.5,
+              "uncovered": true,
+              "hit": "pin"
+            },
+            {
+              "fraction": 0.9,
+              "uncovered": false,
+              "hit": null
+            }
+          ]
+        },
+        {
+          "text": "Clerestory",
+          "x": -19.002174377441406,
+          "y": 101.12218475341797,
+          "width": 124.390625,
+          "height": 38.00000762939453,
+          "opacity": "1",
+          "hidden": false,
+          "textRect": {
+            "x": 12.997825622558594,
+            "y": 109.12218475341797,
+            "width": 78.390625,
+            "height": 22.00000762939453
+          },
+          "centerUncovered": true,
+          "inViewport": false,
+          "textSamples": [
+            {
+              "fraction": 0.1,
+              "uncovered": true,
+              "hit": "pin"
+            },
+            {
+              "fraction": 0.5,
+              "uncovered": true,
+              "hit": "pin"
+            },
+            {
+              "fraction": 0.9,
+              "uncovered": true,
+              "hit": "pin"
+            }
+          ]
+        },
+        {
+          "text": "Rib vault",
+          "x": 138.4140625,
+          "y": 8.215967178344727,
+          "width": 113.171875,
+          "height": 38,
+          "opacity": "1",
+          "hidden": false,
+          "textRect": {
+            "x": 170.4140625,
+            "y": 16.215967178344727,
+            "width": 67.171875,
+            "height": 21.999998092651367
+          },
+          "centerUncovered": false,
+          "inViewport": true,
+          "textSamples": [
+            {
+              "fraction": 0.1,
+              "uncovered": false,
+              "hit": "badge-model"
+            },
+            {
+              "fraction": 0.5,
+              "uncovered": false,
+              "hit": "badge-model"
+            },
+            {
+              "fraction": 0.9,
+              "uncovered": false,
+              "hit": "badge-model"
+            }
+          ]
+        },
+        {
+          "text": "Rose window",
+          "x": 121.6796875,
+          "y": 380.1055603027344,
+          "width": 146.640625,
+          "height": 38,
+          "opacity": "1",
+          "hidden": false,
+          "textRect": {
+            "x": 153.6796875,
+            "y": 388.1055603027344,
+            "width": 100.640625,
+            "height": 22
+          },
+          "centerUncovered": true,
+          "inViewport": true,
+          "textSamples": [
+            {
+              "fraction": 0.1,
+              "uncovered": true,
+              "hit": "pin"
+            },
+            {
+              "fraction": 0.5,
+              "uncovered": true,
+              "hit": "pin"
+            },
+            {
+              "fraction": 0.9,
+              "uncovered": true,
+              "hit": "pin"
+            }
+          ]
+        },
+        {
+          "text": "Flying buttress",
+          "x": 308.1350402832031,
+          "y": 157.4778289794922,
+          "width": 159.5625,
+          "height": 38,
+          "opacity": "1",
+          "hidden": false,
+          "textRect": {
+            "x": 340.1350402832031,
+            "y": 165.4778289794922,
+            "width": 113.5625,
+            "height": 22
+          },
+          "centerUncovered": true,
+          "inViewport": false,
+          "textSamples": [
+            {
+              "fraction": 0.1,
+              "uncovered": true,
+              "hit": "pin"
+            },
+            {
+              "fraction": 0.5,
+              "uncovered": false,
+              "hit": null
+            },
+            {
+              "fraction": 0.9,
+              "uncovered": false,
+              "hit": null
+            }
+          ]
+        }
+      ],
+      "term": [
+        {
+          "text": "NaveThe long central space of a church, running from the entrance toward the altar. It is where the congregation stands.A general Gothic feature. The source I checked does not mention it for Notre-Dame de Chartres.",
+          "x": 20,
+          "y": 643.109375,
+          "width": 350,
+          "height": 180.890625,
+          "opacity": "1",
+          "hidden": false,
+          "textRect": {
+            "x": 20,
+            "y": 640.109375,
+            "width": 350,
+            "height": 183.890625
+          },
+          "centerUncovered": true,
+          "inViewport": true,
+          "textSamples": [
+            {
+              "fraction": 0.1,
+              "uncovered": true,
+              "hit": ""
+            },
+            {
+              "fraction": 0.5,
+              "uncovered": true,
+              "hit": ""
+            },
+            {
+              "fraction": 0.9,
+              "uncovered": true,
+              "hit": ""
+            }
+          ]
+        }
+      ],
+      "hint": [
+        {
+          "text": "Drag to look. Tap a label.",
+          "x": 97.5,
+          "y": 760,
+          "width": 195,
+          "height": 48,
+          "opacity": "1",
+          "hidden": false,
+          "textRect": {
+            "x": 97.5,
+            "y": 760,
+            "width": 158.1875,
+            "height": 48
+          },
+          "centerUncovered": false,
+          "inViewport": true,
+          "textSamples": [
+            {
+              "fraction": 0.1,
+              "uncovered": false,
+              "hit": "att"
+            },
+            {
+              "fraction": 0.5,
+              "uncovered": false,
+              "hit": "att"
+            },
+            {
+              "fraction": 0.9,
+              "uncovered": false,
+              "hit": "att"
+            }
+          ]
+        }
+      ],
+      "fresh_navigation": true
+    }
+  },
+  "errors": [],
+  "svg_recheck": {
+    "great_wall_scenes": 6,
+    "chartres_scenes": 6
+  },
+  "svg_error_paths": [
+    "MM180 145 L180 133 Q180 111 200 98 Q220 111 220 133 L220 145"
+  ]
+}

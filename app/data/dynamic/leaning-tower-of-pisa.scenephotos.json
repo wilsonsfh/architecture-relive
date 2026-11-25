@@ -1,0 +1,44 @@
+[
+ {
+  "local": "/cache/leaning-tower-of-pisa-s0.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Cathedral_and_Bell_Tower,_Square_of_Miracles,_Pisa_(29409772904).jpg",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "author": "Ray in Manila",
+  "file": "Cathedral and Bell Tower, Square of Miracles, Pisa (29409772904).jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ null,
+ {
+  "local": "/cache/leaning-tower-of-pisa-s2.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:The_Leaning_Tower_of_Pisa.jpg",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "Alberto Boretto",
+  "file": "The Leaning Tower of Pisa.jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ {
+  "local": "/cache/leaning-tower-of-pisa-s3.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:The_leaning_Tower_of_Pisa_(51205402642).jpg",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "author": "Hugh Llewelyn from Keynsham, UK",
+  "file": "The leaning Tower of Pisa (51205402642).jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ null,
+ {
+  "local": "/cache/leaning-tower-of-pisa-s5.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Pisa_Cathedral_(Assumption_of_the_Virgin_Mary)_(51206112591).jpg",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "author": "Hugh Llewelyn from Keynsham, UK",
+  "file": "Pisa Cathedral (Assumption of the Virgin Mary) (51206112591).jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ }
+]

@@ -1,0 +1,171 @@
+{
+ "id": "pantheon-rome",
+ "name": "Pantheon",
+ "city": "Rome, Italy",
+ "tagline": "Roman temple, later church, in Rome.",
+ "origin": "resolver",
+ "story_status": "EXTRACTED",
+ "model": null,
+ "gothic": false,
+ "verified": {
+  "status": "VERIFIED",
+  "qid": "Q99309",
+  "wikidata_url": "https://www.wikidata.org/wiki/Q99309",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Pantheon%2C_Rome",
+  "coordinates": {
+   "lat": 41.89861111111111,
+   "lon": 12.476944444444445
+  },
+  "country": "Italy",
+  "styles": [
+   "ancient Roman architecture"
+  ],
+  "instance_of": [
+   "Roman temple",
+   "Roman archaeological site",
+   "minor basilica",
+   "secularized religious building",
+   "ancient Roman structure",
+   "religious museum",
+   "Italian national museum",
+   "archaeological artifact museum",
+   "historical civil building museum",
+   "Museum of the Italian Ministry of Culture"
+  ],
+  "inception": "+0128-00-00T00:00:00Z",
+  "retrieved_at": "2026-11-25T14:29:09.178Z"
+ },
+ "construction": {
+  "status": "VERIFIED",
+  "quote": "The Pantheon (UK: , US: ; Latin: Pantheum, from Ancient Greek  Πάνθειον (Pantheion) '[temple] of all the gods') is an ancient Polytheist temple in Rome, Italy, originally built under Roman emperor Augustus (27 BC–AD 14) and reconstructed under Hadrian (117–138).",
+  "source": "https://en.wikipedia.org/wiki/Pantheon%2C_Rome"
+ },
+ "image": {
+  "local": "/cache/pantheon-rome-0.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Cimabue_007.jpg",
+  "license": "Public domain",
+  "license_url": null,
+  "author": "Cimabue",
+  "status": "VERIFIED",
+  "file": "Cimabue 007.jpg"
+ },
+ "photos": [
+  {
+   "local": "/cache/pantheon-rome-0.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Cimabue_007.jpg",
+   "license": "Public domain",
+   "license_url": null,
+   "author": "Cimabue",
+   "status": "VERIFIED",
+   "file": "Cimabue 007.jpg"
+  },
+  {
+   "local": "/cache/pantheon-rome-1.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Einblick_Panorama_Pantheon_Rom.jpg",
+   "license": "CC BY-SA 2.5",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+   "author": "Stefan Bauer",
+   "status": "VERIFIED",
+   "file": "Einblick Panorama Pantheon Rom.jpg"
+  },
+  {
+   "local": "/cache/pantheon-rome-2.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Low_Memorial_Library_Columbia_University_NYC_retouched.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "Wikimedia Commons",
+   "status": "VERIFIED",
+   "file": "Low Memorial Library Columbia University NYC retouched.jpg"
+  },
+  {
+   "local": "/cache/pantheon-rome-3.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:046CupolaSPietro.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "MarkusMark",
+   "status": "VERIFIED",
+   "file": "046CupolaSPietro.jpg"
+  },
+  {
+   "local": "/cache/pantheon-rome-4.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Jakob_Alt_-_Das_Pantheon_und_die_Piazza_della_Rotonda_in_Rom_-_1836.jpg",
+   "license": "Public domain",
+   "license_url": null,
+   "author": "Jakob Alt",
+   "status": "VERIFIED",
+   "file": "Jakob Alt - Das Pantheon und die Piazza della Rotonda in Rom - 1836.jpg"
+  },
+  {
+   "local": "/cache/pantheon-rome-5.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Giovanni_Paolo_Panini_-_Interior_of_the_Pantheon,_Rome_-_Google_Art_Project.jpg",
+   "license": "Public domain",
+   "license_url": null,
+   "author": "Giovanni Paolo Panini",
+   "status": "VERIFIED",
+   "file": "Giovanni Paolo Panini - Interior of the Pantheon, Rome - Google Art Project.jpg"
+  }
+ ],
+ "attested_features": [],
+ "scenes": [
+  {
+   "year": "117",
+   "title": "Overview",
+   "caption": "The Pantheon (UK: , US: ; Latin: Pantheum, from Ancient Greek  Πάνθειον (Pantheion) '[temple] of all the gods') is an ancient Polytheist temple in Rome, Italy, originally built under Roman emperor Augustus (27 BC–AD 14) and reconstructed under Hadrian (117–138).",
+   "quote": "The Pantheon (UK: , US: ; Latin: Pantheum, from Ancient Greek  Πάνθειον (Pantheion) '[temple] of all the gods') is an ancient Polytheist temple in Rome, Italy, originally built under Roman emperor Augustus (27 BC–AD 14) and reconstructed under Hadrian (117–138).",
+   "plate": "columns",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Pantheon%2C_Rome"
+  },
+  {
+   "year": "142 ",
+   "title": "Overview",
+   "caption": "The height to the oculus and the diameter of the interior circle are the same, 43 metres (142 ft).",
+   "quote": "The height to the oculus and the diameter of the interior circle are the same, 43 metres (142 ft).",
+   "plate": "arch-shift",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Pantheon%2C_Rome"
+  },
+  {
+   "year": "609",
+   "title": "Overview",
+   "caption": "Since AD 609, it has served as the Roman Catholic Basilica of Saint Mary and the Holy Martyrs (Italian: Basilica di Santa Maria ad Martyres) with the special Pontifical privilege of immemorial status.",
+   "quote": "Since AD 609, it has served as the Roman Catholic Basilica of Saint Mary and the Holy Martyrs (Italian: Basilica di Santa Maria ad Martyres) with the special Pontifical privilege of immemorial status.",
+   "plate": "volume",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Pantheon%2C_Rome"
+  },
+  {
+   "year": "7th century",
+   "title": "Overview",
+   "caption": "Since the 7th century, it has been a church dedicated to St.",
+   "quote": "Since the 7th century, it has been a church dedicated to St.",
+   "plate": "layers",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Pantheon%2C_Rome"
+  },
+  {
+   "year": "19th century",
+   "title": "Ancient",
+   "caption": "As a result of excavations in the late 19th century, archaeologist Rodolfo Lanciani concluded that Agrippa's Pantheon was oriented so that it faced south, in contrast with the current layout that faces north, and that it had a shortened T-shaped plan with the entrance at the base of the \"T\".",
+   "quote": "As a result of excavations in the late 19th century, archaeologist Rodolfo Lanciani concluded that Agrippa's Pantheon was oriented so that it faced south, in contrast with the current layout that faces north, and that it had a shortened T-shaped plan with the entrance at the base of the \"T\".",
+   "plate": "rise",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Pantheon%2C_Rome"
+  },
+  {
+   "year": "20th century",
+   "title": "Ancient",
+   "caption": "This description was widely accepted until the late 20th century.",
+   "quote": "This description was widely accepted until the late 20th century.",
+   "plate": "arch-shift",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Pantheon%2C_Rome"
+  }
+ ]
+}

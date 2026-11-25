@@ -1,0 +1,53 @@
+[
+ null,
+ {
+  "local": "/cache/casa-batllo-s1.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:CASA_BATLL%C3%93_BARCELONA.JPG",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "QUIM70",
+  "file": "CASA BATLLÓ BARCELONA.JPG",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ {
+  "local": "/cache/casa-batllo-s2.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Casa_Batllo_Barcelona_(219998303).jpeg",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "author": "Guillaume Peltier",
+  "file": "Casa Batllo Barcelona (219998303).jpeg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ {
+  "local": "/cache/casa-batllo-s3.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Casa_Batllo_Overview_Barcelona_Spain_cut.jpg",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "ChristianSchd",
+  "file": "Casa Batllo Overview Barcelona Spain cut.jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ {
+  "local": "/cache/casa-batllo-s4.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:CasaBatllo_dragon_stairs.jpg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Sara Terrones",
+  "file": "CasaBatllo dragon stairs.jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ },
+ {
+  "local": "/cache/casa-batllo-s5.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Casa_Batllo_Overview_Barcelona_Spain.jpg",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "ChristianSchd",
+  "file": "Casa Batllo Overview Barcelona Spain.jpg",
+  "match": "closest open photo by keyword search",
+  "status": "VERIFIED"
+ }
+]

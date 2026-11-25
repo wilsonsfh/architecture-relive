@@ -1,0 +1,164 @@
+{
+ "id": "saint-basil-s-cathedral",
+ "name": "St. Basil's Cathedral",
+ "city": "Tverskoy District, Russia",
+ "tagline": "1561 Orthodox church in Moscow, Russia.",
+ "origin": "resolver",
+ "story_status": "EXTRACTED",
+ "model": null,
+ "gothic": false,
+ "verified": {
+  "status": "VERIFIED",
+  "qid": "Q129846",
+  "wikidata_url": "https://www.wikidata.org/wiki/Q129846",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Saint_Basil's_Cathedral",
+  "coordinates": {
+   "lat": 55.7525,
+   "lon": 37.62305555555555
+  },
+  "country": "Russia",
+  "styles": [
+   "Russian architecture",
+   "tented-roof church"
+  ],
+  "instance_of": [
+   "Eastern Orthodox church building",
+   "architectural landmark"
+  ],
+  "inception": "+1555-00-00T00:00:00Z",
+  "retrieved_at": "2026-11-25T14:31:12.471Z"
+ },
+ "construction": {
+  "status": "VERIFIED",
+  "quote": "It was built from 1555 to 1561 on orders from Ivan the Terrible and commemorates the capture of Kazan and Astrakhan.",
+  "source": "https://en.wikipedia.org/wiki/Saint_Basil's_Cathedral"
+ },
+ "image": {
+  "local": "/cache/saint-basil-s-cathedral-0.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Red_Square_in_Moscow_(1801)_by_Fedor_Alekseev.jpg",
+  "license": "Public domain",
+  "license_url": null,
+  "author": "Fyodor Alekseyev",
+  "status": "VERIFIED",
+  "file": "Red Square in Moscow (1801) by Fedor Alekseev.jpg"
+ },
+ "photos": [
+  {
+   "local": "/cache/saint-basil-s-cathedral-0.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Red_Square_in_Moscow_(1801)_by_Fedor_Alekseev.jpg",
+   "license": "Public domain",
+   "license_url": null,
+   "author": "Fyodor Alekseyev",
+   "status": "VERIFIED",
+   "file": "Red Square in Moscow (1801) by Fedor Alekseev.jpg"
+  },
+  {
+   "local": "/cache/saint-basil-s-cathedral-1.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Saint_Basil_inside_hdr_mantiuk.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Alessio Damato",
+   "status": "VERIFIED",
+   "file": "Saint Basil inside hdr mantiuk.jpg"
+  },
+  {
+   "local": "/cache/saint-basil-s-cathedral-2.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Kolomenskoye_cerkvi-1879.jpg",
+   "license": "Public domain",
+   "license_url": null,
+   "author": "S. Alikosov.",
+   "status": "VERIFIED",
+   "file": "Kolomenskoye cerkvi-1879.jpg"
+  },
+  {
+   "local": "/cache/saint-basil-s-cathedral-3.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Sant_Vasily_cathedral_in_Moscow.JPG",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Petar Milošević",
+   "status": "VERIFIED",
+   "file": "Sant Vasily cathedral in Moscow.JPG"
+  },
+  {
+   "local": "/cache/saint-basil-s-cathedral-4.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Stamp_of_USSR_1174.jpg",
+   "license": "Public domain",
+   "license_url": null,
+   "author": "Post of USSR",
+   "status": "VERIFIED",
+   "file": "Stamp of USSR 1174.jpg"
+  },
+  {
+   "local": "/cache/saint-basil-s-cathedral-5.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:St._Basil_Cathedral.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "This photo was taken by Anton Zelenov.\nPlease credit this with : Photo : Anton Z",
+   "status": "VERIFIED",
+   "file": "St. Basil Cathedral.jpg"
+  }
+ ],
+ "attested_features": [],
+ "scenes": [
+  {
+   "year": "1555 ",
+   "title": "Overview",
+   "caption": "It was built from 1555 to 1561 on orders from Ivan the Terrible and commemorates the capture of Kazan and Astrakhan.",
+   "quote": "It was built from 1555 to 1561 on orders from Ivan the Terrible and commemorates the capture of Kazan and Astrakhan.",
+   "plate": "rise",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Saint_Basil's_Cathedral"
+  },
+  {
+   "year": "1588 ",
+   "title": "Overview",
+   "caption": "The original building, known as Trinity Church and later Trinity Cathedral, contained eight chapels arranged around a ninth, central chapel dedicated to the Intercession; a tenth chapel was erected in 1588 over the grave of the venerated local saint Vasily (Basil).",
+   "quote": "The original building, known as Trinity Church and later Trinity Cathedral, contained eight chapels arranged around a ninth, central chapel dedicated to the Intercession; a tenth chapel was erected in 1588 over the grave of the venerated local saint Vasily (Basil).",
+   "plate": "arch-shift",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Saint_Basil's_Cathedral"
+  },
+  {
+   "year": "17th century",
+   "title": "Overview",
+   "caption": "\" The cathedral foreshadowed the climax of Russian national architecture in the 17th century, and it is considered as a prime example of Russian Renaissance architecture.",
+   "quote": "\" The cathedral foreshadowed the climax of Russian national architecture in the 17th century, and it is considered as a prime example of Russian Renaissance architecture.",
+   "plate": "volume",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Saint_Basil's_Cathedral"
+  },
+  {
+   "year": "1683",
+   "title": "Overview",
+   "caption": "It was completed, with its colours, in 1683.",
+   "quote": "It was completed, with its colours, in 1683.",
+   "plate": "layers",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Saint_Basil's_Cathedral"
+  },
+  {
+   "year": "1928",
+   "title": "Overview",
+   "caption": "As part of the program of state atheism, the church was confiscated from the Russian Orthodox community as part of the Soviet Union's antireligious campaigns and has operated as a division of the State Historical Museum since 1928.",
+   "quote": "As part of the program of state atheism, the church was confiscated from the Russian Orthodox community as part of the Soviet Union's antireligious campaigns and has operated as a division of the State Historical Museum since 1928.",
+   "plate": "book",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Saint_Basil's_Cathedral"
+  },
+  {
+   "year": "1929",
+   "title": "Overview",
+   "caption": "It was completely secularized in 1929, and remains a federal property of the Russian Federation.",
+   "quote": "It was completely secularized in 1929, and remains a federal property of the Russian Federation.",
+   "plate": "arch-shift",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Saint_Basil's_Cathedral"
+  }
+ ]
+}

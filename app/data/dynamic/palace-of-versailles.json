@@ -1,0 +1,166 @@
+{
+ "id": "palace-of-versailles",
+ "name": "Palace of Versailles",
+ "city": "Versailles, France",
+ "tagline": "Former royal residence in Versailles, France.",
+ "origin": "resolver",
+ "story_status": "EXTRACTED",
+ "model": null,
+ "gothic": false,
+ "verified": {
+  "status": "VERIFIED",
+  "qid": "Q2946",
+  "wikidata_url": "https://www.wikidata.org/wiki/Q2946",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Palace_of_Versailles",
+  "coordinates": {
+   "lat": 48.804722222222225,
+   "lon": 2.120277777777778
+  },
+  "country": "France",
+  "styles": [
+   "Neoclassical architecture",
+   "French Baroque architecture"
+  ],
+  "instance_of": [
+   "château",
+   "palace",
+   "royal palace",
+   "art museum"
+  ],
+  "inception": "+1661-00-00T00:00:00Z",
+  "retrieved_at": "2026-11-25T14:28:24.120Z"
+ },
+ "construction": {
+  "status": "VERIFIED",
+  "quote": "Before the later palace existed, Louis XIII built a modest brick‑and‑stone hunting lodge in 1623.",
+  "source": "https://en.wikipedia.org/wiki/Palace_of_Versailles"
+ },
+ "image": {
+  "local": "/cache/palace-of-versailles-0.jpg",
+  "commons_page": "https://commons.wikimedia.org/wiki/File:Chateau_de_Versailles_-_Belvedere_22-04-2005.jpg",
+  "license": "CC BY-SA 2.0 fr",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en",
+  "author": "Wikimedia Commons",
+  "status": "VERIFIED",
+  "file": "Chateau de Versailles - Belvedere 22-04-2005.jpg"
+ },
+ "photos": [
+  {
+   "local": "/cache/palace-of-versailles-0.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Chateau_de_Versailles_-_Belvedere_22-04-2005.jpg",
+   "license": "CC BY-SA 2.0 fr",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en",
+   "author": "Wikimedia Commons",
+   "status": "VERIFIED",
+   "file": "Chateau de Versailles - Belvedere 22-04-2005.jpg"
+  },
+  {
+   "local": "/cache/palace-of-versailles-1.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Marie_Antoinette_amusement_at_Versailles.JPG",
+   "license": "CC BY-SA 3.0",
+   "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "Daderot",
+   "status": "VERIFIED",
+   "file": "Marie Antoinette amusement at Versailles.JPG"
+  },
+  {
+   "local": "/cache/palace-of-versailles-2.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:A_v_Werner_-_Kaiserproklamation_am_18_Januar_1871_(3._Fassung_1885).jpg",
+   "license": "Public domain",
+   "license_url": null,
+   "author": "Anton von Werner",
+   "status": "VERIFIED",
+   "file": "A v Werner - Kaiserproklamation am 18 Januar 1871 (3. Fassung 1885).jpg"
+  },
+  {
+   "local": "/cache/palace-of-versailles-3.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:L%27Op%C3%A9ra-visite_de_la_reine_Victoria_1855.jpg",
+   "license": "Public domain",
+   "license_url": null,
+   "author": "Eugène Lami",
+   "status": "VERIFIED",
+   "file": "L'Opéra-visite de la reine Victoria 1855.jpg"
+  },
+  {
+   "local": "/cache/palace-of-versailles-4.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Heim,_Fran%C3%A7ois-Joseph_-_Louis-Philippe_Opening_the_Galerie_des_Batailles_-_1837.jpg",
+   "license": "Public domain",
+   "license_url": null,
+   "author": "François Joseph Heim",
+   "status": "VERIFIED",
+   "file": "Heim, François-Joseph - Louis-Philippe Opening the Galerie des Batailles - 1837.jpg"
+  },
+  {
+   "local": "/cache/palace-of-versailles-5.jpg",
+   "commons_page": "https://commons.wikimedia.org/wiki/File:Chateau_de_Versailles_1668_Pierre_Patel.jpg",
+   "license": "Public domain",
+   "license_url": null,
+   "author": "Pierre Patel",
+   "status": "VERIFIED",
+   "file": "Chateau de Versailles 1668 Pierre Patel.jpg"
+  }
+ ],
+ "attested_features": [],
+ "scenes": [
+  {
+   "year": "154 ",
+   "title": "Overview",
+   "caption": "It covers about 63,154 square metres and contains roughly 2,300 rooms, around 1,000 of which belong to the National Museum of the History of France housed in the Palace and the Trianons.",
+   "quote": "It covers about 63,154 square metres and contains roughly 2,300 rooms, around 1,000 of which belong to the National Museum of the History of France housed in the Palace and the Trianons.",
+   "plate": "book",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Palace_of_Versailles"
+  },
+  {
+   "year": "815 ",
+   "title": "Overview",
+   "caption": "The park of the Palace of Versailles covers 815 hectares today, compared with more than 8,000 hectares before the French Revolution.",
+   "quote": "The park of the Palace of Versailles covers 815 hectares today, compared with more than 8,000 hectares before the French Revolution.",
+   "plate": "arch-shift",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Palace_of_Versailles"
+  },
+  {
+   "year": "1038 ",
+   "title": "History",
+   "caption": "The site of Versailles is first mentioned in 1038 in a charter of the Abbey of Saint‑Père de Chartres.",
+   "quote": "The site of Versailles is first mentioned in 1038 in a charter of the Abbey of Saint‑Père de Chartres.",
+   "plate": "volume",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Palace_of_Versailles"
+  },
+  {
+   "year": "16th century",
+   "title": "History",
+   "caption": "In the 16th century, the lands that would become Versailles were owned by the Gondi family, who were influential at the French court.",
+   "quote": "In the 16th century, the lands that would become Versailles were owned by the Gondi family, who were influential at the French court.",
+   "plate": "layers",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Palace_of_Versailles"
+  },
+  {
+   "year": "1623 ",
+   "title": "History",
+   "caption": "Louis XIII acquired part of the land in 1623 and purchased the remainder in 1632.",
+   "quote": "Louis XIII acquired part of the land in 1623 and purchased the remainder in 1632.",
+   "plate": "rise",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Palace_of_Versailles"
+  },
+  {
+   "year": "1682 ",
+   "title": "Overview",
+   "caption": "The king, the court, and the royal government lived there permanently from 6 May 1682 until 6 October 1789, except during the Regency years (1715–1723).",
+   "quote": "The king, the court, and the royal government lived there permanently from 6 May 1682 until 6 October 1789, except during the Regency years (1715–1723).",
+   "plate": "arch-shift",
+   "caption_status": "EXTRACTED",
+   "plate_status": "ILLUSTRATIVE",
+   "source": "https://en.wikipedia.org/wiki/Palace_of_Versailles"
+  }
+ ]
+}
