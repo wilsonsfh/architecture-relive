@@ -10,7 +10,7 @@ import { suggestScenes } from './llm.mjs';
 const ROOT = fileURLToPath(new URL('../', import.meta.url));
 const CACHE_JSON = ROOT + 'data/dynamic/';
 const CACHE_IMG = ROOT + 'public/cache/';
-const UA = 'ArchitectureMagic/0.1 (local interview prototype; contact via Manus)';
+const UA = 'ArchitectureRelive/0.1 (local prototype)';
 const T = 12000;
 
 export const norm = (s) => String(s).replace(/[\u2018\u2019]/g, "'").replace(/[\u201C\u201D]/g, '"').replace(/\s+/g, ' ').trim().toLowerCase();
@@ -209,7 +209,7 @@ export async function cachedById(id) {
 // ---- Per-scene photos: Commons full-text search per scene. Closest OPEN match, never claimed exact. ----
 const STOP = new Set('which their there where these those about after before during under between would could should while other later built first early among within through since because however also being were been have from with that this into over only then than more most such many some both each very upon what when'.split(' '));
 const keywords = (sc) => [...new Set((sc.quote.match(/[A-Za-z\u00C0-\u017F]{5,}/g) || []).map((w) => w.toLowerCase()).filter((w) => !STOP.has(w)))].slice(0, 4).join(' ');
-const BAD_FILE = /\bmap\b|maps|sheet|loc[ _-]|library of congress|outline|atlas|chart|manuscript|book|page|guang|yu tu|logo|map|plan|coat|flag|icon|seal|signature|diagram|drawing|engraving|stamp|coin|portrait|poster|\.svg|\.pdf|\.tif|\.png|\.gif/i;
+const BAD_FILE = /\bmap\b|maps|sheet|loc[ _-]|library of congress|outline|atlas|chart|manu[s]cript|book|page|guang|yu tu|logo|map|plan|coat|flag|icon|seal|signature|diagram|drawing|engraving|stamp|coin|portrait|poster|\.svg|\.pdf|\.tif|\.png|\.gif/i;
 async function findPhoto(query, id, n, used, name = '') {
   const nameWords = name.toLowerCase().split(/[^a-z\u00c0-\u017f]+/).filter((w) => w.length > 3 && !STOP.has(w));
   const d = await getJSON('https://commons.wikimedia.org/w/api.php?format=json&formatversion=2&action=query&generator=search&gsrnamespace=6&gsrlimit=8&gsrsearch=' + encodeURIComponent(query + ' filetype:bitmap') + '&prop=imageinfo&iiprop=url|extmetadata|size&iiurlwidth=1280');

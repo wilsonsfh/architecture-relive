@@ -16,7 +16,7 @@ const SKIP = new Set(['node_modules', '.git', 'shots', '.DS_Store']);
 
 const PROBLEMS = [
   { n: 1, name: 'Proof (desktop voice input)', paths: ['analysis/p1-walkthrough', 'analysis/p1-desktop-voice-input.md', 'analysis/p1-comparison.md'] },
-  { n: 2, name: 'LOWKEY CABO (2-player 3D card game)', paths: ['analysis/p2-prototype'] },
+  { n: 2, name: 'CABO CABO (2-player 3D card game)', paths: ['analysis/p2-prototype'] },
   { n: 3, name: 'Patchbay (code-mode plugin harness)', paths: ['analysis/p3-prototype'] },
   { n: 4, name: 'TRACE (Chrome side-panel agent)', paths: ['analysis/p4-prototype'] },
   { n: 5, name: 'Relay (MCP terminal controller)', paths: ['relay', 'analysis/p5-audit'] },

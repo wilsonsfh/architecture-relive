@@ -29,7 +29,7 @@ If the model is unavailable, the built-in examples still work from stored result
 
 ## 4. Models and APIs (proposed)
 - **Vision LLM** for style and features. Exact model: UNKNOWN until I read the built-in model catalogue (`builtin-llm-models` skill, not yet read).
-- **Image or video generation** through the Manus media tools for history scenes. Available as an MCP server in this session. Quality, cost and speed: UNKNOWN, not tested.
+- **Image or video generation** through the Client media tools for history scenes. Available as an MCP server in this session. Quality, cost and speed: UNKNOWN, not tested.
 - **Wikimedia Commons API** for licensed images and credits. Not yet checked.
 - **Wikipedia/Wikidata** for factual checks on buildings and dates. Not yet checked.
 - No accounts and no database of user photos in v1 (proposed).
@@ -112,7 +112,7 @@ Not built yet: the photo-confidence thresholds, the "mixed or unclear" display, 
 - BUILT and tested without a browser (8 passing node tests): data pipeline, verbatim-quote guardrail, name resolution, feature attestation, random pick, nave geometry (more than 150 meshes, every hotspot has geometry), server path-traversal blocking and CSP.
 - BUILT but NOT tested in a browser: home, result, storyline player, interior view with GSAP camera moves, pin projection, transitions. I have not seen it render. WebGL behaviour and the camera framings are UNKNOWN until sandbox screenshots exist.
 - Four verified cathedrals: Chartres, Notre-Dame de Paris, Cologne, Amiens. 21 scenes in total.
-- Served on http://127.0.0.1:4817 (plain local, no Manus-managed services).
+- Served on http://127.0.0.1:4817 (plain local, no Client-managed services).
 
 ### 11.5 Next slices (proposed order)
 1. Fix whatever sandbox screenshots show.

@@ -32,7 +32,7 @@ Written 2026-11-25 by the standalone Problem 7 session. Nothing has been built. 
 
 ## 2. Tools available to me in this session
 Listed from my tool definitions: read, write, edit, exec (shell), search (web, news, image, scholar), fetch, mcp, job, ask.
-MCP servers listed as available: exa, manus-device, manus-tools (media generation), desktop-in-app-browser, kkday, slides, handoff, manus-tasks, triggers, trip, video-editor, webdev-mcp, workflow.
+MCP servers listed as available: exa, client-device, client-tools (media generation), desktop-in-app-browser, kkday, slides, handoff, client-tasks, triggers, trip, video-editor, webdev-mcp, workflow.
 Skills listed as available include: deep-research, imagegen, slides, webdev, video-generation, video-editor, music-prompter, tts-prompter, workflow-composer, and others. Local reference skills in `_reference/`: Jane Street socratic-tutor, apple-design-skill, and an Emil Kowalski-style `skills` collection.
 
 ## 3. Tool calls I actually made (from this conversation)
@@ -43,7 +43,7 @@ Skills listed as available include: deep-research, imagegen, slides, webdev, vid
 - `fetch`: the Spotify tip-of-the-tongue paper (arXiv 2305.14072).
 
 ## 4. MCPs and skills actually used
-- **MCPs used: none.** I did not call the `mcp` tool. The exa, slides, webdev-mcp, video-editor and manus-tools servers were available and unused.
+- **MCPs used: none.** I did not call the `mcp` tool. The exa, slides, webdev-mcp, video-editor and client-tools servers were available and unused.
 - **Skills actually read:** `deep-research` (read before searching, as it requires) and the local Jane Street `socratic-tutor`.
 - **Skills I did not read or apply:** imagegen, slides, webdev, video skills, music-prompter, and others.
 - **Workflow/subagents:** I did not start any agents or workflows. Earlier in this conversation, a coordinator-side summary mentioned many agents; those were not mine.
@@ -125,7 +125,7 @@ His requested changes, in his priority order, and their status at 22:30:
 
 | Request | Status |
 |---|---|
-| Rename to "Architecture Magic" | Page title done. The hub card name ("4817") belongs to the hub session, not to this app |
+| Rename to "Architecture Relive" | Page title done. The hub card name ("4817") belongs to the hub session, not to this app |
 | Any building, not only 4 cathedrals ("Great Wall of China" was refused) | Built: server resolver using Wikipedia and Wikidata, optional model for captions, photo licence check. Tested keyless on the Great Wall (6 scenes, 6 photos) and on "Hogwarts castle" (refused). Not yet tested in the browser, and not yet tested with a model |
 | 15 to 20 presets across styles and regions | In progress: 30 titles queued, resolved through the same guarded pipeline. Result count recorded in `public/data/presets.json` |
 | Working play, pause, back, forward, close | Rewritten with one state machine plus Esc and arrow keys. Not yet clicked in a browser |

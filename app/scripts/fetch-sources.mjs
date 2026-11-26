@@ -11,7 +11,7 @@ const BUILDINGS = [
   { id: 'amiens', qid: 'Q106934' },
 ];
 
-const UA = { 'User-Agent': 'ArchitectureExplorerPrototype/0.1 (interview prototype)' };
+const UA = { 'User-Agent': 'ArchitectureExplorerPrototype/0.1 (prototype prototype)' };
 const getJson = async (url) => {
   const r = await fetch(url, { headers: UA });
   if (!r.ok) throw new Error(`${r.status} ${url}`);

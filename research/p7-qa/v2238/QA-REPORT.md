@@ -1,4 +1,4 @@
-# Architecture Magic / Q7 Nave — v2238 QA
+# Architecture Relive / Q7 Nave — v2238 QA
 
 Read-only check, 2026-11-25, approximately 22:43–22:52 +08:00. Chromium via Python Playwright, light color scheme, 1440×900 and 390×844. No app files changed. Server on port 5817 remains running (HTTP 200); both QA browsers closed.
 

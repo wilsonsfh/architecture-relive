@@ -1,6 +1,6 @@
 # Problem 7 — WAITWEAVE: Who paid for faster?
 
-**Recommendation:** Build WAITWEAVE: folded ribbons reveal who benefits—and pays—when identical work is scheduled differently. Budget **135 minutes**, a complete flat-rendered loop by **minute 35**. This is analysis, not implementation. Create everything anew in Manus Studio; never inspect, copy, or adapt `slop-pyramid-demo`.
+**Recommendation:** Build WAITWEAVE: folded ribbons reveal who benefits—and pays—when identical work is scheduled differently. Budget **135 minutes**, a complete flat-rendered loop by **minute 35**. This is analysis, not implementation. Create everything anew in Client Studio; never inspect, copy, or adapt `slop-pyramid-demo`.
 
 ## 1. What a top-scoring answer looks like
 
@@ -48,7 +48,7 @@ Also opened: GSAP’s showcase, Codrops’ hub, and Three.js’s catalog.[13] [1
 
 ### Twelve candidates, scored before selection
 
-Scores are judgment, **1–5**, not market measurements. **O** originality 22%; **W** short-build wow 18%; **M** meaningful Manus Studio depth 10%; **D** 90-second demo 12%; **F** one person plus AI feasibility 18%; **V** promo fit 8%; **S** safety 6%; **B** clear product boundaries 6%. Totals were calculated, not estimated. Originality receives no 5: adjacent products exist.
+Scores are judgment, **1–5**, not market measurements. **O** originality 22%; **W** short-build wow 18%; **M** meaningful Client Studio depth 10%; **D** 90-second demo 12%; **F** one person plus AI feasibility 18%; **V** promo fit 8%; **S** safety 6%; **B** clear product boundaries 6%. Totals were calculated, not estimated. Originality receives no 5: adjacent products exist.
 
 | Candidate: concrete loop | O | W | M | D | F | V | S | B | /5 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -151,9 +151,9 @@ Apply `build-principles` and `poteto-agent-code-quality`: make invalid states ha
 
 **90 seconds:** 0–10: state the question and prediction. 10–25: run FIFO, follow one short job. 25–40: share the machine and unfold waiting. 40–55: select the long job; expose **13→15 despite 7→4.5**. 55–70: adjust quantum, undo, show Flat proof. 70–80: export/recompute, state toy assumptions. 80–90: show one failed-then-passing boundary test and the scoped Studio build record.
 
-## 8. Manus leverage
+## 8. Client leverage
 
-**Parent-only:** `webdev-mcp` after the Local First hosting choice and a fresh isolated project; declare diagnostics, `runtime/dev-commands`, `/manus-routes.json`, and confirm Managed Git checkpoint recording. Do not initialize during analysis or mistake a local Git commit for a saved Manus version. Cascade builds thin slices with the fixture and invariants in context. `desktop-in-app-browser` verifies the real loop, keyboard, interruptions, and fallback; this subagent did not do that.
+**Parent-only:** `webdev-mcp` after the Local First hosting choice and a fresh isolated project; declare diagnostics, `runtime/dev-commands`, `/routes.json`, and confirm Managed Git checkpoint recording. Do not initialize during analysis or mistake a local Git commit for a saved Client version. Cascade builds thin slices with the fixture and invariants in context. `desktop-in-app-browser` verifies the real loop, keyboard, interruptions, and fallback; this subagent did not do that.
 
 **Parent-only:** `video-editor` imports actual screen capture, adds the 15-second captions on an editable timeline, then exports; never generate a reenactment of working UI. Use its skill and optional Alchemy for direction, not correctness. `slides` is optional for one model-assumption explanation after the loop. Do not force Game Dev, image generation, automations, a paid Cloud Computer, or runtime AI into a deterministic teaching instrument. Required Emil/Apple skills guide slice 5; build-principles/poteto guide all slices. A narrow read-only reviewer can check trace/renderer parity after tests work; orchestration belongs to the parent.
 

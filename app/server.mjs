@@ -102,5 +102,5 @@ export const server = createServer(async (req, res) => {
 });
 
 if (import.meta.url === `file://${process.argv[1]}`) {
-  server.listen(PORT, HOST, () => console.log(`Architecture Magic listening on http://${HOST}:${PORT}`));
+  server.listen(PORT, HOST, () => console.log(`Architecture Relive listening on http://${HOST}:${PORT}`));
 }

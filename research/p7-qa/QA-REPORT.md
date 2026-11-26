@@ -1,4 +1,4 @@
-# Nave / Architecture Magic — browser QA
+# Nave / Architecture Relive — browser QA
 
 **Baseline:** the version transferred at 22:23 +08 on 25 November 2026. **Capture:** 22:30:16–22:33:10 +08. QA only; no application fixes. All **48 application files are byte-for-byte unchanged**, confirmed by SHA-256 before/after comparison in `read-only-check.json`.
 

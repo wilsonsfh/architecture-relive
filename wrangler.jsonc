@@ -1,6 +1,6 @@
 {
   "$schema": "https://developers.cloudflare.com/workers/wrangler/config-schema.json",
-  "name": "architecture-magic",
+  "name": "architecture-relive",
   "compatibility_date": "2026-11-24",
   "workers_dev": true,
   "assets": {

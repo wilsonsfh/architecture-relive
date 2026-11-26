@@ -14,7 +14,7 @@ function getClient() {
     apiKey: process.env.OPENROUTER_API_KEY,
     baseURL: process.env.OPENROUTER_BASE_URL || 'https://openrouter.ai/api/v1',
     timeout: 25000, maxRetries: 0,
-    defaultHeaders: { 'X-Title': 'Architecture Magic' },
+    defaultHeaders: { 'X-Title': 'Architecture Relive' },
   });
   return client;
 }

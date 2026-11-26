@@ -83,7 +83,7 @@ export function storyboard(scene, b, idx = 0) {
     const q = (re) => re.test(tx);
     if (q(/fire|burn|blaze|flame/)) return ['fire', () => [flames(200, 120), crowd(false)]];
     if (q(/revolution|desecrat|destroy|damag|fractur|sack|collaps|ruin/)) return [q(/revolution/) ? 'revolution' : 'damage', () => [crowd(true), crack()]];
-    if (q(/novel|book|hugo|wrote|writ|manuscript|poem/)) return ['the book', () => [book()]];
+    if (q(/novel|book|hugo|wrote|writ|clientcript|poem/)) return ['the book', () => [book()]];
     if (q(/halt|stop|stalled|unfinished|abandon|paus/)) return ['work halts', () => [crane(320, true), P('M150 120L250 120', 'stroke-dasharray="3 6"'), Pr('M200 100V130')]];
     if (q(/restor|repair|reopen|rebuil|renovat/)) return ['restoration', () => [scaffold(112, 110, 58, 140), crane(330), masons([90, 280])]];
     if (q(/buttress|vault|\brib\b|height|tall|taller|tallest|props/)) return [q(/buttress|props/) ? 'flying buttress' : q(/vault|\brib\b/) ? 'rib vault' : 'height', () => [buttress()]];
